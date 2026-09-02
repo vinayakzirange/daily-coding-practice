@@ -1,0 +1,11 @@
+/*
+ * Problem: Factorial
+ * Approach: Recursion
+ * Time Complexity: O(N)
+ * Space Complexity: O(N) auxiliary stack space
+ */
+function factorial(n) {
+  if (n <= 1) return 1;
+  return n * factorial(n - 1);
+}
+console.log(factorial(5)); // 120
