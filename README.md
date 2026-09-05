@@ -13,7 +13,7 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📌 Repository Overview
 
 * **Objective:** Solve 10 genuine coding problems every single day.
-* **Focus Areas:** Arrays, Strings, Searching, Sorting, Hashing, Recursion, Linked Lists, Stacks, Queues, Binary Trees, Dynamic Programming, SQL.
+* **Focus Areas:** Arrays, Strings, Searching, Sorting, Hashing, Recursion, Linked Lists, Stacks, Queues, Binary Trees, Graphs, Dynamic Programming, SQL.
 * **Target Languages:** Java, JavaScript, SQL.
 
 ---
@@ -22,14 +22,29 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **30** |
-| **Current Streak** | **3 Days** |
+| **Total Problems Completed** | **40** |
+| **Current Streak** | **4 Days** 🔥 |
 | **Primary Languages** | Java, JavaScript, SQL |
 | **Current Branch** | `main` |
 
 ---
 
 ## 📅 Day-by-Day Index
+
+### 🔹 Day 004 — Advanced Trees, Two Pointers, Dynamic Programming, Graphs & SQL (Java / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Validate Binary Search Tree | Trees / BST Bounds | Java | [Solution](Day-004/01-Validate-Binary-Search-Tree/Solution.java) |
+| 02 | Container With Most Water | Two Pointers / Greedy | JavaScript | [Solution](Day-004/02-Container-With-Most-Water/solution.js) |
+| 03 | 3Sum | Two Pointers / Sorting | Java | [Solution](Day-004/03-3Sum/Solution.java) |
+| 04 | Merge Two Sorted Lists | Linked List / Pointers | JavaScript | [Solution](Day-004/04-Merge-Two-Sorted-Lists/solution.js) |
+| 05 | Word Break | Dynamic Programming | JavaScript | [Solution](Day-004/05-Word-Break/solution.js) |
+| 06 | Product of Array Except Self | Prefix / Suffix Products | Java | [Solution](Day-004/06-Product-of-Array-Except-Self/Solution.java) |
+| 07 | Min Stack | Stack Design / O(1) Min | JavaScript | [Solution](Day-004/07-Min-Stack/solution.js) |
+| 08 | Course Schedule (Graph Cycle) | Graph / Topological Sort | Java | [Solution](Day-004/08-Course-Schedule-Graph-Cycle/Solution.java) |
+| 09 | House Robber | Dynamic Programming | JavaScript | [Solution](Day-004/09-House-Robber/solution.js) |
+| 10 | Department Highest Salary | SQL / Window / Group | SQL | [Query](Day-004/10-Department-Highest-Salary/query.sql) |
 
 ### 🔹 Day 003 — Fast/Slow Pointers, Trees, Dynamic Programming & Hard Interview Problems (Java / JS / SQL)
 
@@ -90,16 +105,19 @@ daily-coding-practice/
 │   └── ...10 Java/JS/SQL problems...
 │
 ├── Day-003/
-│   ├── 01-Detect-Cycle-Linked-List/
-│   ├── 02-Implement-Queue-Using-Stacks/
-│   ├── 03-Lowest-Common-Ancestor-BST/
-│   ├── 04-Maximum-Subarray-Kadanes-Algorithm/
-│   ├── 05-Longest-Palindromic-Substring/
-│   ├── 06-Coin-Change/
-│   ├── 07-Binary-Tree-Inorder-Traversal/
-│   ├── 08-Top-K-Frequent-Elements/
-│   ├── 09-Trapping-Rain-Water/
-│   └── 10-Employees-Earning-More-Than-Managers/
+│   └── ...10 Java/JS/SQL problems...
+│
+├── Day-004/
+│   ├── 01-Validate-Binary-Search-Tree/
+│   ├── 02-Container-With-Most-Water/
+│   ├── 03-3Sum/
+│   ├── 04-Merge-Two-Sorted-Lists/
+│   ├── 05-Word-Break/
+│   ├── 06-Product-of-Array-Except-Self/
+│   ├── 07-Min-Stack/
+│   ├── 08-Course-Schedule-Graph-Cycle/
+│   ├── 09-House-Robber/
+│   └── 10-Department-Highest-Salary/
 │
 ├── .gitignore
 ├── LICENSE
