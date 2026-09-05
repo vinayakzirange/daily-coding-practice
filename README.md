@@ -13,7 +13,7 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📌 Repository Overview
 
 * **Objective:** Solve 10 genuine coding problems every single day.
-* **Focus Areas:** Arrays, Strings, Searching, Sorting, Hashing, Recursion, Linked Lists, Stack, Queue, Heap, Dynamic Programming, SQL.
+* **Focus Areas:** Arrays, Strings, Searching, Sorting, Hashing, Recursion, Linked Lists, Stacks, Queues, Binary Trees, Dynamic Programming, SQL.
 * **Target Languages:** Java, JavaScript, SQL.
 
 ---
@@ -22,14 +22,29 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **20** |
-| **Current Streak** | **2 Days** |
+| **Total Problems Completed** | **30** |
+| **Current Streak** | **3 Days** |
 | **Primary Languages** | Java, JavaScript, SQL |
 | **Current Branch** | `main` |
 
 ---
 
 ## 📅 Day-by-Day Index
+
+### 🔹 Day 003 — Fast/Slow Pointers, Trees, Dynamic Programming & Hard Interview Problems (Java / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Linked List Cycle | Fast & Slow Pointers | Java | [Solution](Day-003/01-Detect-Cycle-Linked-List/Solution.java) |
+| 02 | Implement Queue using Stacks | Queue / Stack Design | JavaScript | [Solution](Day-003/02-Implement-Queue-Using-Stacks/solution.js) |
+| 03 | Lowest Common Ancestor of BST | Binary Search Tree | Java | [Solution](Day-003/03-Lowest-Common-Ancestor-BST/Solution.java) |
+| 04 | Maximum Subarray (Kadane's) | DP / Arrays | Java | [Solution](Day-003/04-Maximum-Subarray-Kadanes-Algorithm/Solution.java) |
+| 05 | Longest Palindromic Substring | Strings / Expand Center | JavaScript | [Solution](Day-003/05-Longest-Palindromic-Substring/solution.js) |
+| 06 | Coin Change | Unbounded DP | JavaScript | [Solution](Day-003/06-Coin-Change/solution.js) |
+| 07 | Binary Tree Inorder Traversal | Trees / DFS | Java | [Solution](Day-003/07-Binary-Tree-Inorder-Traversal/Solution.java) |
+| 08 | Top K Frequent Elements | PriorityQueue / Hashing | Java | [Solution](Day-003/08-Top-K-Frequent-Elements/Solution.java) |
+| 09 | Trapping Rain Water | Two Pointers / Arrays | JavaScript | [Solution](Day-003/09-Trapping-Rain-Water/solution.js) |
+| 10 | Employees Earning More Than Managers | SQL / Self Join | SQL | [Query](Day-003/10-Employees-Earning-More-Than-Managers/query.sql) |
 
 ### 🔹 Day 002 — Arrays, Sliding Window, Stacks, Linked Lists, Heaps & SQL (Java / JS / SQL)
 
@@ -72,16 +87,19 @@ daily-coding-practice/
 │   └── ...10 JavaScript problems...
 │
 ├── Day-002/
-│   ├── 01-Sort-Colors/
-│   ├── 02-Longest-Substring-Without-Repeating-Characters/
-│   ├── 03-Merge-Sorted-Array/
-│   ├── 04-Valid-Parentheses/
-│   ├── 05-Reverse-Linked-List/
-│   ├── 06-Intersection-of-Two-Arrays/
-│   ├── 07-Kth-Largest-Element/
-│   ├── 08-Group-Anagrams/
-│   ├── 09-Climbing-Stairs/
-│   └── 10-Second-Highest-Salary/
+│   └── ...10 Java/JS/SQL problems...
+│
+├── Day-003/
+│   ├── 01-Detect-Cycle-Linked-List/
+│   ├── 02-Implement-Queue-Using-Stacks/
+│   ├── 03-Lowest-Common-Ancestor-BST/
+│   ├── 04-Maximum-Subarray-Kadanes-Algorithm/
+│   ├── 05-Longest-Palindromic-Substring/
+│   ├── 06-Coin-Change/
+│   ├── 07-Binary-Tree-Inorder-Traversal/
+│   ├── 08-Top-K-Frequent-Elements/
+│   ├── 09-Trapping-Rain-Water/
+│   └── 10-Employees-Earning-More-Than-Managers/
 │
 ├── .gitignore
 ├── LICENSE
