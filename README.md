@@ -13,7 +13,7 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📌 Repository Overview
 
 * **Objective:** Solve 10 genuine coding problems every single day.
-* **Focus Areas:** Arrays, Strings, Searching, Sorting, Hashing, Recursion, Linked Lists, Stacks, Queues, Binary Trees, Graphs, Dynamic Programming, SQL.
+* **Focus Areas:** Arrays, Strings, Searching, Sorting, Hashing, Recursion, Linked Lists, Stacks, Queues, Binary Trees, Tries, Dynamic Programming, SQL.
 * **Target Languages:** Java, JavaScript, SQL.
 
 ---
@@ -22,14 +22,29 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **40** |
-| **Current Streak** | **4 Days** 🔥 |
+| **Total Problems Completed** | **50** |
+| **Current Streak** | **5 Days** 🔥 |
 | **Primary Languages** | Java, JavaScript, SQL |
 | **Current Branch** | `main` |
 
 ---
 
 ## 📅 Day-by-Day Index
+
+### 🔹 Day 005 — BFS, Tries, Dynamic Programming, Binary Search & SQL Window Functions (Java / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Binary Tree Level Order Traversal | BFS / Queue | Java | [Solution](Day-005/01-Binary-Tree-Level-Order-Traversal/Solution.java) |
+| 02 | Longest Consecutive Sequence | HashSet / O(N) | JavaScript | [Solution](Day-005/02-Longest-Consecutive-Sequence/solution.js) |
+| 03 | Lowest Common Ancestor of Binary Tree | Recursion / Trees | Java | [Solution](Day-005/03-Lowest-Common-Ancestor-Binary-Tree/Solution.java) |
+| 04 | Combination Sum | Backtracking | JavaScript | [Solution](Day-005/04-Combination-Sum/solution.js) |
+| 05 | Subarray Sum Equals K | Prefix Sum / Map | Java | [Solution](Day-005/05-Subarray-Sum-Equals-K/Solution.java) |
+| 06 | Search in Rotated Sorted Array | Binary Search | Java | [Solution](Day-005/06-Search-in-Rotated-Sorted-Array/Solution.java) |
+| 07 | Implement Trie (Prefix Tree) | Trie Design | JavaScript | [Solution](Day-005/07-Implement-Trie-Prefix-Tree/solution.js) |
+| 08 | Longest Increasing Subsequence | Dynamic Programming | Java | [Solution](Day-005/08-Longest-Increasing-Subsequence/Solution.java) |
+| 09 | Decode Ways | Dynamic Programming | JavaScript | [Solution](Day-005/09-Decode-Ways/solution.js) |
+| 10 | Rank Scores | SQL / DENSE_RANK | SQL | [Query](Day-005/10-Rank-Scores/query.sql) |
 
 ### 🔹 Day 004 — Advanced Trees, Two Pointers, Dynamic Programming, Graphs & SQL (Java / JS / SQL)
 
@@ -108,16 +123,19 @@ daily-coding-practice/
 │   └── ...10 Java/JS/SQL problems...
 │
 ├── Day-004/
-│   ├── 01-Validate-Binary-Search-Tree/
-│   ├── 02-Container-With-Most-Water/
-│   ├── 03-3Sum/
-│   ├── 04-Merge-Two-Sorted-Lists/
-│   ├── 05-Word-Break/
-│   ├── 06-Product-of-Array-Except-Self/
-│   ├── 07-Min-Stack/
-│   ├── 08-Course-Schedule-Graph-Cycle/
-│   ├── 09-House-Robber/
-│   └── 10-Department-Highest-Salary/
+│   └── ...10 Java/JS/SQL problems...
+│
+├── Day-005/
+│   ├── 01-Binary-Tree-Level-Order-Traversal/
+│   ├── 02-Longest-Consecutive-Sequence/
+│   ├── 03-Lowest-Common-Ancestor-Binary-Tree/
+│   ├── 04-Combination-Sum/
+│   ├── 05-Subarray-Sum-Equals-K/
+│   ├── 06-Search-in-Rotated-Sorted-Array/
+│   ├── 07-Implement-Trie-Prefix-Tree/
+│   ├── 08-Longest-Increasing-Subsequence/
+│   ├── 09-Decode-Ways/
+│   └── 10-Rank-Scores/
 │
 ├── .gitignore
 ├── LICENSE
