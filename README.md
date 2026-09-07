@@ -22,14 +22,29 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **50** |
-| **Current Streak** | **5 Days** 🔥 |
+| **Total Problems Completed** | **60** |
+| **Current Streak** | **6 Days** 🔥 |
 | **Primary Languages** | Java, JavaScript, SQL |
 | **Current Branch** | `main` |
 
 ---
 
 ## 📅 Day-by-Day Index
+
+### 🔹 Day 006 — Zigzag BFS, Sliding Window, Backtracking, PriorityQueue & SQL Functions (Java / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Binary Tree Zigzag Level Order Traversal | BFS / Deque | Java | [Solution](Day-006/01-Binary-Tree-Zigzag-Level-Order-Traversal/Solution.java) |
+| 02 | Longest Substring with At Most K Distinct Chars | Sliding Window | JavaScript | [Solution](Day-006/02-Longest-Substring-with-At-Most-K-Distinct-Characters/solution.js) |
+| 03 | Flatten Binary Tree to Linked List | Trees / In-place | Java | [Solution](Day-006/03-Flatten-Binary-Tree-to-Linked-List/Solution.java) |
+| 04 | Word Search in Grid | 2D Grid DFS / Backtrack | JavaScript | [Solution](Day-006/04-Word-Search-Matrix/solution.js) |
+| 05 | Kth Smallest Element in a BST | BST / Inorder Traversal | Java | [Solution](Day-006/05-Kth-Smallest-Element-in-BST/Solution.java) |
+| 06 | Merge k Sorted Lists | PriorityQueue / Min-Heap | Java | [Solution](Day-006/06-Merge-K-Sorted-Lists/Solution.java) |
+| 07 | Evaluate Reverse Polish Notation | Stack Evaluation | JavaScript | [Solution](Day-006/07-Evaluate-Reverse-Polish-Notation/solution.js) |
+| 08 | Partition Equal Subset Sum | 0-1 Knapsack DP | Java | [Solution](Day-006/08-Partition-Equal-Subset-Sum/Solution.java) |
+| 09 | Coin Change II | Unbounded DP | JavaScript | [Solution](Day-006/09-Coin-Change-2-Ways/solution.js) |
+| 10 | Nth Highest Salary Function | SQL Stored Function | SQL | [Query](Day-006/10-Nth-Highest-Salary-Function/query.sql) |
 
 ### 🔹 Day 005 — BFS, Tries, Dynamic Programming, Binary Search & SQL Window Functions (Java / JS / SQL)
 
@@ -126,16 +141,19 @@ daily-coding-practice/
 │   └── ...10 Java/JS/SQL problems...
 │
 ├── Day-005/
-│   ├── 01-Binary-Tree-Level-Order-Traversal/
-│   ├── 02-Longest-Consecutive-Sequence/
-│   ├── 03-Lowest-Common-Ancestor-Binary-Tree/
-│   ├── 04-Combination-Sum/
-│   ├── 05-Subarray-Sum-Equals-K/
-│   ├── 06-Search-in-Rotated-Sorted-Array/
-│   ├── 07-Implement-Trie-Prefix-Tree/
-│   ├── 08-Longest-Increasing-Subsequence/
-│   ├── 09-Decode-Ways/
-│   └── 10-Rank-Scores/
+│   └── ...10 Java/JS/SQL problems...
+│
+├── Day-006/
+│   ├── 01-Binary-Tree-Zigzag-Level-Order-Traversal/
+│   ├── 02-Longest-Substring-with-At-Most-K-Distinct-Characters/
+│   ├── 03-Flatten-Binary-Tree-to-Linked-List/
+│   ├── 04-Word-Search-Matrix/
+│   ├── 05-Kth-Smallest-Element-in-BST/
+│   ├── 06-Merge-K-Sorted-Lists/
+│   ├── 07-Evaluate-Reverse-Polish-Notation/
+│   ├── 08-Partition-Equal-Subset-Sum/
+│   ├── 09-Coin-Change-2-Ways/
+│   └── 10-Nth-Highest-Salary-Function/
 │
 ├── .gitignore
 ├── LICENSE
