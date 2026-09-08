@@ -22,14 +22,29 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **60** |
-| **Current Streak** | **6 Days** 🔥 |
+| **Total Problems Completed** | **70** |
+| **Current Streak** | **7 Days** 🔥 |
 | **Primary Languages** | Java, JavaScript, SQL |
 | **Current Branch** | `main` |
 
 ---
 
 ## 📅 Day-by-Day Index
+
+### 🔹 Day 007 — Tree Reconstruction, Grid DFS, Trie Search, Monotonic Deque & 2D DP (Java / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Construct Binary Tree from Preorder/Inorder | Divide & Conquer | Java | [Solution](Day-007/01-Construct-Binary-Tree-from-Preorder-and-Inorder/Solution.java) |
+| 02 | Longest Repeating Character Replacement | Sliding Window | JavaScript | [Solution](Day-007/02-Longest-Repeating-Character-Replacement/solution.js) |
+| 03 | Number of Islands | 2D Grid DFS | Java | [Solution](Day-007/03-Number-of-Islands-DFS/Solution.java) |
+| 04 | Letter Combinations of Phone Number | Backtracking | JavaScript | [Solution](Day-007/04-Letter-Combinations-Phone-Number/solution.js) |
+| 05 | Word Search II | Trie + Grid DFS | Java | [Solution](Day-007/05-Word-Search-II-Trie-DFS/Solution.java) |
+| 06 | Task Scheduler | Greedy / CPU | JavaScript | [Solution](Day-007/06-Task-Scheduler-PriorityQueue/solution.js) |
+| 07 | Sliding Window Maximum | Monotonic Deque | Java | [Solution](Day-007/07-Sliding-Window-Maximum/Solution.java) |
+| 08 | Longest Common Subsequence (LCS) | 2D DP | Java | [Solution](Day-007/08-Longest-Common-Subsequence-DP/Solution.java) |
+| 09 | Edit Distance (Levenshtein) | 2D DP / Strings | JavaScript | [Solution](Day-007/09-Edit-Distance-Levenshtein/solution.js) |
+| 10 | Consecutive Numbers | SQL / Window Functions | SQL | [Query](Day-007/10-Consecutive-Numbers-SQL/query.sql) |
 
 ### 🔹 Day 006 — Zigzag BFS, Sliding Window, Backtracking, PriorityQueue & SQL Functions (Java / JS / SQL)
 
@@ -144,16 +159,19 @@ daily-coding-practice/
 │   └── ...10 Java/JS/SQL problems...
 │
 ├── Day-006/
-│   ├── 01-Binary-Tree-Zigzag-Level-Order-Traversal/
-│   ├── 02-Longest-Substring-with-At-Most-K-Distinct-Characters/
-│   ├── 03-Flatten-Binary-Tree-to-Linked-List/
-│   ├── 04-Word-Search-Matrix/
-│   ├── 05-Kth-Smallest-Element-in-BST/
-│   ├── 06-Merge-K-Sorted-Lists/
-│   ├── 07-Evaluate-Reverse-Polish-Notation/
-│   ├── 08-Partition-Equal-Subset-Sum/
-│   ├── 09-Coin-Change-2-Ways/
-│   └── 10-Nth-Highest-Salary-Function/
+│   └── ...10 Java/JS/SQL problems...
+│
+├── Day-007/
+│   ├── 01-Construct-Binary-Tree-from-Preorder-and-Inorder/
+│   ├── 02-Longest-Repeating-Character-Replacement/
+│   ├── 03-Number-of-Islands-DFS/
+│   ├── 04-Letter-Combinations-Phone-Number/
+│   ├── 05-Word-Search-II-Trie-DFS/
+│   ├── 06-Task-Scheduler-PriorityQueue/
+│   ├── 07-Sliding-Window-Maximum/
+│   ├── 08-Longest-Common-Subsequence-DP/
+│   ├── 09-Edit-Distance-Levenshtein/
+│   └── 10-Consecutive-Numbers-SQL/
 │
 ├── .gitignore
 ├── LICENSE
