@@ -13,7 +13,7 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📌 Repository Overview
 
 * **Objective:** Solve 10 genuine coding problems every single day.
-* **Focus Areas:** Arrays, Strings, Searching, Sorting, Hashing, Recursion, Linked Lists, Stacks, Queues, Binary Trees, Tries, Dynamic Programming, SQL.
+* **Focus Areas:** Arrays, Strings, Searching, Sorting, Hashing, Recursion, Linked Lists, Stacks, Queues, Binary Trees, Heaps, Dynamic Programming, SQL.
 * **Target Languages:** Java, JavaScript, SQL.
 
 ---
@@ -22,14 +22,29 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **70** |
-| **Current Streak** | **7 Days** 🔥 |
+| **Total Problems Completed** | **80** |
+| **Current Streak** | **8 Days** 🔥 |
 | **Primary Languages** | Java, JavaScript, SQL |
 | **Current Branch** | `main` |
 
 ---
 
 ## 📅 Day-by-Day Index
+
+### 🔹 Day 008 — Tree Serialization, Multi-Source BFS, Two Heaps, Word Ladder & Matrix DP (Java / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Serialize and Deserialize Binary Tree | Tree Preorder / DFS | Java | [Solution](Day-008/01-Serialize-and-Deserialize-Binary-Tree/Solution.java) |
+| 02 | Pacific Atlantic Water Flow | 2D Grid Multi-Source BFS | JavaScript | [Solution](Day-008/02-Pacific-Atlantic-Water-Flow/solution.js) |
+| 03 | Find Median from Data Stream | Two Heaps Design | Java | [Solution](Day-008/03-Find-Median-from-Data-Stream/Solution.java) |
+| 04 | Palindromic Substrings Count | Expand Center / DP | JavaScript | [Solution](Day-008/04-Palindromic-Substrings-Count/solution.js) |
+| 05 | Word Ladder | Graph BFS / Shortest Path | Java | [Solution](Day-008/05-Word-Ladder-BFS/Solution.java) |
+| 06 | Decode String | Nested Expression Stack | JavaScript | [Solution](Day-008/06-Decode-String-Stack/solution.js) |
+| 07 | Non-overlapping Intervals | Greedy Interval Sorting | Java | [Solution](Day-008/07-Non-Overlapping-Intervals/Solution.java) |
+| 08 | Longest Increasing Path in Matrix | 2D Grid DP + DFS | JavaScript | [Solution](Day-008/08-Longest-Increasing-Path-in-Matrix/solution.js) |
+| 09 | Maximum Product Subarray | Dynamic Programming | Java | [Solution](Day-008/09-Maximum-Product-Subarray/Solution.java) |
+| 10 | Tree Node Classification | SQL / CASE WHEN | SQL | [Query](Day-008/10-Tree-Node-Type-SQL/query.sql) |
 
 ### 🔹 Day 007 — Tree Reconstruction, Grid DFS, Trie Search, Monotonic Deque & 2D DP (Java / JS / SQL)
 
@@ -162,16 +177,19 @@ daily-coding-practice/
 │   └── ...10 Java/JS/SQL problems...
 │
 ├── Day-007/
-│   ├── 01-Construct-Binary-Tree-from-Preorder-and-Inorder/
-│   ├── 02-Longest-Repeating-Character-Replacement/
-│   ├── 03-Number-of-Islands-DFS/
-│   ├── 04-Letter-Combinations-Phone-Number/
-│   ├── 05-Word-Search-II-Trie-DFS/
-│   ├── 06-Task-Scheduler-PriorityQueue/
-│   ├── 07-Sliding-Window-Maximum/
-│   ├── 08-Longest-Common-Subsequence-DP/
-│   ├── 09-Edit-Distance-Levenshtein/
-│   └── 10-Consecutive-Numbers-SQL/
+│   └── ...10 Java/JS/SQL problems...
+│
+├── Day-008/
+│   ├── 01-Serialize-and-Deserialize-Binary-Tree/
+│   ├── 02-Pacific-Atlantic-Water-Flow/
+│   ├── 03-Find-Median-from-Data-Stream/
+│   ├── 04-Palindromic-Substrings-Count/
+│   ├── 05-Word-Ladder-BFS/
+│   ├── 06-Decode-String-Stack/
+│   ├── 07-Non-Overlapping-Intervals/
+│   ├── 08-Longest-Increasing-Path-in-Matrix/
+│   ├── 09-Maximum-Product-Subarray/
+│   └── 10-Tree-Node-Type-SQL/
 │
 ├── .gitignore
 ├── LICENSE
