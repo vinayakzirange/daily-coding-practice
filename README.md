@@ -13,7 +13,7 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📌 Repository Overview
 
 * **Objective:** Solve 10 genuine coding problems every single day.
-* **Focus Areas:** Arrays, Strings, Searching, Sorting, Hashing, Recursion, Linked Lists, Stacks, Queues, Binary Trees, Heaps, Dynamic Programming, SQL.
+* **Focus Areas:** Arrays, Strings, Searching, Sorting, Hashing, Recursion, Linked Lists, Stacks, Queues, Binary Trees, Tries, Disjoint Sets, Dynamic Programming, SQL.
 * **Target Languages:** Java, JavaScript, SQL.
 
 ---
@@ -22,14 +22,29 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **80** |
-| **Current Streak** | **8 Days** 🔥 |
+| **Total Problems Completed** | **90** |
+| **Current Streak** | **9 Days** 🔥 |
 | **Primary Languages** | Java, JavaScript, SQL |
 | **Current Branch** | `main` |
 
 ---
 
 ## 📅 Day-by-Day Index
+
+### 🔹 Day 009 — Tree Path Max, LRU Cache, Disjoint Sets, Monotonic Stack & Fast LIS (Java / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Binary Tree Maximum Path Sum | Postorder Tree DP | Java | [Solution](Day-009/01-Binary-Tree-Maximum-Path-Sum/Solution.java) |
+| 02 | Course Schedule II | Topological Sort BFS | JavaScript | [Solution](Day-009/02-Course-Schedule-II-Order/solution.js) |
+| 03 | LRU Cache Design | HashMap + Doubly LinkedList | Java | [Solution](Day-009/03-LRU-Cache-Design/Solution.java) |
+| 04 | Subsets (Power Set) | Backtracking | JavaScript | [Solution](Day-009/04-Subsets-Backtracking/solution.js) |
+| 05 | Kth Smallest in Sorted Matrix | Binary Search / Range | Java | [Solution](Day-009/05-Kth-Smallest-Element-in-Sorted-Matrix/Solution.java) |
+| 06 | Daily Temperatures | Monotonic Stack | JavaScript | [Solution](Day-009/06-Daily-Temperatures-Monotonic-Stack/solution.js) |
+| 07 | Graph Valid Tree | Union-Find / DSU | Java | [Solution](Day-009/07-Graph-Valid-Tree/Solution.java) |
+| 08 | Longest Increasing Subsequence (Fast) | Patience Sorting O(N log N) | JavaScript | [Solution](Day-009/08-Longest-Increasing-Subsequence-Binary-Search/solution.js) |
+| 09 | Target Sum | 0-1 Knapsack DP | Java | [Solution](Day-009/09-Target-Sum-Knapsack/Solution.java) |
+| 10 | Exchange Seats | SQL / CASE WHEN | SQL | [Query](Day-009/10-Exchange-Seats-SQL/query.sql) |
 
 ### 🔹 Day 008 — Tree Serialization, Multi-Source BFS, Two Heaps, Word Ladder & Matrix DP (Java / JS / SQL)
 
@@ -180,16 +195,19 @@ daily-coding-practice/
 │   └── ...10 Java/JS/SQL problems...
 │
 ├── Day-008/
-│   ├── 01-Serialize-and-Deserialize-Binary-Tree/
-│   ├── 02-Pacific-Atlantic-Water-Flow/
-│   ├── 03-Find-Median-from-Data-Stream/
-│   ├── 04-Palindromic-Substrings-Count/
-│   ├── 05-Word-Ladder-BFS/
-│   ├── 06-Decode-String-Stack/
-│   ├── 07-Non-Overlapping-Intervals/
-│   ├── 08-Longest-Increasing-Path-in-Matrix/
-│   ├── 09-Maximum-Product-Subarray/
-│   └── 10-Tree-Node-Type-SQL/
+│   └── ...10 Java/JS/SQL problems...
+│
+├── Day-009/
+│   ├── 01-Binary-Tree-Maximum-Path-Sum/
+│   ├── 02-Course-Schedule-II-Order/
+│   ├── 03-LRU-Cache-Design/
+│   ├── 04-Subsets-Backtracking/
+│   ├── 05-Kth-Smallest-Element-in-Sorted-Matrix/
+│   ├── 06-Daily-Temperatures-Monotonic-Stack/
+│   ├── 07-Graph-Valid-Tree/
+│   ├── 08-Longest-Increasing-Subsequence-Binary-Search/
+│   ├── 09-Target-Sum-Knapsack/
+│   └── 10-Exchange-Seats-SQL/
 │
 ├── .gitignore
 ├── LICENSE
