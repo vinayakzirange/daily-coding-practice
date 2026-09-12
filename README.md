@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **100** 🎉 *(100 Milestone Reached!)* |
-| **Current Streak** | **10 Days** 🔥 |
+| **Total Problems Completed** | **110** 🎉 |
+| **Current Streak** | **11 Days** 🔥 |
 | **Current Mode** | 🟢 **Phase 1: Foundational Easy Phase** |
 | **Primary Languages** | Java, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟢 Phase 1: Foundational Easy Practice Phase
+
+#### 🔹 Day 011 — Foundational Easy Practice: Hash Maps, Binary Search, DP & SQL (Java / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Valid Anagram | Hash Map / Frequency Array | Java | [Solution](Day-011/01-Valid-Anagram-Hash/Solution.java) |
+| 02 | Reverse Vowels of a String | Two Pointers / String | JavaScript | [Solution](Day-011/02-Reverse-Vowels-of-a-String/solution.js) |
+| 03 | Contains Duplicate | HashSet Lookup | Java | [Solution](Day-011/03-Contains-Duplicate/Solution.java) |
+| 04 | Word Pattern | HashMap Character Mapping | JavaScript | [Solution](Day-011/04-Word-Pattern/solution.js) |
+| 05 | Length of Last Word | String Trimming & Scanning | Java | [Solution](Day-011/05-Length-of-Last-Word/Solution.java) |
+| 06 | First Unique Character in a String | Frequency Array / Map | JavaScript | [Solution](Day-011/06-First-Unique-Character-in-a-String/solution.js) |
+| 07 | Invert Binary Tree | Binary Tree Recursion | Java | [Solution](Day-011/07-Invert-Binary-Tree/Solution.java) |
+| 08 | Palindrome Linked List | Fast/Slow Pointers & Reverse | JavaScript | [Solution](Day-011/08-Linked-List-Palindrome/solution.js) |
+| 09 | Maximum Depth of Binary Tree | Tree DFS / Recursion | Java | [Solution](Day-011/09-Maximum-Depth-of-Binary-Tree/Solution.java) |
+| 10 | Employees With Missing Information | SQL / FULL OUTER JOIN / UNION | SQL | [Query](Day-011/10-Employees-With-Missing-Information-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 010 — 💯 100 Problems Milestone! Foundational Easy Mastery (Java / JS / SQL)
 
@@ -193,20 +210,20 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ```text
 daily-coding-practice/
 │
-├── Day-001/ to Day-009/
-│   └── ...90 Java/JS/SQL problems...
+├── Day-001/ to Day-010/
+│   └── ...100 Java/JS/SQL problems...
 │
-├── Day-010/
-│   ├── 01-Fizz-Buzz/
-│   ├── 02-Single-Number-XOR/
-│   ├── 03-Majority-Element-Boyer-Moore/
-│   ├── 04-Move-Zeroes-Pointers/
-│   ├── 05-Missing-Number-Math/
-│   ├── 06-Isomorphic-Strings/
-│   ├── 07-Symmetric-Tree/
-│   ├── 08-Intersection-of-Two-Linked-Lists/
-│   ├── 09-Pascal-Triangle/
-│   └── 10-Customers-Who-Never-Order-SQL/
+├── Day-011/
+│   ├── 01-Valid-Anagram-Hash/
+│   ├── 02-Reverse-Vowels-of-a-String/
+│   ├── 03-Contains-Duplicate/
+│   ├── 04-Word-Pattern/
+│   ├── 05-Length-of-Last-Word/
+│   ├── 06-First-Unique-Character-in-a-String/
+│   ├── 07-Invert-Binary-Tree/
+│   ├── 08-Linked-List-Palindrome/
+│   ├── 09-Maximum-Depth-of-Binary-Tree/
+│   └── 10-Employees-With-Missing-Information-SQL/
 │
 ├── .gitignore
 ├── LICENSE
