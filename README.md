@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **110** 🎉 |
-| **Current Streak** | **11 Days** 🔥 |
+| **Total Problems Completed** | **120** 🎉 |
+| **Current Streak** | **12 Days** 🔥 |
 | **Current Mode** | 🟢 **Phase 1: Foundational Easy Phase** |
 | **Primary Languages** | Java, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟢 Phase 1: Foundational Easy Practice Phase
+
+#### 🔹 Day 012 — Foundational Easy Practice: String Modification, Trees, Hash Maps & SQL (Java / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Valid Palindrome II | Two Pointers / String | Java | [Solution](Day-012/01-Valid-Palindrome-II/Solution.java) |
+| 02 | Move Zeroes In-Place | Two Pointers / Array | JavaScript | [Solution](Day-012/02-Move-Zeroes-In-Place/solution.js) |
+| 03 | Intersection of Two Arrays II | HashMap / Frequency Array | Java | [Solution](Day-012/03-Intersection-of-Two-Arrays-II/Solution.java) |
+| 04 | Ransom Note | HashMap / Frequency Array | JavaScript | [Solution](Day-012/04-Ransom-Note/solution.js) |
+| 05 | Is Subsequence | Two Pointers | Java | [Solution](Day-012/05-Is-Subsequence/Solution.java) |
+| 06 | Find the Difference | Bit Manipulation / XOR | JavaScript | [Solution](Day-012/06-Find-the-Difference/solution.js) |
+| 07 | Path Sum | Binary Tree / DFS | Java | [Solution](Day-012/07-Path-Sum/Solution.java) |
+| 08 | Convert Sorted Array to BST | BST / Divide & Conquer | JavaScript | [Solution](Day-012/08-Convert-Sorted-Array-to-BST/solution.js) |
+| 09 | Rearrange Products Table | SQL / UNPIVOT / UNION | SQL | [Query](Day-012/09-Rearrange-Products-Table-SQL/query.sql) |
+| 10 | Calculate Special Bonus | SQL / CASE WHEN / IF / MOD | SQL | [Query](Day-012/10-Calculate-Special-Bonus-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 011 — Foundational Easy Practice: Hash Maps, Binary Search, DP & SQL (Java / JS / SQL)
 
@@ -210,20 +227,20 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ```text
 daily-coding-practice/
 │
-├── Day-001/ to Day-010/
-│   └── ...100 Java/JS/SQL problems...
+├── Day-001/ to Day-011/
+│   └── ...110 Java/JS/SQL problems...
 │
-├── Day-011/
-│   ├── 01-Valid-Anagram-Hash/
-│   ├── 02-Reverse-Vowels-of-a-String/
-│   ├── 03-Contains-Duplicate/
-│   ├── 04-Word-Pattern/
-│   ├── 05-Length-of-Last-Word/
-│   ├── 06-First-Unique-Character-in-a-String/
-│   ├── 07-Invert-Binary-Tree/
-│   ├── 08-Linked-List-Palindrome/
-│   ├── 09-Maximum-Depth-of-Binary-Tree/
-│   └── 10-Employees-With-Missing-Information-SQL/
+├── Day-012/
+│   ├── 01-Valid-Palindrome-II/
+│   ├── 02-Move-Zeroes-In-Place/
+│   ├── 03-Intersection-of-Two-Arrays-II/
+│   ├── 04-Ransom-Note/
+│   ├── 05-Is-Subsequence/
+│   ├── 06-Find-the-Difference/
+│   ├── 07-Path-Sum/
+│   ├── 08-Convert-Sorted-Array-to-BST/
+│   ├── 09-Rearrange-Products-Table-SQL/
+│   └── 10-Calculate-Special-Bonus-SQL/
 │
 ├── .gitignore
 ├── LICENSE
