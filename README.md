@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **120** 🎉 |
-| **Current Streak** | **12 Days** 🔥 |
+| **Total Problems Completed** | **130** 🎉 |
+| **Current Streak** | **13 Days** 🔥 |
 | **Current Mode** | 🟢 **Phase 1: Foundational Easy Phase** |
 | **Primary Languages** | Java, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟢 Phase 1: Foundational Easy Practice Phase
+
+#### 🔹 Day 013 — Foundational Easy Practice: Arrays, Trees, Sliding Window, String Matching & SQL (Java / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Longest Harmonious Subsequence | HashMap / Counting | Java | [Solution](Day-013/01-Longest-Harmonious-Subsequence/Solution.java) |
+| 02 | Find All Numbers Disappeared in an Array | Array / In-Place Marking | JavaScript | [Solution](Day-013/02-Find-All-Numbers-Disappeared-in-an-Array/solution.js) |
+| 03 | Construct String from Binary Tree | Binary Tree / DFS Preorder | Java | [Solution](Day-013/03-Construct-String-from-Binary-Tree/Solution.java) |
+| 04 | Max Consecutive Ones | Array / Sliding Counter | JavaScript | [Solution](Day-013/04-Max-Consecutive-Ones/solution.js) |
+| 05 | Subtree of Another Tree | Binary Tree / Tree Matching | Java | [Solution](Day-013/05-Subtree-of-Another-Tree/Solution.java) |
+| 06 | Maximum Average Subarray I | Sliding Window / Fixed Size | JavaScript | [Solution](Day-013/06-Maximum-Average-Subarray-I/solution.js) |
+| 07 | Binary Tree Paths | Binary Tree / Backtracking / DFS | Java | [Solution](Day-013/07-Binary-Tree-Paths/Solution.java) |
+| 08 | Keyboard Row | Set / String Filtering | JavaScript | [Solution](Day-013/08-Keyboard-Row/solution.js) |
+| 09 | Group Sold Products By The Date | SQL / GROUP_CONCAT / GROUP BY | SQL | [Query](Day-013/09-Group-Sold-Products-By-The-Date-SQL/query.sql) |
+| 10 | Patient With Conditions | SQL / String Matching / LIKE / Regex | SQL | [Query](Day-013/10-Patient-With-Conditions-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 012 — Foundational Easy Practice: String Modification, Trees, Hash Maps & SQL (Java / JS / SQL)
 
@@ -227,20 +244,20 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ```text
 daily-coding-practice/
 │
-├── Day-001/ to Day-011/
-│   └── ...110 Java/JS/SQL problems...
+├── Day-001/ to Day-012/
+│   └── ...120 Java/JS/SQL problems...
 │
-├── Day-012/
-│   ├── 01-Valid-Palindrome-II/
-│   ├── 02-Move-Zeroes-In-Place/
-│   ├── 03-Intersection-of-Two-Arrays-II/
-│   ├── 04-Ransom-Note/
-│   ├── 05-Is-Subsequence/
-│   ├── 06-Find-the-Difference/
-│   ├── 07-Path-Sum/
-│   ├── 08-Convert-Sorted-Array-to-BST/
-│   ├── 09-Rearrange-Products-Table-SQL/
-│   └── 10-Calculate-Special-Bonus-SQL/
+├── Day-013/
+│   ├── 01-Longest-Harmonious-Subsequence/
+│   ├── 02-Find-All-Numbers-Disappeared-in-an-Array/
+│   ├── 03-Construct-String-from-Binary-Tree/
+│   ├── 04-Max-Consecutive-Ones/
+│   ├── 05-Subtree-of-Another-Tree/
+│   ├── 06-Maximum-Average-Subarray-I/
+│   ├── 07-Binary-Tree-Paths/
+│   ├── 08-Keyboard-Row/
+│   ├── 09-Group-Sold-Products-By-The-Date-SQL/
+│   └── 10-Patient-With-Conditions-SQL/
 │
 ├── .gitignore
 ├── LICENSE
