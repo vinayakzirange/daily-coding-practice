@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **130** 🎉 |
-| **Current Streak** | **13 Days** 🔥 |
+| **Total Problems Completed** | **140** 🎉 |
+| **Current Streak** | **14 Days** 🔥 |
 | **Current Mode** | 🟢 **Phase 1: Foundational Easy Phase** |
 | **Primary Languages** | Java, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟢 Phase 1: Foundational Easy Practice Phase
+
+#### 🔹 Day 014 — Foundational Easy Practice: Arrays, Math, Trees, Strings, Bit Manipulation & SQL (Java / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Third Maximum Number | Array / Set / Linear Scan | Java | [Solution](Day-014/01-Third-Maximum-Number/Solution.java) |
+| 02 | Construct the Rectangle | Math / Square Root Bounds | JavaScript | [Solution](Day-014/02-Construct-the-Rectangle/solution.js) |
+| 03 | Minimum Absolute Difference in BST | Binary Search Tree / Inorder Traversal | Java | [Solution](Day-014/03-Minimum-Absolute-Difference-in-BST/Solution.java) |
+| 04 | Detect Capital | String / Case Rule Verification | JavaScript | [Solution](Day-014/04-Detect-Capital/solution.js) |
+| 05 | Diameter of Binary Tree | Binary Tree / DFS Postorder | Java | [Solution](Day-014/05-Diameter-of-Binary-Tree/Solution.java) |
+| 06 | Student Attendance Record I | String Scanning / Rule Check | JavaScript | [Solution](Day-014/06-Student-Attendance-Record-I/solution.js) |
+| 07 | Binary Number with Alternating Bits | Bit Manipulation | Java | [Solution](Day-014/07-Binary-Number-with-Alternating-Bits/Solution.java) |
+| 08 | Binary Search Standard Template | Binary Search | JavaScript | [Solution](Day-014/08-Binary-Search-Template/solution.js) |
+| 09 | Fix Names in a Table | SQL / String Manipulation / CONCAT / UPPER / LOWER | SQL | [Query](Day-014/09-Fix-Names-in-a-Table-SQL/query.sql) |
+| 10 | Top Travellers | SQL / LEFT JOIN / IFNULL / SUM / GROUP BY | SQL | [Query](Day-014/10-Top-Travellers-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 013 — Foundational Easy Practice: Arrays, Trees, Sliding Window, String Matching & SQL (Java / JS / SQL)
 
@@ -244,20 +261,20 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ```text
 daily-coding-practice/
 │
-├── Day-001/ to Day-012/
-│   └── ...120 Java/JS/SQL problems...
+├── Day-001/ to Day-013/
+│   └── ...130 Java/JS/SQL problems...
 │
-├── Day-013/
-│   ├── 01-Longest-Harmonious-Subsequence/
-│   ├── 02-Find-All-Numbers-Disappeared-in-an-Array/
-│   ├── 03-Construct-String-from-Binary-Tree/
-│   ├── 04-Max-Consecutive-Ones/
-│   ├── 05-Subtree-of-Another-Tree/
-│   ├── 06-Maximum-Average-Subarray-I/
-│   ├── 07-Binary-Tree-Paths/
-│   ├── 08-Keyboard-Row/
-│   ├── 09-Group-Sold-Products-By-The-Date-SQL/
-│   └── 10-Patient-With-Conditions-SQL/
+├── Day-014/
+│   ├── 01-Third-Maximum-Number/
+│   ├── 02-Construct-the-Rectangle/
+│   ├── 03-Minimum-Absolute-Difference-in-BST/
+│   ├── 04-Detect-Capital/
+│   ├── 05-Diameter-of-Binary-Tree/
+│   ├── 06-Student-Attendance-Record-I/
+│   ├── 07-Binary-Number-with-Alternating-Bits/
+│   ├── 08-Binary-Search-Template/
+│   ├── 09-Fix-Names-in-a-Table-SQL/
+│   └── 10-Top-Travellers-SQL/
 │
 ├── .gitignore
 ├── LICENSE
