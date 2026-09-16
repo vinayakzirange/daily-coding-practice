@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **140** 🎉 |
-| **Current Streak** | **14 Days** 🔥 |
+| **Total Problems Completed** | **150** 🎉 *(150 Milestone Reached!)* |
+| **Current Streak** | **15 Days** 🔥 |
 | **Current Mode** | 🟢 **Phase 1: Foundational Easy Phase** |
 | **Primary Languages** | Java, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟢 Phase 1: Foundational Easy Practice Phase
+
+#### 🔹 Day 015 — 💯 150 Problems Milestone! Foundational Easy Mastery (Java / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | 150 Problems Milestone & Phase 1 Mastery Summary | Milestone Overview | Java | [Solution](Day-015/01-%F0%9F%AF-150-Problems-Milestone-Summary/Solution.java) |
+| 02 | Design HashSet | Data Structure Design / Hash Map | JavaScript | [Solution](Day-015/02-Design-HashSet/solution.js) |
+| 03 | Flood Fill Algorithm | 2D Grid / DFS / Graph Traversal | Java | [Solution](Day-015/03-Flood-Fill/Solution.java) |
+| 04 | To Lower Case | String / ASCII Character Conversion | JavaScript | [Solution](Day-015/04-To-Lower-Case/solution.js) |
+| 05 | Leaf-Similar Trees | Binary Tree / DFS Leaf Sequence | Java | [Solution](Day-015/05-Leaf-Similar-Trees/Solution.java) |
+| 06 | Middle of the Linked List | Linked List / Fast & Slow Pointers | JavaScript | [Solution](Day-015/06-Middle-of-the-Linked-List/solution.js) |
+| 07 | Search in a Binary Search Tree | Binary Search Tree / Search recursion | Java | [Solution](Day-015/07-Search-in-a-Binary-Search-Tree/Solution.java) |
+| 08 | Valid Mountain Array | Two Pointers / Array Scan | JavaScript | [Solution](Day-015/08-Valid-Mountain-Array/solution.js) |
+| 09 | Find Total Time Spent by Each Employee | SQL / SUM / GROUP BY / Date Functions | SQL | [Query](Day-015/09-Find-Total-Time-Spent-by-Each-Employee-SQL/query.sql) |
+| 10 | Bank Account Summary II | SQL / JOIN / GROUP BY / HAVING / SUM | SQL | [Query](Day-015/10-Bank-Account-Summary-II-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 014 — Foundational Easy Practice: Arrays, Math, Trees, Strings, Bit Manipulation & SQL (Java / JS / SQL)
 
@@ -261,20 +278,20 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ```text
 daily-coding-practice/
 │
-├── Day-001/ to Day-013/
-│   └── ...130 Java/JS/SQL problems...
+├── Day-001/ to Day-014/
+│   └── ...140 Java/JS/SQL problems...
 │
-├── Day-014/
-│   ├── 01-Third-Maximum-Number/
-│   ├── 02-Construct-the-Rectangle/
-│   ├── 03-Minimum-Absolute-Difference-in-BST/
-│   ├── 04-Detect-Capital/
-│   ├── 05-Diameter-of-Binary-Tree/
-│   ├── 06-Student-Attendance-Record-I/
-│   ├── 07-Binary-Number-with-Alternating-Bits/
-│   ├── 08-Binary-Search-Template/
-│   ├── 09-Fix-Names-in-a-Table-SQL/
-│   └── 10-Top-Travellers-SQL/
+├── Day-015/
+│   ├── 01-💯-150-Problems-Milestone-Summary/
+│   ├── 02-Design-HashSet/
+│   ├── 03-Flood-Fill/
+│   ├── 04-To-Lower-Case/
+│   ├── 05-Leaf-Similar-Trees/
+│   ├── 06-Middle-of-the-Linked-List/
+│   ├── 07-Search-in-a-Binary-Search-Tree/
+│   ├── 08-Valid-Mountain-Array/
+│   ├── 09-Find-Total-Time-Spent-by-Each-Employee-SQL/
+│   └── 10-Bank-Account-Summary-II-SQL/
 │
 ├── .gitignore
 ├── LICENSE
