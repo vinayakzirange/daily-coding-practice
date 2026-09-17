@@ -22,15 +22,34 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **150** 🎉 *(150 Milestone Reached!)* |
-| **Current Streak** | **15 Days** 🔥 |
-| **Current Mode** | 🟢 **Phase 1: Foundational Easy Phase** |
+| **Total Problems Completed** | **160** 🎉 |
+| **Current Streak** | **16 Days** 🔥 |
+| **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Java, JavaScript, SQL |
 | **Current Branch** | `main` |
 
 ---
 
 ## 📅 Day-by-Day Index
+
+### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 016 — 🟡 Phase 2 Transition! Medium Practice: 3Sum, Container Water, Sliding Window, Islands DFS & DP (Java / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | 3Sum | Two Pointers / Sorting | Java | [Solution](Day-016/01-3Sum-Two-Pointers/Solution.java) |
+| 02 | Container With Most Water | Two Pointers / Greedy | JavaScript | [Solution](Day-016/02-Container-With-Most-Water/solution.js) |
+| 03 | Longest Substring Without Repeating Characters | Sliding Window / HashMap | Java | [Solution](Day-016/03-Longest-Substring-Without-Repeating-Characters/Solution.java) |
+| 04 | Group Anagrams | HashMap / String Sorting / Categorization | JavaScript | [Solution](Day-016/04-Group-Anagrams-Categorization/solution.js) |
+| 05 | Product of Array Except Self | Array / Prefix & Suffix Products | Java | [Solution](Day-016/05-Product-of-Array-Except-Self/Solution.java) |
+| 06 | Number of Islands | 2D Grid / DFS / Connected Components | JavaScript | [Solution](Day-016/06-Number-of-Islands-Grid-DFS/solution.js) |
+| 07 | Validate Binary Search Tree | Binary Search Tree / Tree Recursion with Bounds | Java | [Solution](Day-016/07-Validate-Binary-Search-Tree/Solution.java) |
+| 08 | Coin Change | Dynamic Programming / Unbounded Knapsack | JavaScript | [Solution](Day-016/08-Coin-Change-DP/solution.js) |
+| 09 | Department Highest Salary | SQL / Subquery / IN / MAX / GROUP BY | SQL | [Query](Day-016/09-Department-Highest-Salary-SQL/query.sql) |
+| 10 | Rank Scores | SQL / DENSE_RANK Window Function | SQL | [Query](Day-016/10-Rank-Scores-Window-Function-SQL/query.sql) |
+
+---
 
 ### 🟢 Phase 1: Foundational Easy Practice Phase
 
@@ -278,20 +297,20 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ```text
 daily-coding-practice/
 │
-├── Day-001/ to Day-014/
-│   └── ...140 Java/JS/SQL problems...
+├── Day-001/ to Day-015/
+│   └── ...150 Java/JS/SQL problems (Phase 1 Easy)...
 │
-├── Day-015/
-│   ├── 01-💯-150-Problems-Milestone-Summary/
-│   ├── 02-Design-HashSet/
-│   ├── 03-Flood-Fill/
-│   ├── 04-To-Lower-Case/
-│   ├── 05-Leaf-Similar-Trees/
-│   ├── 06-Middle-of-the-Linked-List/
-│   ├── 07-Search-in-a-Binary-Search-Tree/
-│   ├── 08-Valid-Mountain-Array/
-│   ├── 09-Find-Total-Time-Spent-by-Each-Employee-SQL/
-│   └── 10-Bank-Account-Summary-II-SQL/
+├── Day-016/
+│   ├── 01-3Sum-Two-Pointers/
+│   ├── 02-Container-With-Most-Water/
+│   ├── 03-Longest-Substring-Without-Repeating-Characters/
+│   ├── 04-Group-Anagrams-Categorization/
+│   ├── 05-Product-of-Array-Except-Self/
+│   ├── 06-Number-of-Islands-Grid-DFS/
+│   ├── 07-Validate-Binary-Search-Tree/
+│   ├── 08-Coin-Change-DP/
+│   ├── 09-Department-Highest-Salary-SQL/
+│   └── 10-Rank-Scores-Window-Function-SQL/
 │
 ├── .gitignore
 ├── LICENSE
