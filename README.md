@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **160** 🎉 |
-| **Current Streak** | **16 Days** 🔥 |
+| **Total Problems Completed** | **170** 🎉 |
+| **Current Streak** | **17 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Java, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 017 — Phase 2 Medium Practice: Prefix Sum, Palindromes, Topological Sort, LIS, BFS & DP (Java / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Subarray Sum Equals K | Prefix Sum / HashMap | Java | [Solution](Day-017/01-Subarray-Sum-Equals-K/Solution.java) |
+| 02 | Longest Palindromic Substring | String / Expand Around Center | JavaScript | [Solution](Day-017/02-Longest-Palindromic-Substring/solution.js) |
+| 03 | Course Schedule | Graph / Topological Sort / BFS (Kahn's Algorithm) | Java | [Solution](Day-017/03-Course-Schedule-Topological-Sort/Solution.java) |
+| 04 | Longest Increasing Subsequence | Dynamic Programming | JavaScript | [Solution](Day-017/04-Longest-Increasing-Subsequence-DP/solution.js) |
+| 05 | Binary Tree Level Order Traversal | Binary Tree / BFS Queue Traversal | Java | [Solution](Day-017/05-Binary-Tree-Level-Order-Traversal-BFS/Solution.java) |
+| 06 | Word Search in 2D Grid | 2D Grid / Backtracking / DFS | JavaScript | [Solution](Day-017/06-Word-Search-Grid-Backtracking/solution.js) |
+| 07 | Kth Smallest Element in a BST | Binary Search Tree / Inorder Traversal | Java | [Solution](Day-017/07-Kth-Smallest-Element-in-a-BST/Solution.java) |
+| 08 | Decode Ways | Dynamic Programming / String Partitioning | JavaScript | [Solution](Day-017/08-Decode-Ways-DP/solution.js) |
+| 09 | Consecutive Numbers | SQL / Window Function / LEAD / LAG | SQL | [Query](Day-017/09-Consecutive-Numbers-SQL/query.sql) |
+| 10 | Nth Highest Salary Function | SQL / Stored Function / DENSE_RANK / LIMIT OFFSET | SQL | [Query](Day-017/10-Nth-Highest-Salary-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 016 — 🟡 Phase 2 Transition! Medium Practice: 3Sum, Container Water, Sliding Window, Islands DFS & DP (Java / JS / SQL)
 
@@ -300,17 +317,17 @@ daily-coding-practice/
 ├── Day-001/ to Day-015/
 │   └── ...150 Java/JS/SQL problems (Phase 1 Easy)...
 │
-├── Day-016/
-│   ├── 01-3Sum-Two-Pointers/
-│   ├── 02-Container-With-Most-Water/
-│   ├── 03-Longest-Substring-Without-Repeating-Characters/
-│   ├── 04-Group-Anagrams-Categorization/
-│   ├── 05-Product-of-Array-Except-Self/
-│   ├── 06-Number-of-Islands-Grid-DFS/
-│   ├── 07-Validate-Binary-Search-Tree/
-│   ├── 08-Coin-Change-DP/
-│   ├── 09-Department-Highest-Salary-SQL/
-│   └── 10-Rank-Scores-Window-Function-SQL/
+├── Day-016/ to Day-017/
+│   ├── 01-Subarray-Sum-Equals-K/
+│   ├── 02-Longest-Palindromic-Substring/
+│   ├── 03-Course-Schedule-Topological-Sort/
+│   ├── 04-Longest-Increasing-Subsequence-DP/
+│   ├── 05-Binary-Tree-Level-Order-Traversal-BFS/
+│   ├── 06-Word-Search-Grid-Backtracking/
+│   ├── 07-Kth-Smallest-Element-in-a-BST/
+│   ├── 08-Decode-Ways-DP/
+│   ├── 09-Consecutive-Numbers-SQL/
+│   └── 10-Nth-Highest-Salary-SQL/
 │
 ├── .gitignore
 ├── LICENSE
