@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **170** 🎉 |
-| **Current Streak** | **17 Days** 🔥 |
+| **Total Problems Completed** | **180** 🎉 |
+| **Current Streak** | **18 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Java, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 018 — Phase 2 Medium Practice: Rotated Search, Permutations, DP, Tries & SQL Window Functions (Java / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Search in Rotated Sorted Array | Binary Search / Array Rotation | Java | [Solution](Day-018/01-Rotated-Array-Search/Solution.java) |
+| 02 | Permutations | Backtracking / Recursion | JavaScript | [Solution](Day-018/02-Permutations-Backtracking/solution.js) |
+| 03 | Word Break | Dynamic Programming / HashSet | Java | [Solution](Day-018/03-Word-Break-DP/Solution.java) |
+| 04 | Lowest Common Ancestor of a Binary Tree | Binary Tree / DFS Postorder | JavaScript | [Solution](Day-018/04-Lowest-Common-Ancestor-Binary-Tree/solution.js) |
+| 05 | Sort Colors (Dutch National Flag Algorithm) | Three Pointers / In-Place Sorting | Java | [Solution](Day-018/05-Sort-Colors-Dutch-National-Flag/Solution.java) |
+| 06 | House Robber | Dynamic Programming / Space Optimization | JavaScript | [Solution](Day-018/06-House-Robber-DP/solution.js) |
+| 07 | Implement Trie (Prefix Tree) | Trie / Data Structure Design | Java | [Solution](Day-018/07-Implement-Trie-Prefix-Tree/Solution.java) |
+| 08 | Top K Frequent Elements | HashMap / Bucket Sort / Bucket Array | JavaScript | [Solution](Day-018/08-Top-K-Frequent-Elements-Heap/solution.js) |
+| 09 | Investments in 2016 | SQL / Subquery / COUNT OVER / Window Functions | SQL | [Query](Day-018/09-Investments-in-2016-SQL/query.sql) |
+| 10 | Friend Requests II: Who Has Most Friends | SQL / UNION ALL / GROUP BY / ORDER BY / LIMIT | SQL | [Query](Day-018/10-Friend-Requests-II-Who-Has-Most-Friends-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 017 — Phase 2 Medium Practice: Prefix Sum, Palindromes, Topological Sort, LIS, BFS & DP (Java / JS / SQL)
 
@@ -317,17 +334,17 @@ daily-coding-practice/
 ├── Day-001/ to Day-015/
 │   └── ...150 Java/JS/SQL problems (Phase 1 Easy)...
 │
-├── Day-016/ to Day-017/
-│   ├── 01-Subarray-Sum-Equals-K/
-│   ├── 02-Longest-Palindromic-Substring/
-│   ├── 03-Course-Schedule-Topological-Sort/
-│   ├── 04-Longest-Increasing-Subsequence-DP/
-│   ├── 05-Binary-Tree-Level-Order-Traversal-BFS/
-│   ├── 06-Word-Search-Grid-Backtracking/
-│   ├── 07-Kth-Smallest-Element-in-a-BST/
-│   ├── 08-Decode-Ways-DP/
-│   ├── 09-Consecutive-Numbers-SQL/
-│   └── 10-Nth-Highest-Salary-SQL/
+├── Day-016/ to Day-018/
+│   ├── 01-Rotated-Array-Search/
+│   ├── 02-Permutations-Backtracking/
+│   ├── 03-Word-Break-DP/
+│   ├── 04-Lowest-Common-Ancestor-Binary-Tree/
+│   ├── 05-Sort-Colors-Dutch-National-Flag/
+│   ├── 06-House-Robber-DP/
+│   ├── 07-Implement-Trie-Prefix-Tree/
+│   ├── 08-Top-K-Frequent-Elements-Heap/
+│   ├── 09-Investments-in-2016-SQL/
+│   └── 10-Friend-Requests-II-Who-Has-Most-Friends-SQL/
 │
 ├── .gitignore
 ├── LICENSE
