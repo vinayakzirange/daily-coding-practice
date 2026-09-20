@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **180** 🎉 |
-| **Current Streak** | **18 Days** 🔥 |
+| **Total Problems Completed** | **190** 🎉 |
+| **Current Streak** | **19 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Java, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 019 — Phase 2 Medium Practice: Subsets, Sliding Window, Tree Reconstruction, 2D DP & SQL Moving Averages (Java / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Subsets (Power Set) | Backtracking / Combinatorics | Java | [Solution](Day-019/01-Subsets-Power-Set-Backtracking/Solution.java) |
+| 02 | Longest Repeating Character Replacement | Sliding Window / HashMap Frequency | JavaScript | [Solution](Day-019/02-Longest-Repeating-Character-Replacement/solution.js) |
+| 03 | Construct Binary Tree from Preorder and Inorder Traversal | Binary Tree / Divide & Conquer / HashMap Indexing | Java | [Solution](Day-019/03-Construct-Binary-Tree-Preorder-Inorder/Solution.java) |
+| 04 | Task Scheduler | Greedy / Frequency Counting / CPU Intervals | JavaScript | [Solution](Day-019/04-Task-Scheduler-Greedy-PriorityQueue/solution.js) |
+| 05 | Longest Common Subsequence (LCS) | 2D Dynamic Programming / String Matching | Java | [Solution](Day-019/05-Longest-Common-Subsequence-DP/Solution.java) |
+| 06 | Letter Combinations of a Phone Number | Backtracking / Combination Mapping | JavaScript | [Solution](Day-019/06-Letter-Combinations-Phone-Number/solution.js) |
+| 07 | Partition Equal Subset Sum | Dynamic Programming / 0-1 Knapsack Subsets | Java | [Solution](Day-019/07-Partition-Equal-Subset-Sum-Knapsack/Solution.java) |
+| 08 | Evaluate Reverse Polish Notation (RPN) | Stack Evaluation / Postfix Expressions | JavaScript | [Solution](Day-019/08-Evaluate-Reverse-Polish-Notation-Stack/solution.js) |
+| 09 | Movie Rating | SQL / UNION ALL / Subqueries / GROUP BY / ORDER BY / LIMIT | SQL | [Query](Day-019/09-Movie-Rating-SQL/query.sql) |
+| 10 | Restaurant Growth 7-Day Moving Average | SQL / Moving Average / Window Function / DATESUB | SQL | [Query](Day-019/10-Restaurant-Growth-Window-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 018 — Phase 2 Medium Practice: Rotated Search, Permutations, DP, Tries & SQL Window Functions (Java / JS / SQL)
 
@@ -334,17 +351,17 @@ daily-coding-practice/
 ├── Day-001/ to Day-015/
 │   └── ...150 Java/JS/SQL problems (Phase 1 Easy)...
 │
-├── Day-016/ to Day-018/
-│   ├── 01-Rotated-Array-Search/
-│   ├── 02-Permutations-Backtracking/
-│   ├── 03-Word-Break-DP/
-│   ├── 04-Lowest-Common-Ancestor-Binary-Tree/
-│   ├── 05-Sort-Colors-Dutch-National-Flag/
-│   ├── 06-House-Robber-DP/
-│   ├── 07-Implement-Trie-Prefix-Tree/
-│   ├── 08-Top-K-Frequent-Elements-Heap/
-│   ├── 09-Investments-in-2016-SQL/
-│   └── 10-Friend-Requests-II-Who-Has-Most-Friends-SQL/
+├── Day-016/ to Day-019/
+│   ├── 01-Subsets-Power-Set-Backtracking/
+│   ├── 02-Longest-Repeating-Character-Replacement/
+│   ├── 03-Construct-Binary-Tree-Preorder-Inorder/
+│   ├── 04-Task-Scheduler-Greedy-PriorityQueue/
+│   ├── 05-Longest-Common-Subsequence-DP/
+│   ├── 06-Letter-Combinations-Phone-Number/
+│   ├── 07-Partition-Equal-Subset-Sum-Knapsack/
+│   ├── 08-Evaluate-Reverse-Polish-Notation-Stack/
+│   ├── 09-Movie-Rating-SQL/
+│   └── 10-Restaurant-Growth-Window-SQL/
 │
 ├── .gitignore
 ├── LICENSE
