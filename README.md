@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **190** 🎉 |
-| **Current Streak** | **19 Days** 🔥 |
+| **Total Problems Completed** | **200** 🎉 *(200 Milestone Reached!)* |
+| **Current Streak** | **20 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Java, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 020 — 💯 200 Problems Milestone! Intermediate / Medium Mastery (Java / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | 200 Problems Milestone & Phase 2 Mastery Summary | Milestone Overview | Java | [Solution](Day-020/01-%F0%9F%AF-200-Problems-Milestone-Summary/Solution.java) |
+| 02 | Pacific Atlantic Water Flow | 2D Grid / Multi-Source BFS/DFS | JavaScript | [Solution](Day-020/02-Pacific-Atlantic-Water-Flow/solution.js) |
+| 03 | Find Median from Data Stream | PriorityQueue / Two Heaps Design | Java | [Solution](Day-020/03-Find-Median-from-Data-Stream-Two-Heaps/Solution.java) |
+| 04 | Palindromic Substrings Count | String / Expand Around Center | JavaScript | [Solution](Day-020/04-Palindromic-Substrings-Count/solution.js) |
+| 05 | Word Ladder | Graph / BFS / Shortest Path | Java | [Solution](Day-020/05-Word-Ladder-BFS-Graph/Solution.java) |
+| 06 | Decode String | Stack / Nested Expression Parsing | JavaScript | [Solution](Day-020/06-Decode-String-Stack/solution.js) |
+| 07 | Non-overlapping Intervals | Greedy / Interval Scheduling | Java | [Solution](Day-020/07-Non-Overlapping-Intervals-Greedy/Solution.java) |
+| 08 | Longest Increasing Path in a Matrix | 2D Grid DP + DFS / Memoization | JavaScript | [Solution](Day-020/08-Longest-Increasing-Path-in-Matrix-DP/solution.js) |
+| 09 | Second Highest Salary | SQL / MAX Subquery / IFNULL | SQL | [Query](Day-020/09-Second-Highest-Salary-SQL/query.sql) |
+| 10 | Capital Gain/Loss | SQL / CASE WHEN / SUM / GROUP BY | SQL | [Query](Day-020/10-Capital-Gain-Loss-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 019 — Phase 2 Medium Practice: Subsets, Sliding Window, Tree Reconstruction, 2D DP & SQL Moving Averages (Java / JS / SQL)
 
@@ -351,17 +368,17 @@ daily-coding-practice/
 ├── Day-001/ to Day-015/
 │   └── ...150 Java/JS/SQL problems (Phase 1 Easy)...
 │
-├── Day-016/ to Day-019/
-│   ├── 01-Subsets-Power-Set-Backtracking/
-│   ├── 02-Longest-Repeating-Character-Replacement/
-│   ├── 03-Construct-Binary-Tree-Preorder-Inorder/
-│   ├── 04-Task-Scheduler-Greedy-PriorityQueue/
-│   ├── 05-Longest-Common-Subsequence-DP/
-│   ├── 06-Letter-Combinations-Phone-Number/
-│   ├── 07-Partition-Equal-Subset-Sum-Knapsack/
-│   ├── 08-Evaluate-Reverse-Polish-Notation-Stack/
-│   ├── 09-Movie-Rating-SQL/
-│   └── 10-Restaurant-Growth-Window-SQL/
+├── Day-016/ to Day-020/
+│   ├── 01-💯-200-Problems-Milestone-Summary/
+│   ├── 02-Pacific-Atlantic-Water-Flow/
+│   ├── 03-Find-Median-from-Data-Stream-Two-Heaps/
+│   ├── 04-Palindromic-Substrings-Count/
+│   ├── 05-Word-Ladder-BFS-Graph/
+│   ├── 06-Decode-String-Stack/
+│   ├── 07-Non-Overlapping-Intervals-Greedy/
+│   ├── 08-Longest-Increasing-Path-in-Matrix-DP/
+│   ├── 09-Second-Highest-Salary-SQL/
+│   └── 10-Capital-Gain-Loss-SQL/
 │
 ├── .gitignore
 ├── LICENSE
