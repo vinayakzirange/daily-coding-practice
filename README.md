@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **200** 🎉 *(200 Milestone Reached!)* |
-| **Current Streak** | **20 Days** 🔥 |
+| **Total Problems Completed** | **210** 🎉 |
+| **Current Streak** | **21 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Java, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 021 — Phase 2 Medium Practice: Spiral Matrix, Greedy Jump, Grid DP, QuickSelect & SQL Tree Nodes (Java / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Spiral Matrix | 2D Grid / Boundary Traversal | Java | [Solution](Day-021/01-Spiral-Matrix-Traversal/Solution.java) |
+| 02 | Jump Game | Greedy / Reachability Array | JavaScript | [Solution](Day-021/02-Jump-Game-Greedy/solution.js) |
+| 03 | Unique Paths | 2D Dynamic Programming / Grid Combinatorics | Java | [Solution](Day-021/03-Unique-Paths-Grid-DP/Solution.java) |
+| 04 | Minimum Size Subarray Sum | Sliding Window / Dynamic Two Pointers | JavaScript | [Solution](Day-021/04-Minimum-Size-Subarray-Sum-Sliding-Window/solution.js) |
+| 05 | Course Schedule II | Graph / Topological Sort / BFS Kahn's Algorithm Order | Java | [Solution](Day-021/05-Course-Schedule-II-Topological-Sort-Order/Solution.java) |
+| 06 | Kth Largest Element in an Array | QuickSelect / PriorityQueue (Min-Heap) | JavaScript | [Solution](Day-021/06-Kth-Largest-Element-in-an-Array-QuickSelect/solution.js) |
+| 07 | Palindrome Partitioning | Backtracking / String Partitioning | Java | [Solution](Day-021/07-Palindromic-Partitioning-Backtracking/Solution.java) |
+| 08 | Longest Consecutive Sequence | HashSet Lookup / Array O(N) | JavaScript | [Solution](Day-021/08-Longest-Consecutive-Sequence-HashSet/solution.js) |
+| 09 | Tree Node Classification | SQL / CASE WHEN / Subquery / Tree Hierarchy | SQL | [Query](Day-021/09-Tree-Node-Type-Classification-SQL/query.sql) |
+| 10 | Exchange Seats | SQL / CASE WHEN / MOD / Window Shifting | SQL | [Query](Day-021/10-Exchange-Seats-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 020 — 💯 200 Problems Milestone! Intermediate / Medium Mastery (Java / JS / SQL)
 
@@ -368,17 +385,17 @@ daily-coding-practice/
 ├── Day-001/ to Day-015/
 │   └── ...150 Java/JS/SQL problems (Phase 1 Easy)...
 │
-├── Day-016/ to Day-020/
-│   ├── 01-💯-200-Problems-Milestone-Summary/
-│   ├── 02-Pacific-Atlantic-Water-Flow/
-│   ├── 03-Find-Median-from-Data-Stream-Two-Heaps/
-│   ├── 04-Palindromic-Substrings-Count/
-│   ├── 05-Word-Ladder-BFS-Graph/
-│   ├── 06-Decode-String-Stack/
-│   ├── 07-Non-Overlapping-Intervals-Greedy/
-│   ├── 08-Longest-Increasing-Path-in-Matrix-DP/
-│   ├── 09-Second-Highest-Salary-SQL/
-│   └── 10-Capital-Gain-Loss-SQL/
+├── Day-016/ to Day-021/
+│   ├── 01-Spiral-Matrix-Traversal/
+│   ├── 02-Jump-Game-Greedy/
+│   ├── 03-Unique-Paths-Grid-DP/
+│   ├── 04-Minimum-Size-Subarray-Sum-Sliding-Window/
+│   ├── 05-Course-Schedule-II-Topological-Sort-Order/
+│   ├── 06-Kth-Largest-Element-in-an-Array-QuickSelect/
+│   ├── 07-Palindromic-Partitioning-Backtracking/
+│   ├── 08-Longest-Consecutive-Sequence-HashSet/
+│   ├── 09-Tree-Node-Type-Classification-SQL/
+│   └── 10-Exchange-Seats-SQL/
 │
 ├── .gitignore
 ├── LICENSE
