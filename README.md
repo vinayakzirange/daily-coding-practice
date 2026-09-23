@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **210** 🎉 |
-| **Current Streak** | **21 Days** 🔥 |
+| **Total Problems Completed** | **220** 🎉 |
+| **Current Streak** | **22 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Java, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 022 — Phase 2 Medium Practice: Matrix Rotation, Greedy Jumps, Gas Station, Trie DFS & SQL Analytics (Java / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Rotate Image | 2D Grid / Matrix Transpose & Reverse | Java | [Solution](Day-022/01-Rotate-Image-Matrix/Solution.java) |
+| 02 | Jump Game II | Greedy / Implicit BFS / Level Ranges | JavaScript | [Solution](Day-022/02-Jump-Game-II-Min-Jumps/solution.js) |
+| 03 | Longest Common Prefix | String / Vertical Scanning / Trie | Java | [Solution](Day-022/03-Longest-Common-Prefix-Vertical-Scan/Solution.java) |
+| 04 | Set Matrix Zeroes | 2D Grid / In-Place Flagging | JavaScript | [Solution](Day-022/04-Set-Matrix-Zeroes-InPlace/solution.js) |
+| 05 | Gas Station | Greedy / Total Accumulator | Java | [Solution](Day-022/05-Gas-Station-Greedy-Circuit/Solution.java) |
+| 06 | Word Search II | Trie + 2D Grid DFS / Backtracking | JavaScript | [Solution](Day-022/06-Word-Search-II-Trie-Grid-DFS/solution.js) |
+| 07 | Sort List | Linked List / Merge Sort / Fast & Slow Pointers | Java | [Solution](Day-022/07-Sort-List-Merge-Sort/Solution.java) |
+| 08 | Longest Palindromic Subsequence | 2D Dynamic Programming / String Reversal LCS | JavaScript | [Solution](Day-022/08-Longest-Palindromic-Subsequence-DP/solution.js) |
+| 09 | Monthly Transactions I | SQL / DATE_FORMAT / GROUP BY / COUNT / SUM / CASE WHEN | SQL | [Query](Day-022/09-Monthly-Transactions-I-SQL/query.sql) |
+| 10 | Immediate Food Delivery II | SQL / Subquery / FIRST_VALUE / ROUND / AVG | SQL | [Query](Day-022/10-Immediate-Food-Delivery-II-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 021 — Phase 2 Medium Practice: Spiral Matrix, Greedy Jump, Grid DP, QuickSelect & SQL Tree Nodes (Java / JS / SQL)
 
@@ -385,17 +402,17 @@ daily-coding-practice/
 ├── Day-001/ to Day-015/
 │   └── ...150 Java/JS/SQL problems (Phase 1 Easy)...
 │
-├── Day-016/ to Day-021/
-│   ├── 01-Spiral-Matrix-Traversal/
-│   ├── 02-Jump-Game-Greedy/
-│   ├── 03-Unique-Paths-Grid-DP/
-│   ├── 04-Minimum-Size-Subarray-Sum-Sliding-Window/
-│   ├── 05-Course-Schedule-II-Topological-Sort-Order/
-│   ├── 06-Kth-Largest-Element-in-an-Array-QuickSelect/
-│   ├── 07-Palindromic-Partitioning-Backtracking/
-│   ├── 08-Longest-Consecutive-Sequence-HashSet/
-│   ├── 09-Tree-Node-Type-Classification-SQL/
-│   └── 10-Exchange-Seats-SQL/
+├── Day-016/ to Day-022/
+│   ├── 01-Rotate-Image-Matrix/
+│   ├── 02-Jump-Game-II-Min-Jumps/
+│   ├── 03-Longest-Common-Prefix-Vertical-Scan/
+│   ├── 04-Set-Matrix-Zeroes-InPlace/
+│   ├── 05-Gas-Station-Greedy-Circuit/
+│   ├── 06-Word-Search-II-Trie-Grid-DFS/
+│   ├── 07-Sort-List-Merge-Sort/
+│   ├── 08-Longest-Palindromic-Subsequence-DP/
+│   ├── 09-Monthly-Transactions-I-SQL/
+│   └── 10-Immediate-Food-Delivery-II-SQL/
 │
 ├── .gitignore
 ├── LICENSE
