@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **220** 🎉 |
-| **Current Streak** | **22 Days** 🔥 |
+| **Total Problems Completed** | **230** 🎉 |
+| **Current Streak** | **23 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Java, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 023 — Phase 2 Medium Practice: Next Permutation, Prefix Modulo, Quad Trees, Maximal Square & SQL Analytics (Java / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Next Permutation | Array / Two Pointers / Lexicographical Order | Java | [Solution](Day-023/01-Next-Permutation-Lexicographical/Solution.java) |
+| 02 | Longest Continuous Increasing Subsequence | Array / Sliding Window / Greedy | JavaScript | [Solution](Day-023/02-Longest-Consecutive-Increasing-Subsequence-DP/solution.js) |
+| 03 | Flatten Binary Tree to Linked List | Binary Tree / In-Place Morris Traversal | Java | [Solution](Day-023/03-Flatten-Binary-Tree-to-Linked-List-InPlace/Solution.java) |
+| 04 | Subarray Sums Divisible by K | Prefix Sum / Modulo Arithmetic / HashMap | JavaScript | [Solution](Day-023/04-Subarray-Sums-Divisible-by-K-Prefix-Mod/solution.js) |
+| 05 | Design Add and Search Words Data Structure | Trie / Backtracking Search / Wildcard Matching | Java | [Solution](Day-023/05-Design-Add-and-Search-Words-Data-Structure-Trie/Solution.java) |
+| 06 | Construct Quad Tree | 2D Grid / Divide & Conquer / Tree Construction | JavaScript | [Solution](Day-023/06-Construct-Quad-Tree-2D-Grid/solution.js) |
+| 07 | Maximal Square | 2D Grid / Dynamic Programming | Java | [Solution](Day-023/07-Maximal-Square-Grid-DP/Solution.java) |
+| 08 | Continuous Subarray Sum | Prefix Sum / Modulo Arithmetic / HashMap | JavaScript | [Solution](Day-023/08-Continuous-Subarray-Sum-Prefix-Mod/solution.js) |
+| 09 | Game Play Analysis IV | SQL / Subquery / DATESUB / DATE_ADD / ROUND / AVG | SQL | [Query](Day-023/09-Game-Play-Analysis-IV-SQL/query.sql) |
+| 10 | Count Salary Categories | SQL / UNION / SUM / CASE WHEN | SQL | [Query](Day-023/10-Count-Salary-Categories-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 022 — Phase 2 Medium Practice: Matrix Rotation, Greedy Jumps, Gas Station, Trie DFS & SQL Analytics (Java / JS / SQL)
 
@@ -402,17 +419,17 @@ daily-coding-practice/
 ├── Day-001/ to Day-015/
 │   └── ...150 Java/JS/SQL problems (Phase 1 Easy)...
 │
-├── Day-016/ to Day-022/
-│   ├── 01-Rotate-Image-Matrix/
-│   ├── 02-Jump-Game-II-Min-Jumps/
-│   ├── 03-Longest-Common-Prefix-Vertical-Scan/
-│   ├── 04-Set-Matrix-Zeroes-InPlace/
-│   ├── 05-Gas-Station-Greedy-Circuit/
-│   ├── 06-Word-Search-II-Trie-Grid-DFS/
-│   ├── 07-Sort-List-Merge-Sort/
-│   ├── 08-Longest-Palindromic-Subsequence-DP/
-│   ├── 09-Monthly-Transactions-I-SQL/
-│   └── 10-Immediate-Food-Delivery-II-SQL/
+├── Day-016/ to Day-023/
+│   ├── 01-Next-Permutation-Lexicographical/
+│   ├── 02-Longest-Consecutive-Increasing-Subsequence-DP/
+│   ├── 03-Flatten-Binary-Tree-to-Linked-List-InPlace/
+│   ├── 04-Subarray-Sums-Divisible-by-K-Prefix-Mod/
+│   ├── 05-Design-Add-and-Search-Words-Data-Structure-Trie/
+│   ├── 06-Construct-Quad-Tree-2D-Grid/
+│   ├── 07-Maximal-Square-Grid-DP/
+│   ├── 08-Continuous-Subarray-Sum-Prefix-Mod/
+│   ├── 09-Game-Play-Analysis-IV-SQL/
+│   └── 10-Count-Salary-Categories-SQL/
 │
 ├── .gitignore
 ├── LICENSE
