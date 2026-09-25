@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **230** 🎉 |
-| **Current Streak** | **23 Days** 🔥 |
+| **Total Problems Completed** | **240** 🎉 |
+| **Current Streak** | **24 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Java, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 024 — Phase 2 Medium Practice: Task Scheduler, Partition Labels, Eulerian DFS, RPN Stack & SQL (Java / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Task Scheduler | Greedy / Heap / Frequency Counting | Java | [Solution](Day-024/01-Task-Scheduler-Greedy-PriorityQueue/Solution.java) |
+| 02 | Partition Labels | Greedy / Two Pointers / String | JavaScript | [Solution](Day-024/02-Partition-Labels-Greedy-TwoPointers/solution.js) |
+| 03 | Reconstruct Itinerary | Graph / Eulerian Path / PriorityQueue DFS | Java | [Solution](Day-024/03-Reconstruct-Itinerary-Eulerian-Path-DFS/Solution.java) |
+| 04 | Minimum Size Subarray Sum | Array / Two Pointers / Sliding Window | JavaScript | [Solution](Day-024/04-Minimum-Size-Subarray-Sum-SlidingWindow/solution.js) |
+| 05 | Evaluate Reverse Polish Notation | Stack / Array / Expression Evaluation | Java | [Solution](Day-024/05-Evaluate-Reverse-Polish-Notation-Stack/Solution.java) |
+| 06 | Find Peak Element | Array / Binary Search | JavaScript | [Solution](Day-024/06-Find-Peak-Element-BinarySearch/solution.js) |
+| 07 | Palindromic Substrings | String / Two Pointers / Dynamic Programming | Java | [Solution](Day-024/07-Palindromic-Substrings-ExpandAroundCenter/Solution.java) |
+| 08 | Find All Anagrams in a String | String / Sliding Window / Frequency Array | JavaScript | [Solution](Day-024/08-Find-All-Anagrams-in-a-String-SlidingWindow/solution.js) |
+| 09 | Exchange Seats | SQL / CASE WHEN / Modulo Logic / Window Functions | SQL | [Query](Day-024/09-Exchange-Seats-SQL/query.sql) |
+| 10 | Movie Rating | SQL / UNION ALL / Group By / Order By Limit | SQL | [Query](Day-024/10-Movie-Rating-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 023 — Phase 2 Medium Practice: Next Permutation, Prefix Modulo, Quad Trees, Maximal Square & SQL Analytics (Java / JS / SQL)
 
@@ -419,17 +436,17 @@ daily-coding-practice/
 ├── Day-001/ to Day-015/
 │   └── ...150 Java/JS/SQL problems (Phase 1 Easy)...
 │
-├── Day-016/ to Day-023/
-│   ├── 01-Next-Permutation-Lexicographical/
-│   ├── 02-Longest-Consecutive-Increasing-Subsequence-DP/
-│   ├── 03-Flatten-Binary-Tree-to-Linked-List-InPlace/
-│   ├── 04-Subarray-Sums-Divisible-by-K-Prefix-Mod/
-│   ├── 05-Design-Add-and-Search-Words-Data-Structure-Trie/
-│   ├── 06-Construct-Quad-Tree-2D-Grid/
-│   ├── 07-Maximal-Square-Grid-DP/
-│   ├── 08-Continuous-Subarray-Sum-Prefix-Mod/
-│   ├── 09-Game-Play-Analysis-IV-SQL/
-│   └── 10-Count-Salary-Categories-SQL/
+├── Day-016/ to Day-024/
+│   ├── 01-Task-Scheduler-Greedy-PriorityQueue/
+│   ├── 02-Partition-Labels-Greedy-TwoPointers/
+│   ├── 03-Reconstruct-Itinerary-Eulerian-Path-DFS/
+│   ├── 04-Minimum-Size-Subarray-Sum-SlidingWindow/
+│   ├── 05-Evaluate-Reverse-Polish-Notation-Stack/
+│   ├── 06-Find-Peak-Element-BinarySearch/
+│   ├── 07-Palindromic-Substrings-ExpandAroundCenter/
+│   ├── 08-Find-All-Anagrams-in-a-String-SlidingWindow/
+│   ├── 09-Exchange-Seats-SQL/
+│   └── 10-Movie-Rating-SQL/
 │
 ├── .gitignore
 ├── LICENSE
