@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **240** 🎉 |
-| **Current Streak** | **24 Days** 🔥 |
+| **Total Problems Completed** | **250** 🎉 |
+| **Current Streak** | **25 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Java, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 025 — Phase 2 Medium Practice: Monotonic Stack, Course Schedule Graph, Coin Change & SQL Analytics (Java / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Daily Temperatures | Stack / Monotonic Stack | Java | [Solution](Day-025/01-Daily-Temperatures-Monotonic-Stack/Solution.java) |
+| 02 | Longest Repeating Character Replacement | String / Sliding Window / Frequency Array | JavaScript | [Solution](Day-025/02-Longest-Repeating-Character-Replacement-SlidingWindow/solution.js) |
+| 03 | Course Schedule | Graph / Topological Sort / Kahn BFS | Java | [Solution](Day-025/03-Course-Schedule-Graph-TopologicalSort/Solution.java) |
+| 04 | Kth Smallest Element in a BST | Tree / BST / Inorder Traversal | JavaScript | [Solution](Day-025/04-Kth-Smallest-Element-in-a-BST-InOrderTraversal/solution.js) |
+| 05 | Coin Change | Dynamic Programming / Unbounded Knapsack | Java | [Solution](Day-025/05-Coin-Change-Unbounded-Knapsack-DP/Solution.java) |
+| 06 | Subtree of Another Tree | Binary Tree / DFS / Tree Matching | JavaScript | [Solution](Day-025/06-Subtree-of-Another-Tree-DFS%20Tree/solution.js) |
+| 07 | Decode Ways | String / 1D Dynamic Programming | Java | [Solution](Day-025/07-Decode-Ways-Dynamic-Programming/Solution.java) |
+| 08 | Longest Increasing Subsequence | Array / DP / Binary Search (Patience Sort) | JavaScript | [Solution](Day-025/08-Longest-Increasing-Subsequence-DP-BinarySearch/solution.js) |
+| 09 | Friend Requests II: Who Has the Most Friends | SQL / UNION ALL / GROUP BY / ORDER BY LIMIT | SQL | [Query](Day-025/09-Friend-Requests-II-Who-Has-the-Most-Friends-SQL/query.sql) |
+| 10 | Investments in 2016 | SQL / Subqueries / GROUP BY HAVING | SQL | [Query](Day-025/10-Investments-in-2016-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 024 — Phase 2 Medium Practice: Task Scheduler, Partition Labels, Eulerian DFS, RPN Stack & SQL (Java / JS / SQL)
 
@@ -436,17 +453,17 @@ daily-coding-practice/
 ├── Day-001/ to Day-015/
 │   └── ...150 Java/JS/SQL problems (Phase 1 Easy)...
 │
-├── Day-016/ to Day-024/
-│   ├── 01-Task-Scheduler-Greedy-PriorityQueue/
-│   ├── 02-Partition-Labels-Greedy-TwoPointers/
-│   ├── 03-Reconstruct-Itinerary-Eulerian-Path-DFS/
-│   ├── 04-Minimum-Size-Subarray-Sum-SlidingWindow/
-│   ├── 05-Evaluate-Reverse-Polish-Notation-Stack/
-│   ├── 06-Find-Peak-Element-BinarySearch/
-│   ├── 07-Palindromic-Substrings-ExpandAroundCenter/
-│   ├── 08-Find-All-Anagrams-in-a-String-SlidingWindow/
-│   ├── 09-Exchange-Seats-SQL/
-│   └── 10-Movie-Rating-SQL/
+├── Day-016/ to Day-025/
+│   ├── 01-Daily-Temperatures-Monotonic-Stack/
+│   ├── 02-Longest-Repeating-Character-Replacement-SlidingWindow/
+│   ├── 03-Course-Schedule-Graph-TopologicalSort/
+│   ├── 04-Kth-Smallest-Element-in-a-BST-InOrderTraversal/
+│   ├── 05-Coin-Change-Unbounded-Knapsack-DP/
+│   ├── 06-Subtree-of-Another-Tree-DFS Tree/
+│   ├── 07-Decode-Ways-Dynamic-Programming/
+│   ├── 08-Longest-Increasing-Subsequence-DP-BinarySearch/
+│   ├── 09-Friend-Requests-II-Who-Has-the-Most-Friends-SQL/
+│   └── 10-Investments-in-2016-SQL/
 │
 ├── .gitignore
 ├── LICENSE
