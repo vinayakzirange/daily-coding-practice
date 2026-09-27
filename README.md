@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **250** 🎉 |
-| **Current Streak** | **25 Days** 🔥 |
+| **Total Problems Completed** | **260** 🎉 |
+| **Current Streak** | **26 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Java, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 026 — Phase 2 Medium Practice: Pacific Atlantic DFS, Circular DP, Dijkstra Graph & SQL Windowing (Java / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Pacific Atlantic Water Flow | 2D Grid / DFS / Breadth-First Search | Java | [Solution](Day-026/01-Pacific-Atlantic-Water-Flow-Grid-DFS/Solution.java) |
+| 02 | Longest Substring with At Least K Repeating Characters | String / Divide & Conquer / Sliding Window | JavaScript | [Solution](Day-026/02-Longest-Substring-with-At-Least-K-Repeating-Characters-DivideConquer/solution.js) |
+| 03 | Longest Consecutive Sequence | Array / HashSet Lookup / Linear Scan | Java | [Solution](Day-026/03-Longest-Consecutive-Sequence-HashSet/Solution.java) |
+| 04 | House Robber II | Dynamic Programming / Array / Circular DP | JavaScript | [Solution](Day-026/04-House-Robber-II-Circular-DP/solution.js) |
+| 05 | Network Delay Time | Graph / Shortest Path / Dijkstra Algorithm | Java | [Solution](Day-026/05-Network-Delay-Time-Dijkstra-Graph/Solution.java) |
+| 06 | Find the Duplicate Number | Array / Two Pointers / Floyd Cycle Detection | JavaScript | [Solution](Day-026/06-Find-the-Duplicate-Number-Floyd-Cycle/solution.js) |
+| 07 | Surrounded Regions | 2D Grid / DFS / Boundary Traversal | Java | [Solution](Day-026/07-Surrounded-Regions-Grid-BFS-DFS/Solution.java) |
+| 08 | Combination Sum IV | Dynamic Programming / Unbounded Knapsack | JavaScript | [Solution](Day-026/08-Combination-Sum-IV-Dynamic-Programming/solution.js) |
+| 09 | Department Top Three Salaries | SQL / DENSE_RANK Window Function | SQL | [Query](Day-026/09-Department-Top-Three-Salaries-SQL/query.sql) |
+| 10 | Count Student Number in Departments | SQL / LEFT JOIN / GROUP BY / COUNT | SQL | [Query](Day-026/10-Count-Student-Number-in-Departments-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 025 — Phase 2 Medium Practice: Monotonic Stack, Course Schedule Graph, Coin Change & SQL Analytics (Java / JS / SQL)
 
@@ -453,17 +470,17 @@ daily-coding-practice/
 ├── Day-001/ to Day-015/
 │   └── ...150 Java/JS/SQL problems (Phase 1 Easy)...
 │
-├── Day-016/ to Day-025/
-│   ├── 01-Daily-Temperatures-Monotonic-Stack/
-│   ├── 02-Longest-Repeating-Character-Replacement-SlidingWindow/
-│   ├── 03-Course-Schedule-Graph-TopologicalSort/
-│   ├── 04-Kth-Smallest-Element-in-a-BST-InOrderTraversal/
-│   ├── 05-Coin-Change-Unbounded-Knapsack-DP/
-│   ├── 06-Subtree-of-Another-Tree-DFS Tree/
-│   ├── 07-Decode-Ways-Dynamic-Programming/
-│   ├── 08-Longest-Increasing-Subsequence-DP-BinarySearch/
-│   ├── 09-Friend-Requests-II-Who-Has-the-Most-Friends-SQL/
-│   └── 10-Investments-in-2016-SQL/
+├── Day-016/ to Day-026/
+│   ├── 01-Pacific-Atlantic-Water-Flow-Grid-DFS/
+│   ├── 02-Longest-Substring-with-At-Least-K-Repeating-Characters-DivideConquer/
+│   ├── 03-Longest-Consecutive-Sequence-HashSet/
+│   ├── 04-House-Robber-II-Circular-DP/
+│   ├── 05-Network-Delay-Time-Dijkstra-Graph/
+│   ├── 06-Find-the-Duplicate-Number-Floyd-Cycle/
+│   ├── 07-Surrounded-Regions-Grid-BFS-DFS/
+│   ├── 08-Combination-Sum-IV-Dynamic-Programming/
+│   ├── 09-Department-Top-Three-Salaries-SQL/
+│   └── 10-Count-Student-Number-in-Departments-SQL/
 │
 ├── .gitignore
 ├── LICENSE
