@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **260** 🎉 |
-| **Current Streak** | **26 Days** 🔥 |
+| **Total Problems Completed** | **270** 🎉 |
+| **Current Streak** | **27 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Java, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 027 — Phase 2 Medium Practice: 2D Grid DFS Memoization, Knapsack DP, Topological Order & SQL Analytics (Java / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Longest Increasing Path in a Matrix | 2D Grid / DFS + Memoization / DP | Java | [Solution](Day-027/01-Longest-Increasing-Path-in-a-Matrix-Memoization-DFS/Solution.java) |
+| 02 | Partition Equal Subset Sum | Dynamic Programming / 0-1 Knapsack | JavaScript | [Solution](Day-027/02-Partition-Equal-Subset-Sum-01Knapsack-DP/solution.js) |
+| 03 | Course Schedule II | Graph / Topological Sort / Kahn BFS | Java | [Solution](Day-027/03-Course-Schedule-II-TopologicalSort-DFS/Solution.java) |
+| 04 | Minimum Path Sum | 2D Grid / Dynamic Programming | JavaScript | [Solution](Day-027/04-Minimum-Path-Sum-2D-DP/solution.js) |
+| 05 | Target Sum | Dynamic Programming / Subset Sum | Java | [Solution](Day-027/05-Target-Sum-01Knapsack-DP/Solution.java) |
+| 06 | Construct Binary Tree from Preorder and Inorder Traversal | Binary Tree / Divide & Conquer / Recursion | JavaScript | [Solution](Day-027/06-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal-Tree/solution.js) |
+| 07 | Longest Palindromic Substring | String / Two Pointers / Center Expansion | Java | [Solution](Day-027/07-Longest-Palindromic-Substring-ExpandAroundCenter/Solution.java) |
+| 08 | Max Area of Island | 2D Grid / DFS / Connected Components | JavaScript | [Solution](Day-027/08-Max-Area-of-Island-2D-Grid-DFS/solution.js) |
+| 09 | Human Traffic of Stadium | SQL / Window Functions / LEAD & LAG | SQL | [Query](Day-027/09-Human-Traffic-of-Stadium-SQL/query.sql) |
+| 10 | Friend Requests I: Overall Acceptance Rate | SQL / Aggregate functions / ROUND | SQL | [Query](Day-027/10-Friend-Requests-I-Overall-Acceptance-Rate-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 026 — Phase 2 Medium Practice: Pacific Atlantic DFS, Circular DP, Dijkstra Graph & SQL Windowing (Java / JS / SQL)
 
@@ -470,17 +487,17 @@ daily-coding-practice/
 ├── Day-001/ to Day-015/
 │   └── ...150 Java/JS/SQL problems (Phase 1 Easy)...
 │
-├── Day-016/ to Day-026/
-│   ├── 01-Pacific-Atlantic-Water-Flow-Grid-DFS/
-│   ├── 02-Longest-Substring-with-At-Least-K-Repeating-Characters-DivideConquer/
-│   ├── 03-Longest-Consecutive-Sequence-HashSet/
-│   ├── 04-House-Robber-II-Circular-DP/
-│   ├── 05-Network-Delay-Time-Dijkstra-Graph/
-│   ├── 06-Find-the-Duplicate-Number-Floyd-Cycle/
-│   ├── 07-Surrounded-Regions-Grid-BFS-DFS/
-│   ├── 08-Combination-Sum-IV-Dynamic-Programming/
-│   ├── 09-Department-Top-Three-Salaries-SQL/
-│   └── 10-Count-Student-Number-in-Departments-SQL/
+├── Day-016/ to Day-027/
+│   ├── 01-Longest-Increasing-Path-in-a-Matrix-Memoization-DFS/
+│   ├── 02-Partition-Equal-Subset-Sum-01Knapsack-DP/
+│   ├── 03-Course-Schedule-II-TopologicalSort-DFS/
+│   ├── 04-Minimum-Path-Sum-2D-DP/
+│   ├── 05-Target-Sum-01Knapsack-DP/
+│   ├── 06-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal-Tree/
+│   ├── 07-Longest-Palindromic-Substring-ExpandAroundCenter/
+│   ├── 08-Max-Area-of-Island-2D-Grid-DFS/
+│   ├── 09-Human-Traffic-of-Stadium-SQL/
+│   └── 10-Friend-Requests-I-Overall-Acceptance-Rate-SQL/
 │
 ├── .gitignore
 ├── LICENSE
