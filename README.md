@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **270** 🎉 |
-| **Current Streak** | **27 Days** 🔥 |
+| **Total Problems Completed** | **280** 🎉 |
+| **Current Streak** | **28 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Java, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 028 — Phase 2 Medium Practice: Bellman-Ford Shortest Path, Word Break DP, Graph Degrees & SQL (Java / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Cheapest Flights Within K Stops | Graph / Shortest Path / Bellman-Ford / BFS | Java | [Solution](Day-028/01-Cheapest-Flights-Within-K-Stops-BellmanFord-BFS/Solution.java) |
+| 02 | Longest Turbulent Subarray | Array / Sliding Window / Dynamic Programming | JavaScript | [Solution](Day-028/02-Longest-Turbulent-Subarray-SlidingWindow/solution.js) |
+| 03 | Word Break | Dynamic Programming / String / HashSet | Java | [Solution](Day-028/03-Word-Break-Dynamic-Programming-HashSet/Solution.java) |
+| 04 | Maximal Network Rank | Graph / Degree Calculation / Matrix | JavaScript | [Solution](Day-028/04-Maximal-Network-Rank-Graph-Degree/solution.js) |
+| 05 | Unique Paths II | 2D Grid / Dynamic Programming / Obstacles | Java | [Solution](Day-028/05-Unique-Paths-II-Grid-DP-Obstacles/Solution.java) |
+| 06 | Count Good Nodes in Binary Tree | Binary Tree / DFS / Path Max Tracking | JavaScript | [Solution](Day-028/06-Count-Good-Nodes-in-Binary-Tree-DFS/solution.js) |
+| 07 | Path Sum II | Binary Tree / DFS / Backtracking | Java | [Solution](Day-028/07-Path-Sum-II-Tree-DFS-Backtracking/Solution.java) |
+| 08 | Maximum Product Subarray | Array / DP / Min-Max Tracking | JavaScript | [Solution](Day-028/08-Maximum-Product-Subarray-DP-MinMax/solution.js) |
+| 09 | Trips and Users | SQL / Cancellation Rate / JOIN / GROUP BY | SQL | [Query](Day-028/09-Trips-and-Users-SQL/query.sql) |
+| 10 | Shortest Distance in a Plane | SQL / Geometry / Euclidean Distance / Self JOIN | SQL | [Query](Day-028/10-Shortest-Distance-in-a-Plane-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 027 — Phase 2 Medium Practice: 2D Grid DFS Memoization, Knapsack DP, Topological Order & SQL Analytics (Java / JS / SQL)
 
@@ -487,17 +504,17 @@ daily-coding-practice/
 ├── Day-001/ to Day-015/
 │   └── ...150 Java/JS/SQL problems (Phase 1 Easy)...
 │
-├── Day-016/ to Day-027/
-│   ├── 01-Longest-Increasing-Path-in-a-Matrix-Memoization-DFS/
-│   ├── 02-Partition-Equal-Subset-Sum-01Knapsack-DP/
-│   ├── 03-Course-Schedule-II-TopologicalSort-DFS/
-│   ├── 04-Minimum-Path-Sum-2D-DP/
-│   ├── 05-Target-Sum-01Knapsack-DP/
-│   ├── 06-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal-Tree/
-│   ├── 07-Longest-Palindromic-Substring-ExpandAroundCenter/
-│   ├── 08-Max-Area-of-Island-2D-Grid-DFS/
-│   ├── 09-Human-Traffic-of-Stadium-SQL/
-│   └── 10-Friend-Requests-I-Overall-Acceptance-Rate-SQL/
+├── Day-016/ to Day-028/
+│   ├── 01-Cheapest-Flights-Within-K-Stops-BellmanFord-BFS/
+│   ├── 02-Longest-Turbulent-Subarray-SlidingWindow/
+│   ├── 03-Word-Break-Dynamic-Programming-HashSet/
+│   ├── 04-Maximal-Network-Rank-Graph-Degree/
+│   ├── 05-Unique-Paths-II-Grid-DP-Obstacles/
+│   ├── 06-Count-Good-Nodes-in-Binary-Tree-DFS/
+│   ├── 07-Path-Sum-II-Tree-DFS-Backtracking/
+│   ├── 08-Maximum-Product-Subarray-DP-MinMax/
+│   ├── 09-Trips-and-Users-SQL/
+│   └── 10-Shortest-Distance-in-a-Plane-SQL/
 │
 ├── .gitignore
 ├── LICENSE
