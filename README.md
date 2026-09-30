@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **280** 🎉 |
-| **Current Streak** | **28 Days** 🔥 |
+| **Total Problems Completed** | **290** 🎉 |
+| **Current Streak** | **29 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Java, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 029 — Phase 2 Medium Practice: 8-Direction BFS Grid, LCS DP, Bipartite Graph & SQL Ranking (Java / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Shortest Path in Binary Matrix | 2D Grid / BFS / Shortest Path | Java | [Solution](Day-029/01-Shortest-Path-in-Binary-Matrix-BFS-Grid/Solution.java) |
+| 02 | Find K Closest Elements | Array / Two Pointers / Binary Search | JavaScript | [Solution](Day-029/02-Find-K-Closest-Elements-TwoPointers-BinarySearch/solution.js) |
+| 03 | Subarray Sum Equals K | Array / Prefix Sum / Hash Table | Java | [Solution](Day-029/03-Subarray-Sum-Equals-K-PrefixSum-HashMap/Solution.java) |
+| 04 | Longest Common Subsequence | String / Dynamic Programming / 2D Matrix DP | JavaScript | [Solution](Day-029/04-Longest-Common-Subsequence-2D-DP/solution.js) |
+| 05 | Is Graph Bipartite? | Graph / BFS / Graph Coloring | Java | [Solution](Day-029/05-Is-Graph-Bipartite-BFS-DFS-Coloring/Solution.java) |
+| 06 | Construct BST from Preorder Traversal | Binary Search Tree / Monotonic Stack / Bound Recursion | JavaScript | [Solution](Day-029/06-Construct-BST-from-Preorder-Traversal-MonotonicStack/solution.js) |
+| 07 | Partition List | Linked List / Two Pointers / Dummy Nodes | Java | [Solution](Day-029/07-Partition-List-Linked-List-TwoPointers/Solution.java) |
+| 08 | Permutations | Backtracking / Array / Recursion | JavaScript | [Solution](Day-029/08-Permutations-Medium-Backtracking/solution.js) |
+| 09 | Second Highest Salary | SQL / Subquery / OFFSET / IFNULL | SQL | [Query](Day-029/09-Second-Highest-Salary-SQL/query.sql) |
+| 10 | Rank Scores | SQL / DENSE_RANK Window Function | SQL | [Query](Day-029/10-Rank-Scores-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 028 — Phase 2 Medium Practice: Bellman-Ford Shortest Path, Word Break DP, Graph Degrees & SQL (Java / JS / SQL)
 
@@ -504,17 +521,17 @@ daily-coding-practice/
 ├── Day-001/ to Day-015/
 │   └── ...150 Java/JS/SQL problems (Phase 1 Easy)...
 │
-├── Day-016/ to Day-028/
-│   ├── 01-Cheapest-Flights-Within-K-Stops-BellmanFord-BFS/
-│   ├── 02-Longest-Turbulent-Subarray-SlidingWindow/
-│   ├── 03-Word-Break-Dynamic-Programming-HashSet/
-│   ├── 04-Maximal-Network-Rank-Graph-Degree/
-│   ├── 05-Unique-Paths-II-Grid-DP-Obstacles/
-│   ├── 06-Count-Good-Nodes-in-Binary-Tree-DFS/
-│   ├── 07-Path-Sum-II-Tree-DFS-Backtracking/
-│   ├── 08-Maximum-Product-Subarray-DP-MinMax/
-│   ├── 09-Trips-and-Users-SQL/
-│   └── 10-Shortest-Distance-in-a-Plane-SQL/
+├── Day-016/ to Day-029/
+│   ├── 01-Shortest-Path-in-Binary-Matrix-BFS-Grid/
+│   ├── 02-Find-K-Closest-Elements-TwoPointers-BinarySearch/
+│   ├── 03-Subarray-Sum-Equals-K-PrefixSum-HashMap/
+│   ├── 04-Longest-Common-Subsequence-2D-DP/
+│   ├── 05-Is-Graph-Bipartite-BFS-DFS-Coloring/
+│   ├── 06-Construct-BST-from-Preorder-Traversal-MonotonicStack/
+│   ├── 07-Partition-List-Linked-List-TwoPointers/
+│   ├── 08-Permutations-Medium-Backtracking/
+│   ├── 09-Second-Highest-Salary-SQL/
+│   └── 10-Rank-Scores-SQL/
 │
 ├── .gitignore
 ├── LICENSE
