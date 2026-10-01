@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **290** 🎉 |
-| **Current Streak** | **29 Days** 🔥 |
+| **Total Problems Completed** | **300** 🎉 *(300-Problem Milestone Reached!)* |
+| **Current Streak** | **30 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Java, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 030 — 💯 300 Problems Milestone! Phase 2 Medium Mastery (Java / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | 3Sum | Array / Two Pointers / Sorting | Java | [Solution](Day-030/01-3Sum-TwoPointers-Sorting/Solution.java) |
+| 02 | Longest Substring Without Repeating Characters | String / Sliding Window / HashSet | JavaScript | [Solution](Day-030/02-Longest-Substring-Without-Repeating-Characters-SlidingWindow/solution.js) |
+| 03 | Group Anagrams | String / Hash Table / Sorting Key | Java | [Solution](Day-030/03-Group-Anagrams-HashMap-Categorization/Solution.java) |
+| 04 | Container With Most Water | Array / Two Pointers / Greedy | JavaScript | [Solution](Day-030/04-Container-With-Most-Water-TwoPointers/solution.js) |
+| 05 | Product of Array Except Self | Array / Prefix-Suffix Products | Java | [Solution](Day-030/05-Product-of-Array-Except-Self-PrefixSuffix/Solution.java) |
+| 06 | Spiral Matrix II | 2D Grid / Matrix Simulation | JavaScript | [Solution](Day-030/06-Spiral-Matrix-II-2DGrid-Simulation/solution.js) |
+| 07 | Sort Colors (Dutch National Flag) | Array / Two Pointers / Three-Way Partitioning | Java | [Solution](Day-030/07-Sort-Colors-DutchNationalFlag-ThreePointers/Solution.java) |
+| 08 | Validate Binary Search Tree | Tree / BST / Range Recursion | JavaScript | [Solution](Day-030/08-Validate-Binary-Search-Tree-Recursion/solution.js) |
+| 09 | Nth Highest Salary | SQL / User-Defined Function / OFFSET | SQL | [Query](Day-030/09-Nth-Highest-Salary-SQL/query.sql) |
+| 10 | Consecutive Numbers | SQL / Self JOIN / Window Functions | SQL | [Query](Day-030/10-Consecutive-Numbers-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 029 — Phase 2 Medium Practice: 8-Direction BFS Grid, LCS DP, Bipartite Graph & SQL Ranking (Java / JS / SQL)
 
@@ -521,17 +538,17 @@ daily-coding-practice/
 ├── Day-001/ to Day-015/
 │   └── ...150 Java/JS/SQL problems (Phase 1 Easy)...
 │
-├── Day-016/ to Day-029/
-│   ├── 01-Shortest-Path-in-Binary-Matrix-BFS-Grid/
-│   ├── 02-Find-K-Closest-Elements-TwoPointers-BinarySearch/
-│   ├── 03-Subarray-Sum-Equals-K-PrefixSum-HashMap/
-│   ├── 04-Longest-Common-Subsequence-2D-DP/
-│   ├── 05-Is-Graph-Bipartite-BFS-DFS-Coloring/
-│   ├── 06-Construct-BST-from-Preorder-Traversal-MonotonicStack/
-│   ├── 07-Partition-List-Linked-List-TwoPointers/
-│   ├── 08-Permutations-Medium-Backtracking/
-│   ├── 09-Second-Highest-Salary-SQL/
-│   └── 10-Rank-Scores-SQL/
+├── Day-016/ to Day-030/
+│   ├── 01-3Sum-TwoPointers-Sorting/
+│   ├── 02-Longest-Substring-Without-Repeating-Characters-SlidingWindow/
+│   ├── 03-Group-Anagrams-HashMap-Categorization/
+│   ├── 04-Container-With-Most-Water-TwoPointers/
+│   ├── 05-Product-of-Array-Except-Self-PrefixSuffix/
+│   ├── 06-Spiral-Matrix-II-2DGrid-Simulation/
+│   ├── 07-Sort-Colors-DutchNationalFlag-ThreePointers/
+│   ├── 08-Validate-Binary-Search-Tree-Recursion/
+│   ├── 09-Nth-Highest-Salary-SQL/
+│   └── 10-Consecutive-Numbers-SQL/
 │
 ├── .gitignore
 ├── LICENSE
