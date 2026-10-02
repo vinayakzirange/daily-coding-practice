@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **300** 🎉 *(300-Problem Milestone Reached!)* |
-| **Current Streak** | **30 Days** 🔥 |
+| **Total Problems Completed** | **310** 🎉 |
+| **Current Streak** | **31 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Java, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 031 — Phase 2 Medium Practice: Interval Merging, PowerSet Backtracking, Tree Traversals & SQL (Java / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Merge Intervals | Array / Sorting / Greedy Interval Merging | Java | [Solution](Day-031/01-Merge-Intervals-Sorting-Greedy/Solution.java) |
+| 02 | Subsets | Backtracking / Array / Power Set Generation | JavaScript | [Solution](Day-031/02-Subsets-Backtracking-PowerSet/solution.js) |
+| 03 | Word Search | 2D Grid / DFS / Backtracking | Java | [Solution](Day-031/03-Word-Search-2DGrid-Backtracking/Solution.java) |
+| 04 | Letter Combinations of a Phone Number | String / Backtracking / Combination Mapping | JavaScript | [Solution](Day-031/04-Letter-Combinations-of-a-Phone-Number-Backtracking/solution.js) |
+| 05 | Binary Tree Level Order Traversal | Binary Tree / BFS / Queue Level Traversal | Java | [Solution](Day-031/05-Binary-Tree-Level-Order-Traversal-BFS/Solution.java) |
+| 06 | Construct Binary Tree from Inorder and Postorder Traversal | Binary Tree / Divide & Conquer / Recursion | JavaScript | [Solution](Day-031/06-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/solution.js) |
+| 07 | Binary Tree Zigzag Level Order Traversal | Binary Tree / BFS / Deque Level Traversal | Java | [Solution](Day-031/07-Binary-Tree-Zigzag-Level-Order-Traversal-BFS/Solution.java) |
+| 08 | Populating Next Right Pointers in Each Node | Binary Tree / BFS / Constant Space Pointers | JavaScript | [Solution](Day-031/08-Populating-Next-Right-Pointers-in-Each-Node-TreePointers/solution.js) |
+| 09 | Customers Who Never Order | SQL / LEFT JOIN / IS NULL / Subqueries | SQL | [Query](Day-031/09-Customers-Who-Never-Order-SQL/query.sql) |
+| 10 | Department Highest Salary | SQL / Subqueries / IN Operator / GROUP BY | SQL | [Query](Day-031/10-Department-Highest-Salary-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 030 — 💯 300 Problems Milestone! Phase 2 Medium Mastery (Java / JS / SQL)
 
@@ -538,17 +555,17 @@ daily-coding-practice/
 ├── Day-001/ to Day-015/
 │   └── ...150 Java/JS/SQL problems (Phase 1 Easy)...
 │
-├── Day-016/ to Day-030/
-│   ├── 01-3Sum-TwoPointers-Sorting/
-│   ├── 02-Longest-Substring-Without-Repeating-Characters-SlidingWindow/
-│   ├── 03-Group-Anagrams-HashMap-Categorization/
-│   ├── 04-Container-With-Most-Water-TwoPointers/
-│   ├── 05-Product-of-Array-Except-Self-PrefixSuffix/
-│   ├── 06-Spiral-Matrix-II-2DGrid-Simulation/
-│   ├── 07-Sort-Colors-DutchNationalFlag-ThreePointers/
-│   ├── 08-Validate-Binary-Search-Tree-Recursion/
-│   ├── 09-Nth-Highest-Salary-SQL/
-│   └── 10-Consecutive-Numbers-SQL/
+├── Day-016/ to Day-031/
+│   ├── 01-Merge-Intervals-Sorting-Greedy/
+│   ├── 02-Subsets-Backtracking-PowerSet/
+│   ├── 03-Word-Search-2DGrid-Backtracking/
+│   ├── 04-Letter-Combinations-of-a-Phone-Number-Backtracking/
+│   ├── 05-Binary-Tree-Level-Order-Traversal-BFS/
+│   ├── 06-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/
+│   ├── 07-Binary-Tree-Zigzag-Level-Order-Traversal-BFS/
+│   ├── 08-Populating-Next-Right-Pointers-in-Each-Node-TreePointers/
+│   ├── 09-Customers-Who-Never-Order-SQL/
+│   └── 10-Department-Highest-Salary-SQL/
 │
 ├── .gitignore
 ├── LICENSE
