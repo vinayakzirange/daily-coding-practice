@@ -17,3 +17,11 @@ yarn-error.log*
 
 # Temporary scripts
 generate-day*.js
+push-day*.js
+finish-push-day*.js
+
+# Python cache & build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
