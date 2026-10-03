@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **310** 🎉 |
-| **Current Streak** | **31 Days** 🔥 |
+| **Total Problems Completed** | **320** 🎉 |
+| **Current Streak** | **32 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Java, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 032 — Phase 2 Medium Practice: Backtracking Combinations, Multi-Source BFS, Graph Cloning & Union-Find (Java / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Combination Sum II | Backtracking / Array / Duplicate Handling | Java | [Solution](Day-032/01-Combination-Sum-II-Backtracking/Solution.java) |
+| 02 | Rotting Oranges | 2D Grid / Multi-Source BFS / Matrix Queue | JavaScript | [Solution](Day-032/02-Rotting-Oranges-BFS-Grid/solution.js) |
+| 03 | Reorder List | Linked List / Fast & Slow Pointers / In-Place Reversal | Java | [Solution](Day-032/03-Reorder-List-TwoPointers/Solution.java) |
+| 04 | Next Greater Element II | Monotonic Stack / Circular Array Modulo | JavaScript | [Solution](Day-032/04-Next-Greater-Element-II-Monotonic-Stack/solution.js) |
+| 05 | Clone Graph | Graph / Breadth-First Search / HashMap Clone | Java | [Solution](Day-032/05-Clone-Graph-BFS-DFS/Solution.java) |
+| 06 | House Robber III | Binary Tree / Dynamic Programming / Post-Order DFS | JavaScript | [Solution](Day-032/06-House-Robber-III-Tree-DP/solution.js) |
+| 07 | Number of Provinces | Graph / Disjoint Set Union (DSU) / Connected Components | Java | [Solution](Day-032/07-Number-of-Provinces-UnionFind/Solution.java) |
+| 08 | Accounts Merge | Disjoint Set Union / Graph / String Manipulation | JavaScript | [Solution](Day-032/08-Accounts-Merge-UnionFind/solution.js) |
+| 09 | Game Play Analysis III | SQL / Window Functions / Cumulative SUM() OVER() | SQL | [Query](Day-032/09-Game-Play-Analysis-III-SQL/query.sql) |
+| 10 | Consecutive Available Seats | SQL / Window Functions LAG & LEAD / Self-Join | SQL | [Query](Day-032/10-Consecutive-Available-Seats-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 031 — Phase 2 Medium Practice: Interval Merging, PowerSet Backtracking, Tree Traversals & SQL (Java / JS / SQL)
 
@@ -555,17 +572,17 @@ daily-coding-practice/
 ├── Day-001/ to Day-015/
 │   └── ...150 Java/JS/SQL problems (Phase 1 Easy)...
 │
-├── Day-016/ to Day-031/
-│   ├── 01-Merge-Intervals-Sorting-Greedy/
-│   ├── 02-Subsets-Backtracking-PowerSet/
-│   ├── 03-Word-Search-2DGrid-Backtracking/
-│   ├── 04-Letter-Combinations-of-a-Phone-Number-Backtracking/
-│   ├── 05-Binary-Tree-Level-Order-Traversal-BFS/
-│   ├── 06-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/
-│   ├── 07-Binary-Tree-Zigzag-Level-Order-Traversal-BFS/
-│   ├── 08-Populating-Next-Right-Pointers-in-Each-Node-TreePointers/
-│   ├── 09-Customers-Who-Never-Order-SQL/
-│   └── 10-Department-Highest-Salary-SQL/
+├── Day-016/ to Day-032/
+│   ├── 01-Combination-Sum-II-Backtracking/
+│   ├── 02-Rotting-Oranges-BFS-Grid/
+│   ├── 03-Reorder-List-TwoPointers/
+│   ├── 04-Next-Greater-Element-II-Monotonic-Stack/
+│   ├── 05-Clone-Graph-BFS-DFS/
+│   ├── 06-House-Robber-III-Tree-DP/
+│   ├── 07-Number-of-Provinces-UnionFind/
+│   ├── 08-Accounts-Merge-UnionFind/
+│   ├── 09-Game-Play-Analysis-III-SQL/
+│   └── 10-Consecutive-Available-Seats-SQL/
 │
 ├── .gitignore
 ├── LICENSE
