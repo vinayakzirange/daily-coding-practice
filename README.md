@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **320** 🎉 |
-| **Current Streak** | **32 Days** 🔥 |
+| **Total Problems Completed** | **330** 🎉 |
+| **Current Streak** | **33 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 033 — Phase 2 Medium Practice: Greedy Jumps, Topological Sort, Knapsack DP, LCA & Monotonic Stack (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Jump Game II | Array / Greedy / BFS Interval | Python | [Solution](Day-033/01-Jump-Game-II-Greedy-Array/solution.py) |
+| 02 | Course Schedule | Graph / Topological Sort / Kahn BFS | JavaScript | [Solution](Day-033/02-Course-Schedule-Graph-Topological-Sort/solution.js) |
+| 03 | Coin Change II | Dynamic Programming / Unbounded Knapsack / Combinations | Python | [Solution](Day-033/03-Coin-Change-2-Unbounded-Knapsack-DP/solution.py) |
+| 04 | Kth Largest Element in an Array | Array / QuickSelect Algorithm / Heap | JavaScript | [Solution](Day-033/04-Kth-Largest-Element-in-an-Array-QuickSelect/solution.js) |
+| 05 | Lowest Common Ancestor of a Binary Tree | Binary Tree / DFS / Divide & Conquer | Python | [Solution](Day-033/05-Lowest-Common-Ancestor-Binary-Tree-DFS/solution.py) |
+| 06 | Daily Temperatures | Monotonic Stack / Array / Next Greater Element | JavaScript | [Solution](Day-033/06-Daily-Temperatures-Monotonic-Stack/solution.js) |
+| 07 | Longest Repeating Character Replacement | String / Sliding Window / Frequency Map | Python | [Solution](Day-033/07-Longest-Repeating-Character-Replacement-SlidingWindow/solution.py) |
+| 08 | Find Minimum in Rotated Sorted Array | Array / Binary Search / Rotated Sorted Array | JavaScript | [Solution](Day-033/08-Find-Minimum-in-Rotated-Sorted-Array-BinarySearch/solution.js) |
+| 09 | Market Analysis I | SQL / LEFT JOIN / GROUP BY / Aggregation | SQL | [Query](Day-033/09-Market-Analysis-I-SQL/query.sql) |
+| 10 | Sales Analysis III | SQL / GROUP BY / HAVING / Date Filtering | SQL | [Query](Day-033/10-Sales-Analysis-III-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 032 — Phase 2 Medium Practice: Backtracking Combinations, Multi-Source BFS, Graph Cloning & Union-Find (Python / JS / SQL)
 
