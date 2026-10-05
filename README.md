@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **330** 🎉 |
-| **Current Streak** | **33 Days** 🔥 |
+| **Total Problems Completed** | **340** 🎉 |
+| **Current Streak** | **34 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 034 — Phase 2 Medium Practice: Subsets with Duplicates, Tree Right View, Redundant Graph & Heap Merging (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Subsets II | Backtracking / Array / Duplicate Handling | Python | [Solution](Day-034/01-Subsets-II-Backtracking-Duplicates/solution.py) |
+| 02 | Binary Tree Right Side View | Binary Tree / BFS / Level-Order Traversal | JavaScript | [Solution](Day-034/02-Binary-Tree-Right-Side-View-BFS/solution.js) |
+| 03 | Redundant Connection | Graph / Disjoint Set Union (DSU) / Cycle Detection | Python | [Solution](Day-034/03-Redundant-Connection-UnionFind/solution.py) |
+| 04 | Minimum Number of Arrows to Burst Balloons | Array / Greedy / Intervals / Sorting | JavaScript | [Solution](Day-034/04-Minimum-Number-of-Arrows-to-Burst-Balloons-Greedy/solution.js) |
+| 05 | All Paths From Source to Target | Graph / DFS / Backtracking / DAG | Python | [Solution](Day-034/05-All-Paths-From-Source-to-Target-DFS/solution.py) |
+| 06 | Generate Parentheses | String / Backtracking / Catalan Recursion | JavaScript | [Solution](Day-034/06-Generate-Parentheses-Backtracking/solution.js) |
+| 07 | Find K Pairs with Smallest Sums | Array / Min-Heap / Priority Queue / K-way Merge | Python | [Solution](Day-034/07-Find-K-Pairs-with-Smallest-Sums-Heap/solution.py) |
+| 08 | Search a 2D Matrix II | 2D Matrix / Staircase Search / Divide & Conquer | JavaScript | [Solution](Day-034/08-Search-a-2D-Matrix-II-BinarySearch/solution.js) |
+| 09 | Product Price at a Given Date | SQL / Window Functions / Subqueries / COALESCE | SQL | [Query](Day-034/09-Product-Price-at-a-Given-Date-SQL/query.sql) |
+| 10 | Last Person to Fit in the Bus | SQL / Window Functions / Cumulative SUM() / Filtering | SQL | [Query](Day-034/10-Last-Person-to-Fit-in-the-Bus-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 033 — Phase 2 Medium Practice: Greedy Jumps, Topological Sort, Knapsack DP, LCA & Monotonic Stack (Python / JS / SQL)
 
