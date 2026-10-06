@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **340** 🎉 |
-| **Current Streak** | **34 Days** 🔥 |
+| **Total Problems Completed** | **350** 🎉 |
+| **Current Streak** | **35 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 035 — Phase 2 Medium Practice: Interval Insertion, Nth Node Deletion, 01 Matrix BFS & Sudoku Matrix (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Insert Interval | Array / Intervals / Greedy / Simulation | Python | [Solution](Day-035/01-Insert-Interval-Greedy-Array/solution.py) |
+| 02 | Remove Nth Node From End of List | Linked List / Fast & Slow Two Pointers / Sentinel Dummy | JavaScript | [Solution](Day-035/02-Remove-Nth-Node-From-End-of-List-TwoPointers/solution.js) |
+| 03 | 01 Matrix | 2D Grid / Multi-Source BFS / Distance Matrix | Python | [Solution](Day-035/03-01-Matrix-BFS-MultiSource/solution.py) |
+| 04 | Asteroid Collision | Array / Stack / Simulation / Directional Collisions | JavaScript | [Solution](Day-035/04-Asteroid-Collision-Stack-Simulation/solution.js) |
+| 05 | Find First and Last Position of Element in Sorted Array | Array / Binary Search / Lower & Upper Bound | Python | [Solution](Day-035/05-Find-First-and-Last-Position-in-Sorted-Array-BinarySearch/solution.py) |
+| 06 | Path Sum III | Binary Tree / DFS / Prefix Sum Hash Map | JavaScript | [Solution](Day-035/06-Path-Sum-III-Binary-Tree-PrefixSum/solution.js) |
+| 07 | Valid Sudoku | 2D Matrix / Hash Set / 3x3 Sub-box Validation | Python | [Solution](Day-035/07-Valid-Sudoku-Matrix-HashSet/solution.py) |
+| 08 | Simplify Path | String / Stack / Canonical Unix File Path | JavaScript | [Solution](Day-035/08-Simplify-Path-Stack-String/solution.js) |
+| 09 | Confirmation Rate | SQL / LEFT JOIN / GROUP BY / ROUND / AVG | SQL | [Query](Day-035/09-Confirmation-Rate-SQL/query.sql) |
+| 10 | Product Sales Analysis III | SQL / Subquery / Multi-column IN / MIN(year) | SQL | [Query](Day-035/10-Product-Sales-Analysis-III-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 034 — Phase 2 Medium Practice: Subsets with Duplicates, Tree Right View, Redundant Graph & Heap Merging (Python / JS / SQL)
 
