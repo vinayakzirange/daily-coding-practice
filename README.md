@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **350** 🎉 |
-| **Current Streak** | **35 Days** 🔥 |
+| **Total Problems Completed** | **360** 🎉 |
+| **Current Streak** | **36 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 036 — Phase 2 Medium Practice: Random Pointer Copy, QuickSelect Points, Division DFS & Contiguous Array (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Copy List with Random Pointer | Linked List / Hash Table / Deep Copy | Python | [Solution](Day-036/01-Copy-List-with-Random-Pointer-HashMap/solution.py) |
+| 02 | K Closest Points to Origin | Array / QuickSelect / Heap / Geometry | JavaScript | [Solution](Day-036/02-K-Closest-Points-to-Origin-QuickSelect/solution.js) |
+| 03 | Sum Root to Leaf Numbers | Binary Tree / DFS / Tree Path Numbers | Python | [Solution](Day-036/03-Sum-Root-to-Leaf-Numbers-Tree-DFS/solution.py) |
+| 04 | Keys and Rooms | Graph / BFS / DFS / Reachability / Queue | JavaScript | [Solution](Day-036/04-Keys-and-Rooms-Graph-BFS-DFS/solution.js) |
+| 05 | Evaluate Division | Graph / DFS / Weighted Directed Graph | Python | [Solution](Day-036/05-Evaluate-Division-Graph-DFS/solution.py) |
+| 06 | Contiguous Array | Array / Prefix Sum / Hash Table | JavaScript | [Solution](Day-036/06-Contiguous-Array-PrefixSum-HashMap/solution.js) |
+| 07 | Permutations II | Array / Backtracking / Duplicate Handling | Python | [Solution](Day-036/07-Permutations-II-Backtracking-Duplicates/solution.py) |
+| 08 | Remove Duplicates from Sorted List II | Linked List / Two Pointers / Dummy Sentinel | JavaScript | [Solution](Day-036/08-Remove-Duplicates-from-Sorted-List-II-TwoPointers/solution.js) |
+| 09 | Students and Examinations | SQL / CROSS JOIN / LEFT JOIN / GROUP BY | SQL | [Query](Day-036/09-Students-and-Examinations-SQL/query.sql) |
+| 10 | Percentage of Users Attended a Contest | SQL / Subquery / Aggregation / ROUND / ORDER BY | SQL | [Query](Day-036/10-Percentage-of-Users-Attended-a-Contest-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 035 — Phase 2 Medium Practice: Interval Insertion, Nth Node Deletion, 01 Matrix BFS & Sudoku Matrix (Python / JS / SQL)
 
