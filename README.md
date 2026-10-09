@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **360** 🎉 |
-| **Current Streak** | **36 Days** 🔥 |
+| **Total Problems Completed** | **370** 🎉 |
+| **Current Streak** | **37 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 037 — Phase 2 Medium Practice: Interval Intersections, Min Remove Parens, Ancestor Max Diff, Car Fleet & Closed Islands (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Interval List Intersections | Array / Two Pointers / Intervals | Python | [Solution](Day-037/01-Interval-List-Intersections-TwoPointers/solution.py) |
+| 02 | Minimum Remove to Make Valid Parentheses | String / Stack / Greedy | JavaScript | [Solution](Day-037/02-Minimum-Remove-to-Make-Valid-Parentheses-Stack/solution.js) |
+| 03 | Maximum Difference Between Node and Ancestor | Binary Tree / DFS / Min-Max Path Tracking | Python | [Solution](Day-037/03-Maximum-Difference-Between-Node-and-Ancestor-Tree-DFS/solution.py) |
+| 04 | Number of Closed Islands | 2D Grid / DFS / Flood Fill / Connected Components | JavaScript | [Solution](Day-037/04-Number-of-Closed-Islands-Grid-DFS/solution.js) |
+| 05 | Minimum Falling Path Sum | 2D Matrix / Dynamic Programming | Python | [Solution](Day-037/05-Minimum-Falling-Path-Sum-Matrix-DP/solution.py) |
+| 06 | Car Fleet | Array / Stack / Sorting / Greedy Simulation | JavaScript | [Solution](Day-037/06-Car-Fleet-MonotonicStack-Sorting/solution.js) |
+| 07 | Reorganize String | String / Max-Heap / Greedy / Frequency Map | Python | [Solution](Day-037/07-Reorganize-String-MaxHeap-Greedy/solution.py) |
+| 08 | Swap Nodes in Pairs | Linked List / Two Pointers / Pointer Manipulation | JavaScript | [Solution](Day-037/08-Swap-Nodes-in-Pairs-LinkedList-TwoPointers/solution.js) |
+| 09 | The Number of Employees Which Report to Each Employee | SQL / Self JOIN / GROUP BY / ROUND / ORDER BY | SQL | [Query](Day-037/09-The-Number-of-Employees-Which-Report-to-Each-Employee-SQL/query.sql) |
+| 10 | Primary Department for Each Employee | SQL / Window Functions / Subqueries / UNION / GROUP BY | SQL | [Query](Day-037/10-Primary-Department-for-Each-Employee-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 036 — Phase 2 Medium Practice: Random Pointer Copy, QuickSelect Points, Division DFS & Contiguous Array (Python / JS / SQL)
 
