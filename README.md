@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **370** 🎉 |
-| **Current Streak** | **37 Days** 🔥 |
+| **Total Problems Completed** | **380** 🎉 |
+| **Current Streak** | **38 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 038 — Phase 2 Medium Practice: Combination Sum III, Longest Palindromic Subseq, Snakes & Ladders, In-Place Duplicates (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Combination Sum III | Array / Backtracking / Combination | Python | [Solution](Day-038/01-Combination-Sum-III-Backtracking/solution.py) |
+| 02 | Longest Palindromic Subsequence | Dynamic Programming / String / Subsequence | JavaScript | [Solution](Day-038/02-Longest-Palindromic-Subsequence-DP/solution.js) |
+| 03 | Snakes and Ladders | Breadth-First Search / Shortest Path / Grid Simulation | Python | [Solution](Day-038/03-Snakes-and-Ladders-BFS-Board/solution.py) |
+| 04 | Find All Duplicates in an Array | Array / In-Place Hashing / Index Marking | JavaScript | [Solution](Day-038/04-Find-All-Duplicates-in-an-Array-InPlace/solution.js) |
+| 05 | Top K Frequent Words | Hash Table / Priority Queue / Custom Sorting | Python | [Solution](Day-038/05-Top-K-Frequent-Words-Heap/solution.py) |
+| 06 | Count Complete Tree Nodes | Binary Tree / Binary Search / Complete Tree | JavaScript | [Solution](Day-038/06-Count-Complete-Tree-Nodes-BinarySearch/solution.js) |
+| 07 | Flatten a Multilevel Doubly Linked List | Linked List / Doubly Linked List / DFS / Stack | Python | [Solution](Day-038/07-Flatten-Multilevel-Doubly-Linked-List-DFS/solution.py) |
+| 08 | Rotate List | Linked List / Two Pointers / Modulo Arithmetic | JavaScript | [Solution](Day-038/08-Rotate-List-LinkedList-TwoPointers/solution.js) |
+| 09 | Average Selling Price | SQL / LEFT JOIN / GROUP BY / Aggregation / ROUND | SQL | [Query](Day-038/09-Average-Selling-Price-SQL/query.sql) |
+| 10 | Managers with at Least 5 Direct Reports | SQL / Subquery / GROUP BY / HAVING / IN | SQL | [Query](Day-038/10-Managers-with-at-Least-5-Direct-Reports-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 037 — Phase 2 Medium Practice: Interval Intersections, Min Remove Parens, Ancestor Max Diff, Car Fleet & Closed Islands (Python / JS / SQL)
 
