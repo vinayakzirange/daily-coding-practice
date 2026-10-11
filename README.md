@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **380** 🎉 |
-| **Current Streak** | **38 Days** 🔥 |
+| **Total Problems Completed** | **390** 🎉 |
+| **Current Streak** | **39 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 039 — Phase 2 Medium Practice: Largest Number, Max Consecutive Ones III, Open Lock, Max Width Binary Tree & Shortest Bridge (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Largest Number | Greedy / Custom Sorting / String | Python | [Solution](Day-039/01-Largest-Number-Greedy-Sorting/solution.py) |
+| 02 | Max Consecutive Ones III | Sliding Window / Two Pointers / Array | JavaScript | [Solution](Day-039/02-Max-Consecutive-Ones-III-SlidingWindow/solution.js) |
+| 03 | Open the Lock | Breadth-First Search / Hash Set / Shortest Path | Python | [Solution](Day-039/03-Open-the-Lock-BFS-Queue/solution.py) |
+| 04 | Maximum Width of Binary Tree | Binary Tree / Breadth-First Search / Level Indexing | JavaScript | [Solution](Day-039/04-Maximum-Width-of-Binary-Tree-BFS/solution.js) |
+| 05 | Subarray Product Less Than K | Sliding Window / Two Pointers / Prefix Calculations | Python | [Solution](Day-039/05-Subarray-Product-Less-Than-K-SlidingWindow/solution.py) |
+| 06 | Minimum Cost For Tickets | Dynamic Programming / Memoization / Array | JavaScript | [Solution](Day-039/06-Minimum-Cost-For-Tickets-DynamicProgramming/solution.js) |
+| 07 | Time Based Key-Value Store | Hash Table / Binary Search / Design / Sorted Storage | Python | [Solution](Day-039/07-Time-Based-Key-Value-Store-BinarySearch/solution.py) |
+| 08 | Shortest Bridge | Matrix / DFS Island Marking / Multi-Source BFS | JavaScript | [Solution](Day-039/08-Shortest-Bridge-BFS-DFS/solution.js) |
+| 09 | Project Employees I | SQL / INNER JOIN / GROUP BY / Aggregation / ROUND / AVG | SQL | [Query](Day-039/09-Project-Employees-I-SQL/query.sql) |
+| 10 | User Activity for the Past 30 Days I | SQL / Date Range Filtering / Aggregation / COUNT(DISTINCT) | SQL | [Query](Day-039/10-User-Activity-for-the-Past-30-Days-I-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 038 — Phase 2 Medium Practice: Combination Sum III, Longest Palindromic Subseq, Snakes & Ladders, In-Place Duplicates (Python / JS / SQL)
 
