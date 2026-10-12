@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **390** 🎉 |
-| **Current Streak** | **39 Days** 🔥 |
+| **Total Problems Completed** | **400** 🎉 |
+| **Current Streak** | **40 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 040 — Phase 2 Medium Practice: Gas Station, Daily Temps, Pacific Atlantic, Min Size Subarray & Construct Tree (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Gas Station | Greedy / Array / Circular Traversal | Python | [Solution](Day-040/01-Gas-Station-Greedy/solution.py) |
+| 02 | Daily Temperatures | Stack / Monotonic Stack / Array | JavaScript | [Solution](Day-040/02-Daily-Temperatures-MonotonicStack/solution.js) |
+| 03 | Pacific Atlantic Water Flow | Depth-First Search / Breadth-First Search / Matrix / Graph | Python | [Solution](Day-040/03-Pacific-Atlantic-Water-Flow-Matrix-BFS/solution.py) |
+| 04 | Minimum Size Subarray Sum | Array / Sliding Window / Two Pointers | JavaScript | [Solution](Day-040/04-Minimum-Size-Subarray-Sum-SlidingWindow/solution.js) |
+| 05 | Construct Binary Tree from Preorder and Inorder Traversal | Tree / Divide and Conquer / Binary Tree / Hash Table | Python | [Solution](Day-040/05-Construct-Binary-Tree-Preorder-Inorder-DFS/solution.py) |
+| 06 | Palindromic Substrings | Two Pointers / String / Dynamic Programming | JavaScript | [Solution](Day-040/06-Palindromic-Substrings-DynamicProgramming/solution.js) |
+| 07 | Decode String | String / Stack / Recursion | Python | [Solution](Day-040/07-Decode-String-Stack-Parsing/solution.py) |
+| 08 | Partition Equal Subset Sum | Dynamic Programming / Array / 0-1 Knapsack | JavaScript | [Solution](Day-040/08-Partition-Equal-Subset-Sum-DP/solution.js) |
+| 09 | Consecutive Numbers | SQL / Window Functions / LEAD / Filtering | SQL | [Query](Day-040/09-Consecutive-Numbers-SQL/query.sql) |
+| 10 | Count Salary Categories | SQL / UNION / CASE WHEN / Aggregation / Categorization | SQL | [Query](Day-040/10-Count-Salary-Categories-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 039 — Phase 2 Medium Practice: Largest Number, Max Consecutive Ones III, Open Lock, Max Width Binary Tree & Shortest Bridge (Python / JS / SQL)
 
