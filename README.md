@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **400** 🎉 |
-| **Current Streak** | **40 Days** 🔥 |
+| **Total Problems Completed** | **410** 🎉 |
+| **Current Streak** | **41 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 041 — Phase 2 Medium Practice: Word Break, Dutch Colors, LIS Patience, Subarray Sum K & Rotting Oranges (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Word Break | String / Dynamic Programming / Hash Set | Python | [Solution](Day-041/01-Word-Break-DynamicProgramming/solution.py) |
+| 02 | Sort Colors | Array / Two Pointers / Dutch National Flag Algorithm | JavaScript | [Solution](Day-041/02-Sort-Colors-DutchNationalFlag/solution.js) |
+| 03 | Longest Increasing Subsequence | Array / Binary Search / Patience Sorting / DP | Python | [Solution](Day-041/03-Longest-Increasing-Subsequence-DP-BinarySearch/solution.py) |
+| 04 | Subarray Sum Equals K | Array / Hash Table / Prefix Sum | JavaScript | [Solution](Day-041/04-Subarray-Sum-Equals-K-PrefixSum/solution.js) |
+| 05 | Course Schedule | Graph / Topological Sort / Kahn's BFS Algorithm | Python | [Solution](Day-041/05-Course-Schedule-Graph-TopologicalSort/solution.py) |
+| 06 | Rotting Oranges | Breadth-First Search / Matrix / Multi-Source BFS | JavaScript | [Solution](Day-041/06-Rotting-Oranges-MultiSource-BFS/solution.js) |
+| 07 | Letter Combinations of a Phone Number | Hash Table / String / Backtracking / Combinations | Python | [Solution](Day-041/07-Letter-Combinations-of-a-Phone-Number-Backtracking/solution.py) |
+| 08 | Coin Change | Dynamic Programming / Unbounded Knapsack | JavaScript | [Solution](Day-041/08-Coin-Change-UnboundedKnapsack-DP/solution.js) |
+| 09 | Department Highest Salary | SQL / JOIN / Subquery / Window Function (DENSE_RANK) | SQL | [Query](Day-041/09-Department-Highest-Salary-SQL/query.sql) |
+| 10 | Investments in 2016 | SQL / Subqueries / GROUP BY / HAVING / Window Functions | SQL | [Query](Day-041/10-Investments-in-2016-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 040 — Phase 2 Medium Practice: Gas Station, Daily Temps, Pacific Atlantic, Min Size Subarray & Construct Tree (Python / JS / SQL)
 
