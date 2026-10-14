@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **410** 🎉 |
-| **Current Streak** | **41 Days** 🔥 |
+| **Total Problems Completed** | **420** 🎉 |
+| **Current Streak** | **42 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 042 — Phase 2 Medium Practice: Longest Consecutive, Container Most Water, Non-overlapping, Course Schedule II & Target Sum (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Longest Consecutive Sequence | Array / Hash Table / O(n) Sequence Tracking | Python | [Solution](Day-042/01-Longest-Consecutive-Sequence-HashSet/solution.py) |
+| 02 | Container With Most Water | Array / Two Pointers / Greedy Area Maximization | JavaScript | [Solution](Day-042/02-Container-With-Most-Water-TwoPointers/solution.js) |
+| 03 | Non-overlapping Intervals | Greedy / Intervals / Interval Scheduling / Sorting | Python | [Solution](Day-042/03-Non-overlapping-Intervals-Greedy/solution.py) |
+| 04 | Course Schedule II | Graph / Topological Sort / Kahn's BFS Algorithm | JavaScript | [Solution](Day-042/04-Course-Schedule-II-TopologicalSort-BFS/solution.js) |
+| 05 | Target Sum | Dynamic Programming / 0-1 Knapsack / Subset Sum | Python | [Solution](Day-042/05-Target-Sum-DynamicProgramming/solution.py) |
+| 06 | Lowest Common Ancestor of a Binary Tree | Tree / Depth-First Search / Binary Tree Recursion | JavaScript | [Solution](Day-042/06-Lowest-Common-Ancestor-Binary-Tree-DFS/solution.js) |
+| 07 | Surrounded Regions | Matrix / Boundary DFS / Flood Fill | Python | [Solution](Day-042/07-Surrounded-Regions-Matrix-DFS/solution.py) |
+| 08 | Merge Intervals | Array / Sorting / Intervals Merging | JavaScript | [Solution](Day-042/08-Merge-Intervals-Sorting-Greedy/solution.js) |
+| 09 | Customers Who Bought All Products | SQL / GROUP BY / HAVING / COUNT(DISTINCT) | SQL | [Query](Day-042/09-Customers-Who-Bought-All-Products-SQL/query.sql) |
+| 10 | Exchange Seats | SQL / CASE WHEN / Window Functions / Arithmetic Swapping | SQL | [Query](Day-042/10-Exchange-Seats-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 041 — Phase 2 Medium Practice: Word Break, Dutch Colors, LIS Patience, Subarray Sum K & Rotting Oranges (Python / JS / SQL)
 
