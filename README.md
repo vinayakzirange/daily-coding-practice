@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **420** 🎉 |
-| **Current Streak** | **42 Days** 🔥 |
+| **Total Problems Completed** | **430** 🎉 |
+| **Current Streak** | **43 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 043 — Phase 2 Medium Practice: House Robber II, 3Sum Closest, Character Replace, Clone Graph & Spiral Matrix (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | House Robber II | Dynamic Programming / Array / Circular Subproblem | Python | [Solution](Day-043/01-House-Robber-II-DynamicProgramming/solution.py) |
+| 02 | 3Sum Closest | Array / Two Pointers / Sorting | JavaScript | [Solution](Day-043/02-3Sum-Closest-TwoPointers/solution.js) |
+| 03 | Longest Repeating Character Replacement | Hash Table / String / Sliding Window | Python | [Solution](Day-043/03-Longest-Repeating-Character-Replacement-SlidingWindow/solution.py) |
+| 04 | Kth Smallest Element in a BST | Tree / Inorder Traversal / Binary Search Tree | JavaScript | [Solution](Day-043/04-Kth-Smallest-Element-in-a-BST-Inorder/solution.js) |
+| 05 | Clone Graph | Graph / Breadth-First Search / Hash Table Deep Copy | Python | [Solution](Day-043/05-Clone-Graph-BFS-DFS/solution.py) |
+| 06 | Unique Paths | Dynamic Programming / Math / 2D Grid / Rolling Array | JavaScript | [Solution](Day-043/06-Unique-Paths-DynamicProgramming/solution.js) |
+| 07 | Combination Sum | Array / Backtracking / Combinations | Python | [Solution](Day-043/07-Combination-Sum-Backtracking/solution.py) |
+| 08 | Spiral Matrix | Array / Matrix / Simulation / Layer Traversal | JavaScript | [Solution](Day-043/08-Spiral-Matrix-Simulation/solution.js) |
+| 09 | Restaurant Growth | SQL / Window Functions / 7-Day Rolling Window / Moving AVG | SQL | [Query](Day-043/09-Restaurant-Growth-SQL/query.sql) |
+| 10 | Game Play Analysis IV | SQL / Subqueries / DATE_ADD / Aggregation / Retention | SQL | [Query](Day-043/10-Game-Play-Analysis-IV-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 042 — Phase 2 Medium Practice: Longest Consecutive, Container Most Water, Non-overlapping, Course Schedule II & Target Sum (Python / JS / SQL)
 
