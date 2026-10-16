@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **430** 🎉 |
-| **Current Streak** | **43 Days** 🔥 |
+| **Total Problems Completed** | **440** 🎉 |
+| **Current Streak** | **44 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 044 — Phase 2 Medium Practice: Palindrome Partitioning, Rotated Binary Search, Edit Distance & Trie (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Palindrome Partitioning | String / Dynamic Programming / Backtracking | Python | [Solution](Day-044/01-Palindrome-Partitioning-Backtracking/solution.py) |
+| 02 | Search in Rotated Sorted Array | Array / Binary Search / Modified Two-Halves | JavaScript | [Solution](Day-044/02-Search-in-Rotated-Sorted-Array-BinarySearch/solution.js) |
+| 03 | Edit Distance | String / Dynamic Programming / Levenshtein Distance | Python | [Solution](Day-044/03-Edit-Distance-DynamicProgramming/solution.py) |
+| 04 | Rotate Image | Array / Math / Matrix / In-Place Transpose & Reverse | JavaScript | [Solution](Day-044/04-Rotate-Image-Matrix-InPlace/solution.js) |
+| 05 | Flatten Binary Tree to Linked List | Tree / Depth-First Search / Morris Traversal | Python | [Solution](Day-044/05-Flatten-Binary-Tree-to-Linked-List-DFS/solution.py) |
+| 06 | Implement Trie (Prefix Tree) | Hash Table / String / Design / Trie | JavaScript | [Solution](Day-044/06-Implement-Trie-Prefix-Tree/solution.js) |
+| 07 | House Robber | Array / Dynamic Programming / Linear State | Python | [Solution](Day-044/07-House-Robber-DynamicProgramming/solution.py) |
+| 08 | Min Stack | Stack / Design / O(1) Auxiliary Min Tracking | JavaScript | [Solution](Day-044/08-Min-Stack-Design/solution.js) |
+| 09 | Immediate Food Delivery II | SQL / Subqueries / Aggregation / CASE WHEN / ROUND | SQL | [Query](Day-044/09-Immediate-Food-Delivery-II-SQL/query.sql) |
+| 10 | Monthly Transactions I | SQL / Date Formatting / Conditional Aggregation | SQL | [Query](Day-044/10-Monthly-Transactions-I-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 043 — Phase 2 Medium Practice: House Robber II, 3Sum Closest, Character Replace, Clone Graph & Spiral Matrix (Python / JS / SQL)
 
