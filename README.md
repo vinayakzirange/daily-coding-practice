@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **440** 🎉 |
-| **Current Streak** | **44 Days** 🔥 |
+| **Total Problems Completed** | **450** 🎉 |
+| **Current Streak** | **45 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 045 — Phase 2 Medium Practice: Subarray Divisibility, 2D Matrix Search, Multiply Strings & Triangle (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Subarray Sums Divisible by K | Array / Hash Table / Prefix Sum / Modulo Arithmetic | Python | [Solution](Day-045/01-Subarray-Sums-Divisible-by-K-PrefixSum/solution.py) |
+| 02 | Search a 2D Matrix | Array / Binary Search / Matrix Coordinate Mapping | JavaScript | [Solution](Day-045/02-Search-a-2D-Matrix-BinarySearch/solution.js) |
+| 03 | Continuous Subarray Sum | Array / Hash Table / Math / Prefix Sum Remainders | Python | [Solution](Day-045/03-Continuous-Subarray-Sum-PrefixSum/solution.py) |
+| 04 | Multiply Strings | Math / String / Simulation / Elementary Long Multiplication | JavaScript | [Solution](Day-045/04-Multiply-Strings-Simulation/solution.js) |
+| 05 | Convert Sorted List to Binary Search Tree | Linked List / Divide and Conquer / Tree / Binary Search Tree | Python | [Solution](Day-045/05-Convert-Sorted-List-to-BST-DFS/solution.py) |
+| 06 | Odd Even Linked List | Linked List / Two Pointers / Parity Split Recombination | JavaScript | [Solution](Day-045/06-Odd-Even-Linked-List-TwoPointers/solution.js) |
+| 07 | Triangle | Array / Dynamic Programming / In-Place Bottom-Up | Python | [Solution](Day-045/07-Triangle-DynamicProgramming/solution.py) |
+| 08 | Reverse Linked List II | Linked List / Two Pointers / Sublist Reversal | JavaScript | [Solution](Day-045/08-Reverse-Linked-List-II-TwoPointers/solution.js) |
+| 09 | Employees Whose Manager Left the Company | SQL / Subqueries / Filtering / ORDER BY | SQL | [Query](Day-045/09-Employees-Whose-Manager-Left-SQL/query.sql) |
+| 10 | Find Followers Count | SQL / Aggregation / GROUP BY / COUNT / ORDER BY | SQL | [Query](Day-045/10-Find-Followers-Count-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 044 — Phase 2 Medium Practice: Palindrome Partitioning, Rotated Binary Search, Edit Distance & Trie (Python / JS / SQL)
 
