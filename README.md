@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **450** 🎉 |
-| **Current Streak** | **45 Days** 🔥 |
+| **Total Problems Completed** | **460** 🎉 |
+| **Current Streak** | **46 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 046 — Phase 2 Medium Practice: Fraction to Recurring Decimal, Reverse Words, Cycle II & Monotonic Stack (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Fraction to Recurring Decimal | Hash Table / Math / String / Long Division Simulation | Python | [Solution](Day-046/01-Fraction-to-Recurring-Decimal-Math/solution.py) |
+| 02 | Reverse Words in a String | Two Pointers / String / Right-to-Left Traversal | JavaScript | [Solution](Day-046/02-Reverse-Words-in-a-String-TwoPointers/solution.js) |
+| 03 | Linked List Cycle II | Linked List / Two Pointers / Floyd's Tortoise and Hare | Python | [Solution](Day-046/03-Linked-List-Cycle-II-TwoPointers/solution.py) |
+| 04 | Compare Version Numbers | Two Pointers / String / Revision Chunk Parsing | JavaScript | [Solution](Day-046/04-Compare-Version-Numbers-TwoPointers/solution.js) |
+| 05 | Repeated DNA Sequences | Hash Table / String / Bit Manipulation / Rolling Hash | Python | [Solution](Day-046/05-Repeated-DNA-Sequences-BitManipulation/solution.py) |
+| 06 | Basic Calculator II | Math / String / Stack / Operator Precedence | JavaScript | [Solution](Day-046/06-Basic-Calculator-II-Stack/solution.js) |
+| 07 | Ugly Number II | Math / Dynamic Programming / Three Pointers | Python | [Solution](Day-046/07-Ugly-Number-II-DynamicProgramming/solution.py) |
+| 08 | Remove Duplicate Letters | String / Stack / Greedy / Monotonic Stack | JavaScript | [Solution](Day-046/08-Remove-Duplicate-Letters-MonotonicStack/solution.js) |
+| 09 | Number of Unique Subjects Taught by Each Teacher | SQL / Aggregation / COUNT DISTINCT / GROUP BY | SQL | [Query](Day-046/09-Number-of-Unique-Subjects-Taught-SQL/query.sql) |
+| 10 | Biggest Single Number | SQL / Subqueries / Aggregation / GROUP BY / HAVING / MAX | SQL | [Query](Day-046/10-Biggest-Single-Number-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 045 — Phase 2 Medium Practice: Subarray Divisibility, 2D Matrix Search, Multiply Strings & Triangle (Python / JS / SQL)
 
