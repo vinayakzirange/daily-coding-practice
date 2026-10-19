@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **460** 🎉 |
-| **Current Streak** | **46 Days** 🔥 |
+| **Total Problems Completed** | **470** 🎉 |
+| **Current Streak** | **47 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 047 — Phase 2 Medium Practice: Perfect Squares, Remove K Digits, Coin Change II & Queue Reconstruction (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Perfect Squares | Math / Dynamic Programming / Lagrange's Four-Square | Python | [Solution](Day-047/01-Perfect-Squares-DynamicProgramming/solution.py) |
+| 02 | Sort Characters By Frequency | Hash Table / String / Bucket Sort | JavaScript | [Solution](Day-047/02-Sort-Characters-By-Frequency-BucketSort/solution.js) |
+| 03 | Sum of Two Integers | Math / Bit Manipulation / Bitwise Adder | Python | [Solution](Day-047/03-Sum-of-Two-Integers-BitManipulation/solution.py) |
+| 04 | Remove K Digits | String / Stack / Greedy / Monotonic Stack | JavaScript | [Solution](Day-047/04-Remove-K-Digits-MonotonicStack/solution.js) |
+| 05 | Coin Change II | Array / Dynamic Programming / Unbounded Knapsack | Python | [Solution](Day-047/05-Coin-Change-II-DynamicProgramming/solution.py) |
+| 06 | Kth Smallest Element in a Sorted Matrix | Array / Binary Search / Matrix Search | JavaScript | [Solution](Day-047/06-Kth-Smallest-in-Sorted-Matrix-BinarySearch/solution.js) |
+| 07 | Beautiful Arrangement | Dynamic Programming / Backtracking / Bitmask | Python | [Solution](Day-047/07-Beautiful-Arrangement-Backtracking/solution.py) |
+| 08 | Queue Reconstruction by Height | Array / Sorting / Greedy Insertion | JavaScript | [Solution](Day-047/08-Queue-Reconstruction-by-Height-Greedy/solution.js) |
+| 09 | Queries Quality and Percentage | SQL / Aggregation / ROUND / AVG / CASE WHEN | SQL | [Query](Day-047/09-Queries-Quality-and-Percentage-SQL/query.sql) |
+| 10 | Not Boring Movies | SQL / Filtering / Modulo Arithmetic / ORDER BY | SQL | [Query](Day-047/10-Not-Boring-Movies-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 046 — Phase 2 Medium Practice: Fraction to Recurring Decimal, Reverse Words, Cycle II & Monotonic Stack (Python / JS / SQL)
 
