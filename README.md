@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **470** 🎉 |
-| **Current Streak** | **47 Days** 🔥 |
+| **Total Problems Completed** | **480** 🎉 |
+| **Current Streak** | **48 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 048 — Phase 2 Medium Practice: Wiggle Subsequence, 132 Pattern, 4Sum II & Stock with Cooldown (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Wiggle Subsequence | Array / Dynamic Programming / Greedy Peak-Valley | Python | [Solution](Day-048/01-Wiggle-Subsequence-Greedy/solution.py) |
+| 02 | String Compression | Two Pointers / String / In-Place Read-Write | JavaScript | [Solution](Day-048/02-String-Compression-TwoPointers/solution.js) |
+| 03 | 132 Pattern | Array / Stack / Monotonic Decreasing Stack | Python | [Solution](Day-048/03-132-Pattern-MonotonicStack/solution.py) |
+| 04 | 4Sum II | Array / Hash Table / Pairwise Complement Lookup | JavaScript | [Solution](Day-048/04-4Sum-II-HashMap/solution.js) |
+| 05 | Increasing Triplet Subsequence | Array / Greedy / Two-Variable Tracking | Python | [Solution](Day-048/05-Increasing-Triplet-Subsequence-Greedy/solution.py) |
+| 06 | Add Two Numbers II | Linked List / Math / Stack Without Reversal | JavaScript | [Solution](Day-048/06-Add-Two-Numbers-II-Stack/solution.js) |
+| 07 | Best Time to Buy and Sell Stock with Cooldown | Array / Dynamic Programming / State Machine | Python | [Solution](Day-048/07-Stock-with-Cooldown-DynamicProgramming/solution.py) |
+| 08 | Integer Break | Math / Dynamic Programming / Factor of 3 Optimization | JavaScript | [Solution](Day-048/08-Integer-Break-Math-DP/solution.js) |
+| 09 | Average Time of Process per Machine | SQL / Self-Join / Aggregation / ROUND / AVG | SQL | [Query](Day-048/09-Average-Time-of-Process-per-Machine-SQL/query.sql) |
+| 10 | Classes More Than 5 Students | SQL / Aggregation / GROUP BY / COUNT / HAVING | SQL | [Query](Day-048/10-Classes-More-Than-5-Students-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 047 — Phase 2 Medium Practice: Perfect Squares, Remove K Digits, Coin Change II & Queue Reconstruction (Python / JS / SQL)
 
