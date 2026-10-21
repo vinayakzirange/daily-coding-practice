@@ -595,7 +595,7 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 ---
 
-### 🟢 Phase 1: Foundational Easy Practice Phase
+### 🟢 Phase 1: Foundational Easy Practice Phase.
 
 #### 🔹 Day 015 — 💯 150 Problems Milestone! Foundational Easy Mastery (Python / JS / SQL)
 
