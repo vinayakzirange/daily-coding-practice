@@ -13,8 +13,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📌 Repository Overview
 
 * **Objective:** Solve 10 genuine coding problems every single day.
-* **Focus Areas:** Arrays, Strings, Searching, Sorting, Hashing, Recursion, Linked Lists, Stacks, Queues, Binary Trees, Tries, Disjoint Sets, Dynamic Programming, SQL.
-* **Target Languages:** Python, JavaScript, SQL.
+* **Focus Areas:** Arrays, Strings, Searching, Sorting, Hashing, Recursion, Linked Lists, Stacks, Queues, Binary Trees, Tries, Disjoint Sets, Dynamic Programming, SQL...
+* **Target Languages:** Python, JavaScript, SQL...
 
 ---
 
