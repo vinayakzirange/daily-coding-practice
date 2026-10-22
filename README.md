@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **480** 🎉 |
-| **Current Streak** | **48 Days** 🔥 |
+| **Total Problems Completed** | **490** 🎉 |
+| **Current Streak** | **49 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 049 — Phase 2 Medium Practice: Stock with Fee, Genetic Mutation, Matchsticks & Heaters (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Best Time to Buy and Sell Stock with Transaction Fee | Array / Dynamic Programming / Greedy State Optimization | Python | [Solution](Day-049/01-Stock-with-Transaction-Fee-DynamicProgramming/solution.py) |
+| 02 | Minimum Genetic Mutation | Hash Table / String / Breadth-First Search | JavaScript | [Solution](Day-049/02-Minimum-Genetic-Mutation-BFS/solution.js) |
+| 03 | Find Right Interval | Array / Binary Search / Sorting | Python | [Solution](Day-049/03-Find-Right-Interval-BinarySearch/solution.py) |
+| 04 | Validate IP Address | String / IPv4 & IPv6 Parser | JavaScript | [Solution](Day-049/04-Validate-IP-Address-String/solution.js) |
+| 05 | Minimum Moves to Equal Array Elements II | Array / Math / Median Optimization | Python | [Solution](Day-049/05-Minimum-Moves-to-Equal-Array-Elements-II-Math/solution.py) |
+| 06 | Matchsticks to Square | Array / Dynamic Programming / Backtracking / Pruning | JavaScript | [Solution](Day-049/06-Matchsticks-to-Square-Backtracking/solution.js) |
+| 07 | Ones and Zeroes | Array / String / Dynamic Programming / 2D Knapsack | Python | [Solution](Day-049/07-Ones-and-Zeroes-DynamicProgramming/solution.py) |
+| 08 | Heaters | Array / Two Pointers / Binary Search / Sorting | JavaScript | [Solution](Day-049/08-Heaters-BinarySearch/solution.js) |
+| 09 | Employee Bonus | SQL / LEFT JOIN / Filtering / NULL Handling | SQL | [Query](Day-049/09-Employee-Bonus-SQL/query.sql) |
+| 10 | Rising Temperature | SQL / Self-Join / Date Arithmetic / DATEDIFF | SQL | [Query](Day-049/10-Rising-Temperature-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 048 — Phase 2 Medium Practice: Wiggle Subsequence, 132 Pattern, 4Sum II & Stock with Cooldown (Python / JS / SQL)
 
