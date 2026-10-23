@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **490** 🎉 |
-| **Current Streak** | **49 Days** 🔥 |
+| **Total Problems Completed** | **500** 🏆 (500 Problem Milestone Reached!) |
+| **Current Streak** | **50 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 050 — 🏆 500 PROBLEMS & 50-DAY MILESTONE: Single Number II, MHTs, Arithmetic Slices & Max XOR (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Single Number II | Array / Bit Manipulation / Triplet Modulo State | Python | [Solution](Day-050/01-Single-Number-II-BitManipulation/solution.py) |
+| 02 | Rotate Function | Array / Math / Dynamic Programming Transition | JavaScript | [Solution](Day-050/02-Rotate-Function-Math/solution.js) |
+| 03 | Minimum Height Trees | Graph / Topological Sort / Centroid Trimming BFS | Python | [Solution](Day-050/03-Minimum-Height-Trees-GraphBFS/solution.py) |
+| 04 | UTF-8 Validation | Array / Bit Manipulation / Octet Sequence Parsing | JavaScript | [Solution](Day-050/04-UTF-8-Validation-BitManipulation/solution.js) |
+| 05 | Arithmetic Slices | Array / Dynamic Programming / Streak Accumulation | Python | [Solution](Day-050/05-Arithmetic-Slices-DynamicProgramming/solution.py) |
+| 06 | Shuffle an Array | Array / Math / Randomized / Fisher-Yates Design | JavaScript | [Solution](Day-050/06-Shuffle-an-Array-FisherYates/solution.js) |
+| 07 | Maximum XOR of Two Numbers in an Array | Array / Bit Manipulation / Prefix Trie Search | Python | [Solution](Day-050/07-Maximum-XOR-of-Two-Numbers-Trie/solution.py) |
+| 08 | Longest Absolute File Path | String / Stack / Depth Tracking | JavaScript | [Solution](Day-050/08-Longest-Absolute-File-Path-Stack/solution.js) |
+| 09 | Article Views I | SQL / Filtering / DISTINCT / ORDER BY | SQL | [Query](Day-050/09-Article-Views-I-SQL/query.sql) |
+| 10 | Recyclable and Low Fat Products | SQL / Filtering / Conditional Logic | SQL | [Query](Day-050/10-Recyclable-and-Low-Fat-Products-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 049 — Phase 2 Medium Practice: Stock with Fee, Genetic Mutation, Matchsticks & Heaters (Python / JS / SQL)
 
