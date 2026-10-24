@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **500** 🏆 (500 Problem Milestone Reached!) |
-| **Current Streak** | **50 Days** 🔥 |
+| **Total Problems Completed** | **510** 🎉 |
+| **Current Streak** | **51 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 051 — Phase 2 Medium Practice: Single Number III, Water & Jug, Palindrome Partitioning II & N-ary Tree (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Single Number III | Array / Bit Manipulation / XOR Two's Complement Partition | Python | [Solution](Day-051/01-Single-Number-III-BitManipulation/solution.py) |
+| 02 | Water and Jug Problem | Math / Euclidean GCD / Bézout's Identity | JavaScript | [Solution](Day-051/02-Water-and-Jug-Problem-Math/solution.js) |
+| 03 | Maximum Product of Word Lengths | Array / String / Bitmask / Bitwise Disjoint Optimization | Python | [Solution](Day-051/03-Max-Product-of-Word-Lengths-Bitmask/solution.py) |
+| 04 | Integer Replacement | Dynamic Programming / Greedy / Bit Manipulation | JavaScript | [Solution](Day-051/04-Integer-Replacement-BitManipulation/solution.js) |
+| 05 | Nth Digit | Math / Digit-Length Bucket Range Analysis | Python | [Solution](Day-051/05-Nth-Digit-Math/solution.py) |
+| 06 | Random Pick Index | Hash Table / Design / Randomized Index Selection | JavaScript | [Solution](Day-051/06-Random-Pick-Index-Design/solution.js) |
+| 07 | Palindrome Partitioning II | String / Dynamic Programming / Center Expansion | Python | [Solution](Day-051/07-Palindrome-Partitioning-II-DP/solution.py) |
+| 08 | N-ary Tree Level Order Traversal | Tree / Breadth-First Search / Queue | JavaScript | [Solution](Day-051/08-N-ary-Tree-Level-Order-BFS/solution.js) |
+| 09 | Customer Who Visited but Did Not Make Any Transactions | SQL / LEFT JOIN / NULL Filtering / COUNT / GROUP BY | SQL | [Query](Day-051/09-Customer-Visited-No-Transactions-SQL/query.sql) |
+| 10 | Find Customer Referee | SQL / Filtering / NULL Handling / Boolean Logic | SQL | [Query](Day-051/10-Find-Customer-Referee-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 050 — 🏆 500 PROBLEMS & 50-DAY MILESTONE: Single Number II, MHTs, Arithmetic Slices & Max XOR (Python / JS / SQL)
 
