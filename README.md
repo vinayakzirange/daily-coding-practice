@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **510** 🎉 |
-| **Current Streak** | **51 Days** 🔥 |
+| **Total Problems Completed** | **520** 🎉 |
+| **Current Streak** | **52 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 052 — Phase 2 Medium Practice: Unique BSTs, BST Iterator, Max Binary Tree & Tree Distance (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Unique Binary Search Trees | Math / Dynamic Programming / Catalan Numbers | Python | [Solution](Day-052/01-Unique-Binary-Search-Trees-DP/solution.py) |
+| 02 | Binary Search Tree Iterator | Stack / Design / BST / In-Order Iterator | JavaScript | [Solution](Day-052/02-Binary-Search-Tree-Iterator-Design/solution.js) |
+| 03 | All Nodes Distance K in Binary Tree | Tree / Breadth-First Search / Parent Mapping | Python | [Solution](Day-052/03-All-Nodes-Distance-K-Binary-Tree-BFS/solution.py) |
+| 04 | Binary Tree Level Order Traversal II | Tree / Breadth-First Search / Bottom-Up Order | JavaScript | [Solution](Day-052/04-Binary-Tree-Level-Order-Traversal-II-BFS/solution.js) |
+| 05 | Maximum Binary Tree | Tree / Monotonic Stack / Cartesian Tree Construction | Python | [Solution](Day-052/05-Maximum-Binary-Tree-MonotonicStack/solution.py) |
+| 06 | Trim a Binary Search Tree | Tree / Depth-First Search / BST Recursion | JavaScript | [Solution](Day-052/06-Trim-a-Binary-Search-Tree-DFS/solution.js) |
+| 07 | Delete Node in a BST | Tree / Binary Search Tree / In-Order Successor Deletion | Python | [Solution](Day-052/07-Delete-Node-in-a-BST-Tree/solution.py) |
+| 08 | Smallest Subtree with all the Deepest Nodes | Tree / Depth-First Search / Post-Order LCA | JavaScript | [Solution](Day-052/08-Smallest-Subtree-Deepest-Nodes-DFS/solution.js) |
+| 09 | Replace Employee ID With The Unique Identifier | SQL / LEFT JOIN / Database Design | SQL | [Query](Day-052/09-Replace-Employee-ID-With-Identifier-SQL/query.sql) |
+| 10 | Invalid Tweets | SQL / String Functions / LENGTH / Filtering | SQL | [Query](Day-052/10-Invalid-Tweets-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 051 — Phase 2 Medium Practice: Single Number III, Water & Jug, Palindrome Partitioning II & N-ary Tree (Python / JS / SQL)
 
