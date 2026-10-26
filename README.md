@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **520** 🎉 |
-| **Current Streak** | **52 Days** 🔥 |
+| **Total Problems Completed** | **530** 🎉 |
+| **Current Streak** | **53 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 053 — Phase 2 Medium Practice: Interleaving String, Insert Delete GetRandom O(1), RSQ 2D & Elimination Game (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Interleaving String | String / Dynamic Programming / 2D DP Grid | Python | [Solution](Day-053/01-Interleaving-String-DynamicProgramming/solution.py) |
+| 02 | Insert Delete GetRandom O(1) | Array / Hash Table / Design / Randomized | JavaScript | [Solution](Day-053/02-Insert-Delete-GetRandom-O1-Design/solution.js) |
+| 03 | Largest Divisible Subset | Array / Math / Dynamic Programming / Sorting | Python | [Solution](Day-053/03-Largest-Divisible-Subset-DP/solution.py) |
+| 04 | Single Element in a Sorted Array | Array / Binary Search / Parity Indexing | JavaScript | [Solution](Day-053/04-Single-Element-in-a-Sorted-Array-BinarySearch/solution.js) |
+| 05 | Range Sum Query 2D - Immutable | Array / Design / Matrix / 2D Prefix Sum | Python | [Solution](Day-053/05-Range-Sum-Query-2D-PrefixSum/solution.py) |
+| 06 | Lexicographical Numbers | Depth-First Search / Trie / 10-ary Traversal | JavaScript | [Solution](Day-053/06-Lexicographical-Numbers-DFS/solution.js) |
+| 07 | Elimination Game | Math / Recursion / Head Pointer Simulation | Python | [Solution](Day-053/07-Elimination-Game-Recursion/solution.py) |
+| 08 | Valid Parenthesis String | String / Dynamic Programming / Stack / Greedy | JavaScript | [Solution](Day-053/08-Valid-Parenthesis-String-Greedy/solution.js) |
+| 09 | Actors and Directors Who Cooperated At Least Three Times | Database / SQL / GROUP BY / HAVING | SQL | [Query](Day-053/09-Actors-and-Directors-Cooperated-SQL/query.sql) |
+| 10 | Customer Placing the Largest Number of Orders | Database / SQL / Aggregation / Sorting | SQL | [Query](Day-053/10-Customer-Placing-Largest-Orders-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 052 — Phase 2 Medium Practice: Unique BSTs, BST Iterator, Max Binary Tree & Tree Distance (Python / JS / SQL)
 
