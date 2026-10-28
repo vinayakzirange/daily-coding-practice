@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **530** 🎉 |
-| **Current Streak** | **53 Days** 🔥 |
+| **Total Problems Completed** | **540** 🎉 |
+| **Current Streak** | **54 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 054 — Phase 2 Medium Practice: Digits from English, Boomerangs, Circular Array Loop & Can I Win (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Reconstruct Original Digits from English | Hash Table / Math / String / Frequency Analysis | Python | [Solution](Day-054/01-Reconstruct-Original-Digits-from-English-Math/solution.py) |
+| 02 | Number of Boomerangs | Array / Hash Table / Math / Euclidean Distance | JavaScript | [Solution](Day-054/02-Number-of-Boomerangs-HashMap/solution.js) |
+| 03 | Circular Array Loop | Array / Hash Table / Two Pointers / Floyd's Cycle | Python | [Solution](Day-054/03-Circular-Array-Loop-TwoPointers/solution.py) |
+| 04 | Can I Win | Dynamic Programming / Bitmask / Minimax / Game Theory | JavaScript | [Solution](Day-054/04-Can-I-Win-MinimaxDP/solution.js) |
+| 05 | Unique Substrings in Wraparound String | String / Dynamic Programming / Alphabet Tracking | Python | [Solution](Day-054/05-Unique-Substrings-in-Wraparound-String-DP/solution.py) |
+| 06 | Total Hamming Distance | Array / Math / Bit Manipulation / Column Counting | JavaScript | [Solution](Day-054/06-Total-Hamming-Distance-BitManipulation/solution.js) |
+| 07 | Magical String | Two Pointers / String / Kolakoski Sequence Simulation | Python | [Solution](Day-054/07-Magical-String-TwoPointers/solution.py) |
+| 08 | Predict the Winner | Array / Dynamic Programming / Minimax Game Theory | JavaScript | [Solution](Day-054/08-Predict-the-Winner-MinimaxDP/solution.js) |
+| 09 | Reformat Department Table | Database / SQL / Conditional Aggregation / Pivot | SQL | [Query](Day-054/09-Reformat-Department-Table-SQL/query.sql) |
+| 10 | List the Products Ordered in a Period | Database / SQL / JOIN / GROUP BY / HAVING / Date | SQL | [Query](Day-054/10-List-the-Products-Ordered-in-a-Period-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 053 — Phase 2 Medium Practice: Interleaving String, Insert Delete GetRandom O(1), RSQ 2D & Elimination Game (Python / JS / SQL)
 
