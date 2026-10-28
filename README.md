@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **540** 🎉 |
-| **Current Streak** | **54 Days** 🔥 |
+| **Total Problems Completed** | **550** 🎉 |
+| **Current Streak** | **55 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 055 — Phase 2 Medium Practice: Diagonal Traverse, Subtree Sum, Word in Dict & Brick Wall (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Diagonal Traverse | Array / Matrix / Simulation / Anti-Diagonal Indexing | Python | [Solution](Day-055/01-Diagonal-Traverse-MatrixSimulation/solution.py) |
+| 02 | Non-decreasing Subsequences | Array / Backtracking / Set Deduplication | JavaScript | [Solution](Day-055/02-Non-decreasing-Subsequences-Backtracking/solution.js) |
+| 03 | Most Frequent Subtree Sum | Tree / Depth-First Search / Post-Order Sum | Python | [Solution](Day-055/03-Most-Frequent-Subtree-Sum-DFS/solution.py) |
+| 04 | Find Bottom Left Tree Value | Tree / Breadth-First Search / Right-to-Left Level Order | JavaScript | [Solution](Day-055/04-Find-Bottom-Left-Tree-Value-BFS/solution.js) |
+| 05 | Longest Word in Dictionary through Deleting | Array / Two Pointers / String / Sorting | Python | [Solution](Day-055/05-Longest-Word-in-Dictionary-TwoPointers/solution.py) |
+| 06 | Minimum Time Difference | Array / Math / Sorting / Circular Wrap | JavaScript | [Solution](Day-055/06-Minimum-Time-Difference-Sorting/solution.js) |
+| 07 | Brick Wall | Array / Hash Table / Edge Frequency Alignment | Python | [Solution](Day-055/07-Brick-Wall-HashMap/solution.py) |
+| 08 | Next Greater Element III | Math / Two Pointers / Next Permutation | JavaScript | [Solution](Day-055/08-Next-Greater-Element-III-Permutation/solution.js) |
+| 09 | Patients With a Condition | Database / SQL / String Pattern Matching / LIKE | SQL | [Query](Day-055/09-Patients-With-a-Condition-SQL/query.sql) |
+| 10 | The Latest Login in 2020 | Database / SQL / Date Functions / Aggregation | SQL | [Query](Day-055/10-The-Latest-Login-in-2020-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 054 — Phase 2 Medium Practice: Digits from English, Boomerangs, Circular Array Loop & Can I Win (Python / JS / SQL)
 
