@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **550** 🎉 |
-| **Current Streak** | **55 Days** 🔥 |
+| **Total Problems Completed** | **560** 🎉 |
+| **Current Streak** | **56 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 056 — Phase 2 Medium Practice: Tree Row Max, K-diff Pairs, Array Nesting & Pair Chain (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Find Largest Value in Each Tree Row | Tree / Breadth-First Search / Level-Order Max | Python | [Solution](Day-056/01-Find-Largest-Value-in-Each-Tree-Row-BFS/solution.py) |
+| 02 | K-diff Pairs in an Array | Array / Hash Table / Frequency Counting | JavaScript | [Solution](Day-056/02-K-diff-Pairs-in-an-Array-HashMap/solution.js) |
+| 03 | Convert BST to Greater Tree | Tree / Binary Search Tree / Reverse In-Order DFS | Python | [Solution](Day-056/03-Convert-BST-to-Greater-Tree-DFS/solution.py) |
+| 04 | Array Nesting | Array / Depth-First Search / Permutation Cycle | JavaScript | [Solution](Day-056/04-Array-Nesting-DFS/solution.js) |
+| 05 | Permutation in String | Hash Table / Two Pointers / Sliding Window | Python | [Solution](Day-056/05-Permutation-in-String-SlidingWindow/solution.py) |
+| 06 | Delete Operation for Two Strings | String / Dynamic Programming / LCS | JavaScript | [Solution](Day-056/06-Delete-Operation-for-Two-Strings-DP/solution.js) |
+| 07 | Valid Triangle Number | Array / Two Pointers / Triangle Inequality | Python | [Solution](Day-056/07-Valid-Triangle-Number-TwoPointers/solution.py) |
+| 08 | Maximum Length of Pair Chain | Greedy / Interval Scheduling / Sorting | JavaScript | [Solution](Day-056/08-Maximum-Length-of-Pair-Chain-Greedy/solution.js) |
+| 09 | Daily Leads and Partners | Database / SQL / GROUP BY / COUNT DISTINCT | SQL | [Query](Day-056/09-Daily-Leads-and-Partners-SQL/query.sql) |
+| 10 | Employees Whose Manager Left the Company | Database / SQL / Subquery / Filtering | SQL | [Query](Day-056/10-Employees-Whose-Manager-Left-the-Company-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 055 — Phase 2 Medium Practice: Diagonal Traverse, Subtree Sum, Word in Dict & Brick Wall (Python / JS / SQL)
 
