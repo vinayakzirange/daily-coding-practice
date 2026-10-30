@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **560** 🎉 |
-| **Current Streak** | **56 Days** 🔥 |
+| **Total Problems Completed** | **570** 🎉 |
+| **Current Streak** | **57 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 057 — Phase 2 Medium Practice: Minesweeper, Random Pick Weight, TinyURL & Valid Square (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Minesweeper | Matrix / Depth-First Search / Grid Revealing | Python | [Solution](Day-057/01-Minesweeper-DFS/solution.py) |
+| 02 | Random Pick with Weight | Array / Prefix Sum / Binary Search / Randomized | JavaScript | [Solution](Day-057/02-Random-Pick-with-Weight-BinarySearch/solution.js) |
+| 03 | Encode and Decode TinyURL | Hash Table / String / System Design / Base62 | Python | [Solution](Day-057/03-Encode-and-Decode-TinyURL-Design/solution.py) |
+| 04 | Complex Number Multiplication | Math / String / Simulation / Arithmetic | JavaScript | [Solution](Day-057/04-Complex-Number-Multiplication-Math/solution.js) |
+| 05 | Fraction Addition and Subtraction | Math / String / Greatest Common Divisor / Simulation | Python | [Solution](Day-057/05-Fraction-Addition-and-Subtraction-Math/solution.py) |
+| 06 | Valid Square | Math / Geometry / Distance Calculation | JavaScript | [Solution](Day-057/06-Valid-Square-Geometry/solution.js) |
+| 07 | Find Duplicate File in System | Array / Hash Table / String Parsing / File Systems | Python | [Solution](Day-057/07-Find-Duplicate-File-in-System-HashMap/solution.py) |
+| 08 | Add One Row to Tree | Tree / Breadth-First Search / Level Insertion | JavaScript | [Solution](Day-057/08-Add-One-Row-to-Tree-BFS/solution.js) |
+| 09 | Swap Salary | Database / SQL / In-Place UPDATE / CASE WHEN | SQL | [Query](Day-057/09-Swap-Salary-SQL/query.sql) |
+| 10 | Triangle Judgement | Database / SQL / Triangle Inequality / CASE WHEN | SQL | [Query](Day-057/10-Triangle-Judgement-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 056 — Phase 2 Medium Practice: Tree Row Max, K-diff Pairs, Array Nesting & Pair Chain (Python / JS / SQL)
 
