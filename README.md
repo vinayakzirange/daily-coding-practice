@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **570** 🎉 |
-| **Current Streak** | **57 Days** 🔥 |
+| **Total Problems Completed** | **580** 🎉 |
+| **Current Streak** | **58 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 058 — Phase 2 Medium Practice: Solve Equation, Replace Words, Dota2 Senate & 2 Keys Keyboard (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Solve the Equation | Math / String / Parsing / Linear Equation | Python | [Solution](Day-058/01-Solve-the-Equation-Math/solution.py) |
+| 02 | Replace Words | Array / Hash Table / String / Trie Prefix Matching | JavaScript | [Solution](Day-058/02-Replace-Words-Trie/solution.js) |
+| 03 | Dota2 Senate | String / Greedy / Queue Simulation | Python | [Solution](Day-058/03-Dota2-Senate-GreedyQueue/solution.py) |
+| 04 | 2 Keys Keyboard | Math / Dynamic Programming / Prime Factorization | JavaScript | [Solution](Day-058/04-2-Keys-Keyboard-DynamicProgramming/solution.js) |
+| 05 | Find Duplicate Subtrees | Tree / Depth-First Search / Binary Tree Serialization | Python | [Solution](Day-058/05-Find-Duplicate-Subtrees-BinaryTree/solution.py) |
+| 06 | Print Binary Tree | Tree / Depth-First Search / Formatted 2D Matrix | JavaScript | [Solution](Day-058/06-Print-Binary-Tree-DFS/solution.js) |
+| 07 | Split Array into Consecutive Subsequences | Array / Hash Table / Greedy / Sequence Extension | Python | [Solution](Day-058/07-Split-Array-into-Consecutive-Subsequences-Greedy/solution.py) |
+| 08 | Beautiful Arrangement II | Array / Math / Alternating Construction | JavaScript | [Solution](Day-058/08-Beautiful-Arrangement-II-Math/solution.js) |
+| 09 | Sales Person | Database / SQL / Subquery / NOT IN / JOIN | SQL | [Query](Day-058/09-Sales-Person-SQL/query.sql) |
+| 10 | Delete Duplicate Emails | Database / SQL / Self-Join DELETE / In-Place | SQL | [Query](Day-058/10-Delete-Duplicate-Emails-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 057 — Phase 2 Medium Practice: Minesweeper, Random Pick Weight, TinyURL & Valid Square (Python / JS / SQL)
 
