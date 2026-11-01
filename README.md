@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **580** 🎉 |
-| **Current Streak** | **58 Days** 🔥 |
+| **Total Problems Completed** | **590** 🎉 |
+| **Current Streak** | **59 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 059 — Phase 2 Medium Practice: Map Sum Pairs, LIS Count, My Calendar I & Champagne Tower (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Map Sum Pairs | Hash Table / String / Trie / Prefix Sum | Python | [Solution](Day-059/01-Map-Sum-Pairs-Trie/solution.py) |
+| 02 | Number of Longest Increasing Subsequence | Dynamic Programming / Binary Indexed Tree / Subsequence Counting | JavaScript | [Solution](Day-059/02-Number-of-Longest-Increasing-Subsequence-DP/solution.js) |
+| 03 | My Calendar I | Binary Search Tree / Interval Overlap / Bisect | Python | [Solution](Day-059/03-My-Calendar-I-BinarySearch/solution.py) |
+| 04 | Max Chunks To Make Sorted | Array / Greedy / Prefix Maximum Tracking | JavaScript | [Solution](Day-059/04-Max-Chunks-to-Make-Sorted-Greedy/solution.js) |
+| 05 | Letter Case Permutation | String / Backtracking / Bit Manipulation | Python | [Solution](Day-059/05-Letter-Case-Permutation-Backtracking/solution.py) |
+| 06 | Champagne Tower | Dynamic Programming / Simulation / Overflow Math | JavaScript | [Solution](Day-059/06-Champagne-Tower-SimulationDP/solution.js) |
+| 07 | Find Eventual Safe States | Depth-First Search / Graph / Topological Sort / Cycle Detection | Python | [Solution](Day-059/07-Find-Eventual-Safe-States-GraphDFS/solution.py) |
+| 08 | Expressive Words | Array / Two Pointers / String Run-Length Encoding | JavaScript | [Solution](Day-059/08-Expressive-Words-TwoPointers/solution.js) |
+| 09 | Combine Two Tables | Database / SQL / LEFT JOIN | SQL | [Query](Day-059/09-Combine-Two-Tables-SQL/query.sql) |
+| 10 | Article Views II | Database / SQL / GROUP BY / HAVING / COUNT DISTINCT | SQL | [Query](Day-059/10-Article-Views-II-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 058 — Phase 2 Medium Practice: Solve Equation, Replace Words, Dota2 Senate & 2 Keys Keyboard (Python / JS / SQL)
 
