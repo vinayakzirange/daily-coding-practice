@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **590** 🎉 |
-| **Current Streak** | **59 Days** 🔥 |
+| **Total Problems Completed** | **600** 🎉 |
+| **Current Streak** | **60 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 060 — Phase 2 Medium Practice: Tree Pruning, Linked List Components, Hand of Straights & Koko Bananas (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Binary Tree Pruning | Tree / Depth-First Search / Binary Tree Post-Order | Python | [Solution](Day-060/01-Binary-Tree-Pruning-TreeDFS/solution.py) |
+| 02 | Linked List Components | Linked List / Hash Table / Connected Components | JavaScript | [Solution](Day-060/02-Linked-List-Components-HashSet/solution.js) |
+| 03 | Friends Of Appropriate Ages | Array / Two Pointers / Binary Search / Counting Sort | Python | [Solution](Day-060/03-Friends-Of-Appropriate-Ages-Counting/solution.py) |
+| 04 | Hand of Straights | Array / Hash Table / Greedy / Sorting | JavaScript | [Solution](Day-060/04-Hand-of-Straights-GreedyMap/solution.js) |
+| 05 | Maximize Distance to Closest Person | Array / Two Pointers / Linear Scan | Python | [Solution](Day-060/05-Maximize-Distance-to-Closest-Person-TwoPointers/solution.py) |
+| 06 | Score After Flipping Matrix | Array / Greedy / Bit Manipulation / Matrix | JavaScript | [Solution](Day-060/06-Score-After-Flipping-Matrix-Greedy/solution.js) |
+| 07 | Score of Parentheses | String / Stack / Tree Recursion | Python | [Solution](Day-060/07-Score-of-Parentheses-Stack/solution.py) |
+| 08 | Koko Eating Bananas | Array / Binary Search / Monotonic Predicate | JavaScript | [Solution](Day-060/08-Koko-Eating-Bananas-BinarySearch/solution.js) |
+| 09 | Game Play Analysis I | Database / SQL / Aggregate MIN / GROUP BY | SQL | [Query](Day-060/09-Game-Play-Analysis-I-SQL/query.sql) |
+| 10 | Highest Grade For Each Student | Database / SQL / Window Function ROW_NUMBER / PARTITION BY | SQL | [Query](Day-060/10-Highest-Grade-For-Each-Student-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 059 — Phase 2 Medium Practice: Map Sum Pairs, LIS Count, My Calendar I & Champagne Tower (Python / JS / SQL)
 
