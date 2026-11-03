@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **600** 🎉 |
-| **Current Streak** | **60 Days** 🔥 |
+| **Total Problems Completed** | **610** 🎉 |
+| **Current Streak** | **61 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 061 — Phase 2 Medium Practice: Boats to Save People, Subarray Minimums, Knight Dialer & Word Subsets (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Boats to Save People | Array / Two Pointers / Greedy / Sorting | Python | [Solution](Day-061/01-Boats-to-Save-People-TwoPointers/solution.py) |
+| 02 | Find and Replace Pattern | Hash Table / String / Two-Way Bijection | JavaScript | [Solution](Day-061/02-Find-and-Replace-Pattern-HashMap/solution.js) |
+| 03 | All Possible Full Binary Trees | Dynamic Programming / Tree / Recursion / Memoization | Python | [Solution](Day-061/03-All-Possible-Full-Binary-Trees-Recursion/solution.py) |
+| 04 | Fruit Into Baskets | Array / Hash Table / Sliding Window | JavaScript | [Solution](Day-061/04-Fruit-Into-Baskets-SlidingWindow/solution.js) |
+| 05 | Sum of Subarray Minimums | Array / Stack / Monotonic Stack / Contribution | Python | [Solution](Day-061/05-Sum-of-Subarray-Minimums-MonotonicStack/solution.py) |
+| 06 | Flip String to Monotone Increasing | String / Dynamic Programming / Greedy | JavaScript | [Solution](Day-061/06-Flip-String-to-Monotone-Increasing-DP/solution.js) |
+| 07 | Knight Dialer | Dynamic Programming / Graph Transitions / Modular Arithmetic | Python | [Solution](Day-061/07-Knight-Dialer-DynamicProgramming/solution.py) |
+| 08 | Word Subsets | Array / Hash Table / String / Frequency Counting | JavaScript | [Solution](Day-061/08-Word-Subsets-Counting/solution.js) |
+| 09 | Apples & Oranges | Database / SQL / Aggregate SUM / CASE WHEN | SQL | [Query](Day-061/09-Apples-and-Oranges-SQL/query.sql) |
+| 10 | Evaluate Boolean Expression | Database / SQL / JOIN / CASE WHEN / Relational Logic | SQL | [Query](Day-061/10-Evaluate-Boolean-Expression-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 060 — Phase 2 Medium Practice: Tree Pruning, Linked List Components, Hand of Straights & Koko Bananas (Python / JS / SQL)
 
