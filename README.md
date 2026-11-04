@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **610** 🎉 |
-| **Current Streak** | **61 Days** 🔥 |
+| **Total Problems Completed** | **620** 🎉 |
+| **Current Streak** | **62 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 062 — Phase 2 Medium Practice: Online Election, Subarrays With Sum, Stack Sequences & Width Ramp (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Online Election | Array / Hash Table / Binary Search / Design | Python | [Solution](Day-062/01-Online-Election-BinarySearch/solution.py) |
+| 02 | Minimum Add to Make Parentheses Valid | String / Stack / Greedy | JavaScript | [Solution](Day-062/02-Minimum-Add-to-Make-Parentheses-Valid-Stack/solution.js) |
+| 03 | Binary Subarrays With Sum | Array / Hash Table / Prefix Sum / Sliding Window | Python | [Solution](Day-062/03-Binary-Subarrays-With-Sum-PrefixSum/solution.py) |
+| 04 | Minimum Increment to Make Array Unique | Array / Greedy / Sorting / Counting | JavaScript | [Solution](Day-062/04-Minimum-Increment-to-Make-Array-Unique-Greedy/solution.js) |
+| 05 | Validate Stack Sequences | Stack / Array / Simulation | Python | [Solution](Day-062/05-Validate-Stack-Sequences-Simulation/solution.py) |
+| 06 | Reveal Cards In Increasing Order | Array / Queue / Simulation / Sorting | JavaScript | [Solution](Day-062/06-Reveal-Cards-In-Increasing-Order-Queue/solution.js) |
+| 07 | Check Completeness of a Binary Tree | Tree / Breadth-First Search / Binary Tree | Python | [Solution](Day-062/07-Check-Completeness-of-Binary-Tree-BFS/solution.py) |
+| 08 | Maximum Width Ramp | Array / Two Pointers / Monotonic Stack | JavaScript | [Solution](Day-062/08-Maximum-Width-Ramp-MonotonicStack/solution.js) |
+| 09 | Team Scores in Football Matches | Database / SQL / JOIN / CASE WHEN / GROUP BY / SUM | SQL | [Query](Day-062/09-Team-Scores-in-Football-Matches-SQL/query.sql) |
+| 10 | Project Employees II | Database / SQL / GROUP BY / HAVING / Subquery | SQL | [Query](Day-062/10-Project-Employees-II-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 061 — Phase 2 Medium Practice: Boats to Save People, Subarray Minimums, Knight Dialer & Word Subsets (Python / JS / SQL)
 
