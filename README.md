@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **620** 🎉 |
-| **Current Streak** | **62 Days** 🔥 |
+| **Total Problems Completed** | **630** 🎉 |
+| **Current Streak** | **63 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 063 — Phase 2 Medium Practice: Pancake Sorting, Distribute Coins, Ship Capacity & Enclaves (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Pancake Sorting | Array / Two Pointers / Greedy / Sorting | Python | [Solution](Day-063/01-Pancake-Sorting-Greedy/solution.py) |
+| 02 | Distribute Coins in Binary Tree | Tree / Depth-First Search / Binary Tree | JavaScript | [Solution](Day-063/02-Distribute-Coins-in-Binary-Tree-DFS/solution.js) |
+| 03 | String Without AAA or BBB | String / Greedy / Math | Python | [Solution](Day-063/03-String-Without-AAA-or-BBB-Greedy/solution.py) |
+| 04 | Smallest String Starting From Leaf | Tree / Depth-First Search / String / Backtracking | JavaScript | [Solution](Day-063/04-Smallest-String-Starting-From-Leaf-DFS/solution.js) |
+| 05 | Minimum Domino Rotations For Equal Row | Array / Greedy | Python | [Solution](Day-063/05-Minimum-Domino-Rotations-For-Equal-Row-Greedy/solution.py) |
+| 06 | Capacity To Ship Packages Within D Days | Array / Binary Search | JavaScript | [Solution](Day-063/06-Capacity-To-Ship-Packages-Within-D-Days-BinarySearch/solution.js) |
+| 07 | Best Sightseeing Pair | Array / Dynamic Programming | Python | [Solution](Day-063/07-Best-Sightseeing-Pair-DynamicProgramming/solution.py) |
+| 08 | Number of Enclaves | Array / Depth-First Search / Matrix / Graph | JavaScript | [Solution](Day-063/08-Number-of-Enclaves-DFS/solution.js) |
+| 09 | Project Employees III | Database / SQL / Window Function DENSE_RANK / Subquery | SQL | [Query](Day-063/09-Project-Employees-III-SQL/query.sql) |
+| 10 | Unpopular Books | Database / SQL / LEFT JOIN / Date Functions | SQL | [Query](Day-063/10-Unpopular-Books-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 062 — Phase 2 Medium Practice: Online Election, Subarrays With Sum, Stack Sequences & Width Ramp (Python / JS / SQL)
 
