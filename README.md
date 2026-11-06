@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **630** 🎉 |
-| **Current Streak** | **63 Days** 🔥 |
+| **Total Problems Completed** | **640** 🎉 |
+| **Current Streak** | **64 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 064 — Phase 2 Medium Practice: Next Greater Node, Two City Scheduling, Uncrossed Lines & String Chain (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Next Greater Node In Linked List | Linked List / Stack / Monotonic Stack | Python | [Solution](Day-064/01-Next-Greater-Node-In-Linked-List-MonotonicStack/solution.py) |
+| 02 | Camelcase Matching | Two Pointers / String / Pattern Matching | JavaScript | [Solution](Day-064/02-Camelcase-Matching-TwoPointers/solution.js) |
+| 03 | Video Stitching | Array / Dynamic Programming / Greedy / Jump Game | Python | [Solution](Day-064/03-Video-Stitching-Greedy/solution.py) |
+| 04 | Two City Scheduling | Array / Greedy / Sorting | JavaScript | [Solution](Day-064/04-Two-City-Scheduling-Greedy/solution.js) |
+| 05 | Maximum Sum of Two Non-Overlapping Subarrays | Array / Dynamic Programming / Prefix Sum | Python | [Solution](Day-064/05-Maximum-Sum-of-Two-Non-Overlapping-Subarrays-PrefixSum/solution.py) |
+| 06 | Uncrossed Lines | Array / Dynamic Programming / Longest Common Subsequence | JavaScript | [Solution](Day-064/06-Uncrossed-Lines-DP/solution.js) |
+| 07 | Grumpy Bookstore Owner | Array / Sliding Window | Python | [Solution](Day-064/07-Grumpy-Bookstore-Owner-SlidingWindow/solution.py) |
+| 08 | Longest String Chain | Array / Hash Table / Two Pointers / Dynamic Programming | JavaScript | [Solution](Day-064/08-Longest-String-Chain-DP/solution.js) |
+| 09 | New Users Daily Count | Database / SQL / Subquery / Date Functions / GROUP BY | SQL | [Query](Day-064/09-New-Users-Daily-Count-SQL/query.sql) |
+| 10 | Active Businesses | Database / SQL / JOIN / Subquery / AVG / GROUP BY | SQL | [Query](Day-064/10-Active-Businesses-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 063 — Phase 2 Medium Practice: Pancake Sorting, Distribute Coins, Ship Capacity & Enclaves (Python / JS / SQL)
 
