@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **640** 🎉 |
-| **Current Streak** | **64 Days** 🔥 |
+| **Total Problems Completed** | **650** 🎉 |
+| **Current Streak** | **65 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 065 — Phase 2 Medium Practice: Robot Bounded In Circle, Partition Array, Distant Barcodes & Car Pooling (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Robot Bounded In Circle | Math / Simulation / Vector | Python | [Solution](Day-065/01-Robot-Bounded-In-Circle-Math/solution.py) |
+| 02 | Partition Array for Maximum Sum | Array / Dynamic Programming | JavaScript | [Solution](Day-065/02-Partition-Array-for-Maximum-Sum-DP/solution.js) |
+| 03 | Last Stone Weight II | Array / Dynamic Programming / 0-1 Knapsack | Python | [Solution](Day-065/03-Last-Stone-Weight-II-KnapsackDP/solution.py) |
+| 04 | Previous Permutation With One Swap | Array / Greedy | JavaScript | [Solution](Day-065/04-Previous-Permutation-With-One-Swap-Greedy/solution.js) |
+| 05 | Distant Barcodes | Array / Hash Table / Greedy / Sorting | Python | [Solution](Day-065/05-Distant-Barcodes-Heap/solution.py) |
+| 06 | Letter Tile Possibilities | String / Backtracking / Counting | JavaScript | [Solution](Day-065/06-Letter-Tile-Possibilities-Backtracking/solution.js) |
+| 07 | Largest Values From Labels | Array / Greedy / Hash Table / Counting | Python | [Solution](Day-065/07-Largest-Values-From-Labels-Greedy/solution.py) |
+| 08 | Car Pooling | Array / Prefix Sum / Difference Array | JavaScript | [Solution](Day-065/08-Car-Pooling-PrefixSum/solution.js) |
+| 09 | Page Recommendations | Database / SQL / Subquery / UNION / NOT IN | SQL | [Query](Day-065/09-Page-Recommendations-SQL/query.sql) |
+| 10 | Running Total for Different Genders | Database / SQL / Window Function SUM OVER / PARTITION BY | SQL | [Query](Day-065/10-Running-Total-for-Different-Genders-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 064 — Phase 2 Medium Practice: Next Greater Node, Two City Scheduling, Uncrossed Lines & String Chain (Python / JS / SQL)
 
