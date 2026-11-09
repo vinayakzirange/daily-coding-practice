@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **650** 🎉 |
-| **Current Streak** | **65 Days** 🔥 |
+| **Total Problems Completed** | **660** 🎉 |
+| **Current Streak** | **66 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 066 — Phase 2 Medium Practice: Zigzag Tree, Flight Bookings, Forest Deletion & Alternating Colors (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Path In Zigzag Labelled Binary Tree | Math / Tree / Binary Tree | Python | [Solution](Day-066/01-Path-In-Zigzag-Labelled-Binary-Tree-Math/solution.py) |
+| 02 | Corporate Flight Bookings | Array / Prefix Sum / Difference Array | JavaScript | [Solution](Day-066/02-Corporate-Flight-Bookings-PrefixSum/solution.js) |
+| 03 | Delete Nodes And Return Forest | Tree / Depth-First Search / Binary Tree | Python | [Solution](Day-066/03-Delete-Nodes-And-Return-Forest-DFS/solution.py) |
+| 04 | Maximum Nesting Depth of Two Valid Parentheses Strings | String / Stack / Greedy | JavaScript | [Solution](Day-066/04-Maximum-Nesting-Depth-of-Two-Valid-Parentheses-Strings-Greedy/solution.js) |
+| 05 | Lowest Common Ancestor of Deepest Leaves | Tree / Depth-First Search / Binary Tree | Python | [Solution](Day-066/05-Lowest-Common-Ancestor-of-Deepest-Leaves-DFS/solution.py) |
+| 06 | Shortest Path with Alternating Colors | Breadth-First Search / Graph | JavaScript | [Solution](Day-066/06-Shortest-Path-with-Alternating-Colors-BFS/solution.js) |
+| 07 | Minimum Cost Tree From Leaf Values | Dynamic Programming / Stack / Monotonic Stack / Greedy | Python | [Solution](Day-066/07-Minimum-Cost-Tree-From-Leaf-Values-MonotonicStack/solution.py) |
+| 08 | Alphabet Board Path | Hash Table / String / Simulation | JavaScript | [Solution](Day-066/08-Alphabet-Board-Path-Simulation/solution.js) |
+| 09 | Monthly Transactions II | Database / SQL / UNION ALL / CASE WHEN / GROUP BY | SQL | [Query](Day-066/09-Monthly-Transactions-II-SQL/query.sql) |
+| 10 | Customers Who Bought Products A and B but Not C | Database / SQL / GROUP BY / HAVING / Subquery | SQL | [Query](Day-066/10-Customers-Who-Bought-Products-A-and-B-but-Not-C-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 065 — Phase 2 Medium Practice: Robot Bounded In Circle, Partition Array, Distant Barcodes & Car Pooling (Python / JS / SQL)
 
