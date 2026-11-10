@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **660** 🎉 |
-| **Current Streak** | **66 Days** 🔥 |
+| **Total Problems Completed** | **670** 🎉 |
+| **Current Streak** | **67 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 067 — Phase 2 Medium Practice: Stone Game, Zigzag Array, Snapshot Array & Dice Rolls (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Stone Game II | Math / Dynamic Programming / Game Theory | Python | [Solution](Day-067/01-Stone-Game-II-GameTheoryDP/solution.py) |
+| 02 | Decrease Elements To Make Array Zigzag | Array / Greedy | JavaScript | [Solution](Day-067/02-Decrease-Elements-To-Make-Array-Zigzag-Greedy/solution.js) |
+| 03 | Snapshot Array | Array / Hash Table / Binary Search / Design | Python | [Solution](Day-067/03-Snapshot-Array-BinarySearch/solution.py) |
+| 04 | Number of Dice Rolls With Target Sum | Dynamic Programming | JavaScript | [Solution](Day-067/04-Number-of-Dice-Rolls-With-Target-Sum-DP/solution.js) |
+| 05 | Maximum Level Sum of a Binary Tree | Tree / Breadth-First Search / Binary Tree | Python | [Solution](Day-067/05-Maximum-Level-Sum-of-a-Binary-Tree-BFS/solution.py) |
+| 06 | As Far from Land as Possible | Array / Dynamic Programming / Breadth-First Search / Matrix | JavaScript | [Solution](Day-067/06-As-Far-from-Land-as-Possible-MultiSourceBFS/solution.js) |
+| 07 | Remove Zero Sum Consecutive Nodes from Linked List | Linked List / Hash Table / Prefix Sum | Python | [Solution](Day-067/07-Remove-Zero-Sum-Consecutive-Nodes-from-Linked-List-PrefixSum/solution.py) |
+| 08 | Reverse Substrings Between Each Pair of Parentheses | String / Stack / Two Pointers | JavaScript | [Solution](Day-067/08-Reverse-Substrings-Between-Each-Pair-of-Parentheses-Stack/solution.js) |
+| 09 | Rectangles Area | Database / SQL / Self Join / Math / Table Expressions | SQL | [Query](Day-067/09-Rectangles-Area-SQL/query.sql) |
+| 10 | Countries You Can Safely Invest In | Database / SQL / JOIN / AVG / Subquery | SQL | [Query](Day-067/10-Countries-You-Can-Safely-Invest-In-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 066 — Phase 2 Medium Practice: Zigzag Tree, Flight Bookings, Forest Deletion & Alternating Colors (Python / JS / SQL)
 
