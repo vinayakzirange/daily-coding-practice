@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **670** 🎉 |
-| **Current Streak** | **67 Days** 🔥 |
+| **Total Problems Completed** | **680** 🎉 |
+| **Current Streak** | **68 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 068 — Phase 2 Medium Practice: Substrings Budget, Duplicate Removal, Max Gold & Square Submatrices (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Get Equal Substrings Within Budget | String / Sliding Window / Prefix Sum | Python | [Solution](Day-068/01-Get-Equal-Substrings-Within-Budget-SlidingWindow/solution.py) |
+| 02 | Remove All Adjacent Duplicates in String II | String / Stack | JavaScript | [Solution](Day-068/02-Remove-All-Adjacent-Duplicates-in-String-II-Stack/solution.js) |
+| 03 | Longest Arithmetic Subsequence of Given Difference | Array / Hash Table / Dynamic Programming | Python | [Solution](Day-068/03-Longest-Arithmetic-Subsequence-of-Given-Difference-DP/solution.py) |
+| 04 | Path with Maximum Gold | Array / Backtracking / Matrix / DFS | JavaScript | [Solution](Day-068/04-Path-with-Maximum-Gold-Backtracking/solution.js) |
+| 05 | Queens That Can Attack the King | Array / Matrix / Simulation | Python | [Solution](Day-068/05-Queens-That-Can-Attack-the-King-Simulation/solution.py) |
+| 06 | Remove Sub-Folders from the Filesystem | Array / String / Trie / Sorting | JavaScript | [Solution](Day-068/06-Remove-Sub-Folders-from-the-Filesystem-Trie/solution.js) |
+| 07 | Count Number of Nice Subarrays | Array / Hash Table / Math / Sliding Window | Python | [Solution](Day-068/07-Count-Number-of-Nice-Subarrays-SlidingWindow/solution.py) |
+| 08 | Count Square Submatrices with All Ones | Array / Dynamic Programming / Matrix | JavaScript | [Solution](Day-068/08-Count-Square-Submatrices-with-All-Ones-DP/solution.js) |
+| 09 | The Most Recent Three Orders | Database / SQL / Window Function ROW_NUMBER / JOIN | SQL | [Query](Day-068/09-The-Most-Recent-Three-Orders-SQL/query.sql) |
+| 10 | The Most Frequently Ordered Products for Each Customer | Database / SQL / Window Function RANK / GROUP BY / JOIN | SQL | [Query](Day-068/10-The-Most-Frequently-Ordered-Products-for-Each-Customer-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 067 — Phase 2 Medium Practice: Stone Game, Zigzag Array, Snapshot Array & Dice Rolls (Python / JS / SQL)
 
