@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **680** 🎉 |
-| **Current Streak** | **68 Days** 🔥 |
+| **Total Problems Completed** | **690** 🎉 |
+| **Current Streak** | **69 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 069 — Phase 2 Medium Practice: Circular Permutation, Max Concatenated String, Divisible Sum & Jump Game (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Circular Permutation in Binary Representation | Math / Bit Manipulation / Gray Code | Python | [Solution](Day-069/01-Circular-Permutation-in-Binary-Representation-GrayCode/solution.py) |
+| 02 | Maximum Length of a Concatenated String with Unique Characters | Array / String / Bit Manipulation / Backtracking | JavaScript | [Solution](Day-069/02-Maximum-Length-of-a-Concatenated-String-with-Unique-Characters-Bitmask/solution.js) |
+| 03 | Greatest Sum Divisible by Three | Array / Dynamic Programming / Greedy | Python | [Solution](Day-069/03-Greatest-Sum-Divisible-by-Three-DP/solution.py) |
+| 04 | Group the People Given the Group Size They Belong To | Array / Hash Table / Greedy | JavaScript | [Solution](Day-069/04-Group-the-People-Given-the-Group-Size-They-Belong-To-Greedy/solution.js) |
+| 05 | Find the Smallest Divisor Given a Threshold | Array / Binary Search | Python | [Solution](Day-069/05-Find-the-Smallest-Divisor-Given-a-Threshold-BinarySearch/solution.py) |
+| 06 | Remove Covered Intervals | Array / Sorting / Greedy | JavaScript | [Solution](Day-069/06-Remove-Covered-Intervals-Greedy/solution.js) |
+| 07 | Sequential Digits | Math / Enumeration / Breadth-First Search | Python | [Solution](Day-069/07-Sequential-Digits-BFS/solution.py) |
+| 08 | Jump Game III | Array / Breadth-First Search / Depth-First Search | JavaScript | [Solution](Day-069/08-Jump-Game-III-BFS/solution.js) |
+| 09 | The Most Recent Orders for Each Product | Database / SQL / Window Function RANK / JOIN | SQL | [Query](Day-069/09-The-Most-Recent-Orders-for-Each-Product-SQL/query.sql) |
+| 10 | Number of Calls Between Two Persons | Database / SQL / GROUP BY / CASE WHEN / SUM | SQL | [Query](Day-069/10-Number-of-Calls-Between-Two-Persons-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 068 — Phase 2 Medium Practice: Substrings Budget, Duplicate Removal, Max Gold & Square Submatrices (Python / JS / SQL)
 
