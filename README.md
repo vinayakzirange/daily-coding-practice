@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **690** 🎉 |
-| **Current Streak** | **69 Days** 🔥 |
+| **Total Problems Completed** | **700** 🎉 |
+| **Current Streak** | **70 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 070 — Phase 2 Medium Practice: Divide Consecutive Sets, Deepest Leaves, 2D Block Sum & Palindrome Break (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Divide Array in Sets of K Consecutive Numbers | Array / Hash Table / Greedy / Sorting | Python | [Solution](Day-070/01-Divide-Array-in-Sets-of-K-Consecutive-Numbers-Greedy/solution.py) |
+| 02 | Deepest Leaves Sum | Tree / Breadth-First Search / Binary Tree | JavaScript | [Solution](Day-070/02-Deepest-Leaves-Sum-BFS/solution.js) |
+| 03 | All Elements in Two Binary Search Trees | Tree / Depth-First Search / BST / Two Pointers | Python | [Solution](Day-070/03-All-Elements-in-Two-Binary-Search-Trees-Inorder/solution.py) |
+| 04 | XOR Queries of a Subarray | Array / Bit Manipulation / Prefix Sum | JavaScript | [Solution](Day-070/04-XOR-Queries-of-a-Subarray-PrefixXOR/solution.js) |
+| 05 | Matrix Block Sum | Array / Matrix / Prefix Sum / 2D Prefix Sum | Python | [Solution](Day-070/05-Matrix-Block-Sum-2DPrefixSum/solution.py) |
+| 06 | Sum of Nodes with Even-Valued Grandparent | Tree / Depth-First Search / Binary Tree | JavaScript | [Solution](Day-070/06-Sum-of-Nodes-with-Even-Valued-Grandparent-DFS/solution.js) |
+| 07 | Break a Palindrome | String / Greedy | Python | [Solution](Day-070/07-Break-a-Palindrome-Greedy/solution.py) |
+| 08 | Reduce Array Size to The Half | Array / Hash Table / Greedy / Sorting | JavaScript | [Solution](Day-070/08-Reduce-Array-Size-to-The-Half-Greedy/solution.js) |
+| 09 | Sellers With No Sales | Database / SQL / Subquery / LEFT JOIN / NOT IN | SQL | [Query](Day-070/09-Sellers-With-No-Sales-SQL/query.sql) |
+| 10 | Biggest Window Between Visits | Database / SQL / Window Function LEAD / DATEDIFF | SQL | [Query](Day-070/10-Biggest-Window-Between-Visits-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 069 — Phase 2 Medium Practice: Circular Permutation, Max Concatenated String, Divisible Sum & Jump Game (Python / JS / SQL)
 
