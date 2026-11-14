@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **700** 🎉 |
-| **Current Streak** | **70 Days** 🔥 |
+| **Total Problems Completed** | **710** 🎉 |
+| **Current Streak** | **71 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 071 — Phase 2 Medium Practice: Network Connections, Diagonal Sort, Clock Angle & Missing IDs (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Number of Operations to Make Network Connected | Depth-First Search / Breadth-First Search / Union Find / Graph | Python | [Solution](Day-071/01-Number-of-Operations-to-Make-Network-Connected-UnionFind/solution.py) |
+| 02 | Print Words Vertically | Array / String / Simulation | JavaScript | [Solution](Day-071/02-Print-Words-Vertically-Simulation/solution.js) |
+| 03 | Delete Leaves With a Given Value | Tree / Depth-First Search / Binary Tree | Python | [Solution](Day-071/03-Delete-Leaves-With-a-Given-Value-DFS/solution.py) |
+| 04 | Sort the Matrix Diagonally | Array / Sorting / Matrix | JavaScript | [Solution](Day-071/04-Sort-the-Matrix-Diagonally-Sorting/solution.js) |
+| 05 | Angle Between Hands of a Clock | Math | Python | [Solution](Day-071/05-Angle-Between-Hands-of-a-Clock-Math/solution.py) |
+| 06 | Minimum Number of Steps to Make Two Strings Anagram | Hash Table / String / Counting | JavaScript | [Solution](Day-071/06-Minimum-Number-of-Steps-to-Make-Two-Strings-Anagram-Counting/solution.js) |
+| 07 | Product of the Last K Numbers | Array / Math / Design / Prefix Product | Python | [Solution](Day-071/07-Product-of-the-Last-K-Numbers-PrefixProduct/solution.py) |
+| 08 | Number of Substrings Containing All Three Characters | Hash Table / String / Sliding Window | JavaScript | [Solution](Day-071/08-Number-of-Substrings-Containing-All-Three-Characters-SlidingWindow/solution.js) |
+| 09 | Find the Missing IDs | Database / SQL / Recursive CTE | SQL | [Query](Day-071/09-Find-the-Missing-IDs-SQL/query.sql) |
+| 10 | Group Employees of the Same Salary | Database / SQL / Window Function DENSE_RANK / Subquery | SQL | [Query](Day-071/10-Group-Employees-of-the-Same-Salary-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 070 — Phase 2 Medium Practice: Divide Consecutive Sets, Deepest Leaves, 2D Block Sum & Palindrome Break (Python / JS / SQL)
 
