@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **710** 🎉 |
-| **Current Streak** | **71 Days** 🔥 |
+| **Total Problems Completed** | **720** 🎉 |
+| **Current Streak** | **72 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 072 — Phase 2 Medium Practice: Binary Tree Validation, Closest Divisors, Vowel Bitmask & Grand Slam Titles (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Validate Binary Tree Nodes | Graph / Binary Tree / DFS / BFS / Union Find | Python | [Solution](Day-072/01-Validate-Binary-Tree-Nodes-Graph/solution.py) |
+| 02 | Closest Divisors | Math / Number Theory | JavaScript | [Solution](Day-072/02-Closest-Divisors-Math/solution.js) |
+| 03 | Longest Substring Containing Vowels in Even Counts | Hash Table / String / Bit Manipulation / Prefix XOR | Python | [Solution](Day-072/03-Longest-Substring-Containing-Vowels-in-Even-Counts-Bitmask/solution.py) |
+| 04 | Longest ZigZag Path in a Binary Tree | Dynamic Programming / Tree / Depth-First Search / Binary Tree | JavaScript | [Solution](Day-072/04-Longest-ZigZag-Path-in-a-Binary-Tree-DFS/solution.js) |
+| 05 | Number of Times Binary String Is Prefix-Aligned | Array / Simulation | Python | [Solution](Day-072/05-Number-of-Times-Binary-String-Is-Prefix-Aligned-Array/solution.py) |
+| 06 | Design a Stack With Increment Operation | Stack / Design / Array / Lazy Propagation | JavaScript | [Solution](Day-072/06-Design-a-Stack-With-Increment-Operation-Design/solution.js) |
+| 07 | Balance a Binary Search Tree | Binary Search Tree / Depth-First Search / Divide and Conquer | Python | [Solution](Day-072/07-Balance-a-Binary-Search-Tree-BST/solution.py) |
+| 08 | Sort Integers by The Power Value | Dynamic Programming / Memoization / Sorting | JavaScript | [Solution](Day-072/08-Sort-Integers-by-The-Power-Value-Sorting/solution.js) |
+| 09 | Grand Slam Titles | Database / SQL / Aggregation / Join / Unpivot | SQL | [Query](Day-072/09-Grand-Slam-Titles-SQL/query.sql) |
+| 10 | Account Balance On a Given Date | Database / SQL / Window Functions / Cumulative Sum | SQL | [Query](Day-072/10-Account-Balance-On-a-Given-Date-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 071 — Phase 2 Medium Practice: Network Connections, Diagonal Sort, Clock Angle & Missing IDs (Python / JS / SQL)
 
