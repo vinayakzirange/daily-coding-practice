@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **720** 🎉 |
-| **Current Streak** | **72 Days** 🔥 |
+| **Total Problems Completed** | **730** 🎉 |
+| **Current Streak** | **73 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 073 — Phase 2 Medium Practice: Teams Counting, Underground System, Palindrome Strings & Subtasks Execution (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Count Number of Teams | Array / Dynamic Programming / Counting | Python | [Solution](Day-073/01-Count-Number-of-Teams-DynamicProgramming/solution.py) |
+| 02 | Design Underground System | Hash Table / String / Design | JavaScript | [Solution](Day-073/02-Design-Underground-System-Design/solution.js) |
+| 03 | Construct K Palindrome Strings | Hash Table / String / Greedy / Counting | Python | [Solution](Day-073/03-Construct-K-Palindrome-Strings-Greedy/solution.py) |
+| 04 | Longest Happy String | String / Greedy / Simulation / Heap | JavaScript | [Solution](Day-073/04-Longest-Happy-String-Greedy/solution.js) |
+| 05 | Queries on a Permutation With Key | Array / Simulation / Binary Indexed Tree | Python | [Solution](Day-073/05-Queries-on-a-Permutation-With-Key-Simulation/solution.py) |
+| 06 | HTML Entity Parser | String / Hash Table / Simulation | JavaScript | [Solution](Day-073/06-HTML-Entity-Parser-String/solution.js) |
+| 07 | The k-th Lexicographical String of All Happy Strings of Length n | String / Backtracking / Recursion / Combinatorics | Python | [Solution](Day-073/07-The-k-th-Lexicographical-String-of-All-Happy-Strings-of-Length-n-Backtracking/solution.py) |
+| 08 | Maximum Points You Can Obtain from Cards | Array / Sliding Window / Prefix Sum | JavaScript | [Solution](Day-073/08-Maximum-Points-You-Can-Obtain-from-Cards-SlidingWindow/solution.js) |
+| 09 | Find the Subtasks That Did Not Execute | Database / SQL / Recursive CTE / Outer Join | SQL | [Query](Day-073/09-Find-the-Subtasks-That-Did-Not-Execute-SQL/query.sql) |
+| 10 | Drop Type 1 Orders for Customers With Type 0 Orders | Database / SQL / Filtering / Subquery / Window Function | SQL | [Query](Day-073/10-Drop-Type-1-Orders-for-Customers-With-Type-0-Orders-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 072 — Phase 2 Medium Practice: Binary Tree Validation, Closest Divisors, Vowel Bitmask & Grand Slam Titles (Python / JS / SQL)
 
