@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **730** 🎉 |
-| **Current Streak** | **73 Days** 🔥 |
+| **Total Problems Completed** | **740** 🎉 |
+| **Current Streak** | **74 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 074 — Phase 2 Medium Practice: Equal XOR Triplets, Substring Vowels, Pseudo Palindromic Paths & Interview Candidates (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Count Triplets That Can Form Two Arrays of Equal XOR | Array / Bit Manipulation / Prefix XOR | Python | [Solution](Day-074/01-Count-Triplets-That-Can-Form-Two-Arrays-of-Equal-XOR-PrefixXOR/solution.py) |
+| 02 | Maximum Number of Vowels in a Substring of Given Length | String / Sliding Window | JavaScript | [Solution](Day-074/02-Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length-SlidingWindow/solution.js) |
+| 03 | Pseudo-Palindromic Paths in a Binary Tree | Tree / Depth-First Search / Bit Manipulation | Python | [Solution](Day-074/03-Pseudo-Palindromic-Paths-in-a-Binary-Tree-Bitmask/solution.py) |
+| 04 | Check If a String Contains All Binary Codes of Size K | Hash Table / String / Bit Manipulation / Set | JavaScript | [Solution](Day-074/04-Check-If-a-String-Contains-All-Binary-Codes-of-Size-K-Set/solution.js) |
+| 05 | Reorder Routes to Make All Paths Lead to the City Zero | Graph / Depth-First Search / Tree | Python | [Solution](Day-074/05-Reorder-Routes-to-Make-All-Paths-Lead-to-the-City-Zero-DFS/solution.py) |
+| 06 | The k Strongest Values in an Array | Array / Two Pointers / Sorting | JavaScript | [Solution](Day-074/06-The-k-Strongest-Values-in-an-Array-TwoPointers/solution.js) |
+| 07 | Design Browser History | Array / Stack / Design / Simulation | Python | [Solution](Day-074/07-Design-Browser-History-Design/solution.py) |
+| 08 | Least Number of Unique Integers after K Removals | Array / Hash Table / Greedy / Sorting | JavaScript | [Solution](Day-074/08-Least-Number-of-Unique-Integers-after-K-Removals-Greedy/solution.js) |
+| 09 | Accepted Candidates From the Interviews | Database / SQL / Aggregate / HAVING / JOIN | SQL | [Query](Day-074/09-Accepted-Candidates-From-the-Interviews-SQL/query.sql) |
+| 10 | Find Cutoff Score for Each School | Database / SQL / LEFT JOIN / Aggregation / COALESCE | SQL | [Query](Day-074/10-Find-Cutoff-Score-for-Each-School-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 073 — Phase 2 Medium Practice: Teams Counting, Underground System, Palindrome Strings & Subtasks Execution (Python / JS / SQL)
 
