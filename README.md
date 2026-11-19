@@ -22,8 +22,8 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Completed** | **740** 🎉 |
-| **Current Streak** | **74 Days** 🔥 |
+| **Total Problems Completed** | **750** 🎉 |
+| **Current Streak** | **75 Days** 🔥 |
 | **Current Mode** | 🟡 **Phase 2: Intermediate / Medium Practice Phase** |
 | **Primary Languages** | Python, JavaScript, SQL |
 | **Current Branch** | `main` |
@@ -33,6 +33,23 @@ A dedicated repository for daily coding practice focused on Data Structures, Alg
 ## 📅 Day-by-Day Index
 
 ### 🟡 Phase 2: Intermediate / Medium Practice Phase
+
+#### 🔹 Day 075 — Phase 2 Medium Practice: Subarray 1s, Divisible Pairs, Plank Ants & Global Rankings (Python / JS / SQL)
+
+| # | Problem Name | Topic | Language | Solution |
+| :-: | :--- | :--- | :-: | :-: |
+| 01 | Longest Subarray of 1's After Deleting One Element | Array / Dynamic Programming / Sliding Window | Python | [Solution](Day-075/01-Longest-Subarray-of-1s-After-Deleting-One-Element-SlidingWindow/solution.py) |
+| 02 | Check If Array Pairs Are Divisible by k | Array / Hash Table / Counting / Math | JavaScript | [Solution](Day-075/02-Check-If-Array-Pairs-Are-Divisible-by-k-Modulo/solution.js) |
+| 03 | Last Moment Before All Ants Fall Out of a Plank | Brainteaser / Simulation / Math | Python | [Solution](Day-075/03-Last-Moment-Before-All-Ants-Fall-Out-of-a-Plank-Brainteaser/solution.py) |
+| 04 | Range Sum of Sorted Subarray Sums | Array / Two Pointers / Sorting / Prefix Sum | JavaScript | [Solution](Day-075/04-Range-Sum-of-Sorted-Subarray-Sums-PrefixSum/solution.js) |
+| 05 | Minimum Difference Between Largest and Smallest Value in Three Moves | Array / Greedy / Sorting | Python | [Solution](Day-075/05-Minimum-Difference-Between-Largest-and-Smallest-Value-in-Three-Moves-Greedy/solution.py) |
+| 06 | Number of Substrings With Only 1s | Math / String | JavaScript | [Solution](Day-075/06-Number-of-Substrings-With-Only-1s-Math/solution.js) |
+| 07 | Number of Good Ways to Split a String | String / Hash Table / Two Pointers / Dynamic Programming | Python | [Solution](Day-075/07-Number-of-Good-Ways-to-Split-a-String-TwoPointers/solution.py) |
+| 08 | Minimum Suffix Flips | String / Greedy | JavaScript | [Solution](Day-075/08-Minimum-Suffix-Flips-Greedy/solution.js) |
+| 09 | Orders With Maximum Quantity Above Average | Database / SQL / Aggregate / HAVING / Subquery | SQL | [Query](Day-075/09-Orders-With-Maximum-Quantity-Above-Average-SQL/query.sql) |
+| 10 | The Change in Global Rankings | Database / SQL / Window Functions / ROW_NUMBER | SQL | [Query](Day-075/10-The-Change-in-Global-Rankings-SQL/query.sql) |
+
+---
 
 #### 🔹 Day 074 — Phase 2 Medium Practice: Equal XOR Triplets, Substring Vowels, Pseudo Palindromic Paths & Interview Candidates (Python / JS / SQL)
 
